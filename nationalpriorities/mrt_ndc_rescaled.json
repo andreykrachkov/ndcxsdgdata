@@ -21,7 +21,7 @@
     {
       "id": 4,
       "importance": 0.0219,
-      "features": "sustainable development",
+      "features": ["sustainable development"],
       "category": "low"
     },
     {
