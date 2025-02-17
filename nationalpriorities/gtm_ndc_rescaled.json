@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1465,
+      "features": ["access basic", "access basic service", "basic service", "rate poverty", "extreme poverty", "base national", "vulnerable population", "population live", "live extreme", "live extreme poverty", "low access"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.4419,
+      "features": ["food security", "soil conservation", "agricultural product", "rural development", "agricultural area", "improve food", "national level", "sustainable agriculture", "agricultural production", "agriculture food", "agricultural productivity", "provide food", "agricultural activity", "increase agricultural", "traditional knowledge", "increase agricultural productivity", "year age", "child year age", "child year", "livestock production", "sector addition", "increase productivity", "key sector", "local government"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.3216,
+      "features": ["health sector", "strategic plan", "goal implement", "health problem", "life expectancy", "cardiovascular disease", "health risk", "health population", "expand coverage", "health goal", "health status", "national level"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.1383,
+      "features": ["national policy", "woman man", "man woman", "woman empowerment", "empowerment woman", "woman age", "ethnic group", "woman government", "address gender", "impact woman", "political economic", "woman situation", "decision make", "meeting hold", "social political", "share woman", "population woman"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.1153,
+      "features": ["water resource", "river basin", "water quality", "management water", "sustainable management", "integrate management", "water sanitation", "drinking water", "water resource management", "resource management", "management water resource", "area water", "municipal water", "source drinking water", "source drinking", "increase water", "approach water", "integrate water", "integrate water resource", "country water", "management plan", "urban area", "territorial planning", "protection area"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.5429,
+      "features": ["clean energy", "electric energy", "electricity generation", "renewable energy", "fossil fuel", "electrical energy", "energy sector", "natural gas", "use renewable energy", "use renewable", "clean renewable", "reduce carbon", "energy generation", "electric vehicle", "electric power", "energy electricity", "power generation", "generate electricity", "diversify energy", "come renewable", "consumption electricity", "good practice", "national grid", "measure reduce", "use clean", "power sector", "wind solar", "increase demand", "electricity supply", "energy source", "affordable clean energy", "affordable clean", "carbon neutral", "carbon dioxide", "cost effective", "effort increase", "goal reduce", "international cooperation"],
+      "category": "low"
+    },
+    {
+      "id": 8,
+      "importance": 0.2396,
+      "features": ["private sector", "economic development", "working condition", "employment opportunity", "economic growth", "include climate", "sustainable economy", "promote international"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.0946,
+      "features": ["research development", "development infrastructure", "promote innovation", "achieve goal", "infrastructure plan", "climate change resilience", "change resilience", "technical support"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0793,
+      "features": ["process ensure", "basic service", "economic growth", "provide opportunity", "goal reduce", "policy measure"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.753,
+      "features": ["land use", "solid waste", "risk management", "early warning", "basic service", "local government", "promote use", "population live", "plan include", "sustainable city", "disaster risk", "urban area", "city community", "living condition", "sustainable city community", "development plan", "city local", "economic loss", "disaster risk management", "solid waste disposal", "territorial development", "rural development", "planning process", "land use plan", "use plan"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.2142,
+      "features": ["solid waste", "fossil fuel", "private vehicle", "consumption production", "sustainable consumption", "sustainable consumption production", "production pattern", "consumption production pattern", "waste disposal", "household waste", "energy generation", "waste landfill", "national plan", "goal responsible", "heat production"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "mitigation measure", "food security", "impact climate", "impact climate change", "change adaptation", "climate action", "reduce emission", "climate change adaptation", "effect climate", "greenhouse gas", "address climate change", "address climate", "adaptation climate", "effect climate change", "adaptation climate change", "local community", "relate climate change", "relate climate", "greenhouse gas emission", "gas emission", "adaptation measure", "emission reduction", "reduce greenhouse gas", "reduce greenhouse", "reduction emission", "global climate", "low carbon", "national climate", "risk management", "climate change mitigation", "change mitigation", "action reduce", "monitoring reporting", "emission reduce", "emission sector", "climate risk", "renewable energy", "strengthen resilience", "good practice", "mitigation action", "determine contribution", "technical capacity", "nature base", "low emission", "emission ton", "extreme weather", "national policy", "extreme weather event", "weather event"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.195,
+      "features": ["marine coastal", "coastal zone", "protect area", "fishery management", "coastal ecosystem", "use marine", "coral reef", "coastal area", "area marine", "marine coastal ecosystem", "resource ecosystem", "marine resource", "use marine resource", "sea level", "sustainable use marine", "marine resource include", "health index", "resource include", "protect manage", "sustainable management", "sustainable use", "development marine", "water cycle", "management plan", "marine water", "business usual", "management measure"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 1,
+      "features": ["protect area", "land use", "climate change", "biological diversity", "local community", "use land", "forest management", "forest resource", "sustainable management", "forest land", "management plan", "increase hectare", "forest cover", "forest degradation", "degraded forest", "management forest", "increase forest", "prevention control", "adaptation mitigation", "ecosystem service", "land forest", "terrestrial ecosystem", "native specie", "deforestation forest", "area cover", "protection area", "forest product", "conservation protection", "land degradation", "sustainable forest", "sustainable use", "sustainable forest management", "environmental management", "natural capital", "area forest", "soil protection", "degraded land", "combat desertification", "illegal logging", "forest management plan", "area increase", "soil erosion", "freshwater ecosystem", "land water", "natural resource", "deforestation forest degradation", "area continue", "reverse land", "reverse land degradation", "manage forest"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.6515,
+      "features": ["public policy", "human right", "decision making", "civil society", "meeting hold", "participatory process", "reduce risk", "information act", "risk management", "increase transparency", "general public", "local government", "greenhouse gas inventory", "gas inventory", "information enable", "strategic plan", "institution level", "woman child", "informed decision", "information management", "national regional", "financial resource"],
+      "category": "medium"
+    },
+    {
+      "id": 17,
+      "importance": 0.0306,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

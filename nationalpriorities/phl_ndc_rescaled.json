@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.5182,
+      "features": ["climate relate", "development poverty"],
+      "category": "medium"
+    },
+    {
+      "id": 2,
+      "importance": 0.4136,
+      "features": ["food security", "security climate", "climate smart"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0706,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.2588,
+      "features": ["participation woman", "gender responsive"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["carbon dioxide", "dioxide equivalent", "carbon dioxide equivalent", "sustainable energy", "industry transport", "practice implement", "energy security", "accelerate transition", "inclusive growth"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.6881,
+      "features": ["economic growth", "private sector", "economic sector", "inclusive growth"],
+      "category": "medium"
+    },
+    {
+      "id": 9,
+      "importance": 0.2325,
+      "features": ["capacity building", "industry service"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.3387,
+      "features": ["economic growth", "sexual orientation", "child youth", "gender identity", "inclusive economic growth", "inclusive economic"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.3269,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 12,
+      "importance": 0.2818,
+      "features": ["consumption production", "sustainable consumption", "circular economy", "sustainable consumption production", "capacity building", "production practice", "city country"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "climate change mitigation", "change mitigation", "carbon dioxide", "low carbon", "disaster resilient", "climate action", "climate disaster", "change impact", "emission reduction", "climate change impact", "climate relate", "greenhouse gas", "greenhouse gas emission", "gas emission", "adaptation measure", "country climate", "resilience adaptive capacity", "address climate change", "resilience adaptive", "address climate", "climate finance", "adaptive capacity", "implement climate", "strengthen resilience adaptive", "strengthen resilience", "extreme weather", "local community", "mitigation action", "climate smart", "practice implement", "extreme weather event", "weather event", "capacity building", "low carbon development", "carbon development", "country climate change", "food security", "climate change adaptation", "change adaptation", "measure climate", "low carbon economy", "access climate", "socio economic", "carbon economy"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0492,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.2787,
+      "features": ["ecosystem biodiversity", "climate change", "government action"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.261,
+      "features": ["local government"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0969,
+      "features": ["private sector", "civil society", "sustainable development", "foreign direct", "economic growth", "local community", "climate change mitigation", "change mitigation"],
+      "category": "low"
+    }
+  ]
+}

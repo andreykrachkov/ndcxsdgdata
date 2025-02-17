@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1062,
+      "features": ["poverty increase", "poor vulnerable", "good service", "extreme event", "poverty eradication", "development poverty", "tackle poverty", "economic development", "good practice"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.1612,
+      "features": ["food product", "large scale", "value chain", "food production", "food price", "crop livestock", "cold storage", "livestock production", "food insecurity", "agriculture sector", "agricultural sector", "agricultural area", "enhance agricultural", "reduction food", "soil water", "climate smart", "domestic food", "food industry", "food waste", "key sector"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.162,
+      "features": ["disease prevention", "health professional", "health sector", "people health", "air pollution", "community health", "health increase", "base health"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.019,
+      "features": ["education training"],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0961,
+      "features": ["gender equality", "woman man", "action plan", "gender responsive", "woman girl", "gender base", "promote gender", "improve gender", "promote gender equality", "access control", "support implementation", "rate gender", "gender mainstreaming", "ensure gender", "need woman", "provide opportunity", "population woman", "woman vulnerable", "train health"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.2301,
+      "features": ["water treatment", "water treat", "wastewater treatment", "treatment plant", "wastewater treatment plant", "water treatment plant", "water resource", "improve water", "treat wastewater", "water reduce", "revenue water", "urban area", "drinking water", "water source", "water food", "desalination plant", "availability water", "water sanitation", "water supply", "water sector", "quality water", "water water", "water body", "relate water", "alternative water", "coastal water", "wastewater collection", "increase water", "human consumption", "source water", "resource water", "water increase", "improve capacity"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["renewable energy", "energy efficiency", "energy solar", "energy sector", "solar pv", "electricity grid", "power plant", "improve energy", "transport sector", "improve energy efficiency", "energy energy", "power generation", "energy efficiency measure", "efficiency measure", "energy production", "electricity generation", "generate renewable", "electricity generate", "energy energy efficiency", "reduce energy", "energy demand", "solar photovoltaic", "renewable energy production", "electricity consumption", "photovoltaic pv", "measure reduce", "solar photovoltaic pv", "fossil fuel", "energy security", "increase energy", "energy consumption", "energy source", "energy renewable", "domestic renewable", "use renewable energy", "energy include", "energy renewable energy", "use renewable", "carbon dioxide", "increase demand", "demand energy", "electricity supply", "efficiency energy", "sector action", "energy use", "energy technology", "energy supply", "renewable energy source", "target energy", "domestic renewable energy"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.0999,
+      "features": ["growth rate", "economic growth", "economic activity", "increase economic", "sustainable economic", "gdp growth", "economic development", "gdp growth rate", "economic diversification"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.1885,
+      "features": ["measure reduce", "international market", "road infrastructure", "capacity building", "green building", "urban infrastructure", "value chain", "global average", "infrastructure promote", "food industry", "total cost", "electricity grid", "research development", "high tech", "challenge climate", "development project", "sector develop"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0998,
+      "features": ["address inequality", "poverty inequality", "person disability", "social economic political", "economic political", "social economic", "provide opportunity", "disadvantaged group"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.7249,
+      "features": ["urban area", "population growth", "action address", "total area", "cultural heritage", "waste collect", "solid waste", "planning management", "planning process", "waste waste", "plan include", "public transport", "air pollution", "waste management", "heritage site", "cultural heritage site", "area include", "plan implementation", "urban development", "urban planning", "disaster risk", "human settlement", "disaster risk reduction", "urban plan", "risk reduction", "new urban", "particulate matter", "international community", "residential area", "waste collection", "development plan", "grow population", "public participation", "environment public", "cultural value", "urban centre", "waste management sector", "adapt climate change", "public private partnership", "private partnership", "soil water", "adapt climate", "air quality", "public transportation", "green area", "promote use", "economic social", "city base", "historical cultural", "land use"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.4694,
+      "features": ["solid waste", "waste management", "reduce waste", "waste collection", "raw material", "reduce consumption", "waste include", "waste disposal", "waste send", "capacity building", "develop implement", "fossil fuel", "value chain", "reuse recycle", "implementation plan", "generation waste", "waste landfill", "food waste", "include target", "green building", "energy water", "encourage use"],
+      "category": "medium"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "adaptation action", "reduce emission", "emission reduction", "renewable energy", "climate adaptation", "climate finance", "capacity building", "mitigation action", "carbon market", "climate action", "energy efficiency", "greenhouse gas", "action sector", "technology transfer", "emission waste", "waste sector", "greenhouse gas emission", "gas emission", "adaptive capacity", "transport sector", "determine contribution", "reduction emission", "action reduce", "climate vulnerability", "mitigation adaptation", "temperature increase", "climate mitigation", "climate smart", "change impact", "climate change impact", "impact climate", "action climate", "reduction target", "emission sector", "water food", "emission increase", "ensure climate", "establish national", "climate resilient", "emission reduction target", "impact climate change", "climate resilience", "climate change include", "change climate", "change include", "carbon sink", "climate impact", "heat wave", "adapt climate"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.1111,
+      "features": ["coastal marine", "water treatment", "water treatment plant", "sea level", "large scale", "coastal erosion", "waste water", "coastal area", "coastal water", "total agricultural", "coastal ecosystem", "storage facility"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.2842,
+      "features": ["action plan", "protect area", "terrestrial ecosystem", "forest land", "area forest", "network protect", "total area", "land use", "ecosystem service", "negative impact", "land resource", "agricultural land", "adaptation mitigation", "forest area", "green area", "human activity", "land use plan", "country biodiversity", "use plan", "land use planning", "use planning", "increase forest", "climate change", "service particular", "cultural value", "end total", "agriculture practice"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.1328,
+      "features": ["increase transparency", "monitoring evaluation", "ensure effective", "access information", "public access", "public access information", "vulnerable group", "strategy achieve", "government policy", "poverty inequality", "public awareness", "legal framework"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.03,
+      "features": ["private sector", "public private", "work implement", "sector involvement"],
+      "category": "low"
+    }
+  ]
+}

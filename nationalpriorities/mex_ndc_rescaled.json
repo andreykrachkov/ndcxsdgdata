@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3292,
+      "features": ["development poverty", "poverty reduction", "social protection", "reduce poverty", "poverty eradication", "eradicate poverty", "poor vulnerable", "good practice", "base national", "water sanitation", "age gender", "social sector"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.3312,
+      "features": ["food security", "traditional knowledge", "value chain", "national level", "research development", "food production", "agriculture food", "food product", "genetic resource", "situation vulnerability", "agricultural practice", "agriculture include", "relate food", "pest disease", "agricultural sector", "access food", "high percentage", "child youth", "carbon sequestration"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.2246,
+      "features": ["health security", "health health", "national level", "health population", "universal coverage"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0266,
+      "features": ["education training", "science technology"],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.2669,
+      "features": ["woman man", "gender equality", "right woman", "gender perspective", "woman access", "equal right", "discrimination woman", "form discrimination", "role woman", "form discrimination woman", "population woman", "man woman", "rate gender"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.2083,
+      "features": ["water resource", "management water", "management water resource", "use water", "use water resource", "wastewater treatment", "water treatment", "integrate management", "water treat", "access water", "water sanitation", "water supply", "quality water", "water resource management", "sanitation service", "resource management", "water supply sanitation", "supply sanitation", "integrate water", "integrate water resource", "water ensure", "water human", "relate water", "urban area", "relate ecosystem", "wetland river aquifer", "wetland river", "water availability", "treatment plant", "wastewater treatment plant", "change water", "body water", "industrial wastewater", "water treatment plant", "climate change water"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["clean energy", "energy efficiency", "international cooperation", "energy consumption", "access energy", "electricity generation", "transport sector", "reduce carbon", "electricity grid", "universal access", "renewable energy", "natural gas", "power plant", "energy electricity", "energy capacity", "generation capacity", "reduce electricity", "energy transportation", "good practice", "measure term", "term energy", "energy promote", "goal reduce", "global energy", "promote energy", "energy transition", "source energy", "electric power", "promote energy efficiency", "power generation", "energy water"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1554,
+      "features": ["job creation", "small medium", "national economy", "young people", "economic diversification", "private sector", "green hydrogen"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.4308,
+      "features": ["greenhouse gas", "new technology", "science technology", "sustainable resilient", "infrastructure investment", "small medium", "support economic", "reliable sustainable resilient", "local community", "affordable equitable", "support economic development", "industry service", "resource conservation", "research development", "investment infrastructure", "good available", "scientific research", "gas emission", "city develop", "capacity building"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.3335,
+      "features": ["reduce inequality", "reduction inequality", "social economic", "promote inclusion", "people vulnerable", "people vulnerable situation", "people disability", "social protection", "good practice", "child youth", "social group", "rural household", "vulnerable group", "availability access", "agricultural practice"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.9455,
+      "features": ["cultural heritage", "disaster risk", "risk management", "disaster risk management", "human settlement", "urban planning", "urban plan", "public transport", "city human", "city human settlement", "universal access", "air quality", "natural heritage", "public space", "urban area", "city community", "international community", "management waste", "safeguard cultural", "policy plan", "protect safeguard", "land use", "special attention", "natural cultural", "air pollution", "waste management", "cultural natural", "cultural natural heritage", "disaster risk reduction", "risk reduction", "solid waste", "early warning", "local government", "environmental impact", "exist infrastructure", "public participation", "social impact", "action address", "real estate", "adapt climate change", "culture heritage", "local plan", "soil water", "adapt climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.3005,
+      "features": ["waste management", "value chain", "consumption production", "food waste", "production consumption", "sustainable production", "natural resource", "sustainable production consumption", "good service", "life cycle", "waste recycle", "industrial waste", "national level", "industrial wastewater", "solid waste", "waste treat", "waste treatment", "negative impact"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "greenhouse gas", "determine contribution", "reduce emission", "impact climate", "impact climate change", "mitigation adaptation", "food security", "greenhouse gas emission", "gas emission", "climate policy", "effect climate", "effect climate change", "disaster risk", "climate change policy", "change policy", "carbon emission", "technology transfer", "national climate", "disaster risk management", "risk management", "adaptation climate", "adaptation climate change", "mitigation action", "global climate", "national climate change", "transport sector", "adapt climate", "adapt climate change", "reduction emission", "emission reduction", "climate change adaptation", "change adaptation", "address climate", "focus climate", "reduction target", "integrate climate", "change climate", "address climate change", "integrate climate change", "implement climate", "action reduce", "risk reduction", "global warming", "comprehensive disaster", "climate change mitigation", "change mitigation", "air quality", "net emission", "adaptation action"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.1089,
+      "features": ["marine coastal", "marine ecosystem", "coral reef", "coastal resource", "management conservation", "sustainable use"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.6915,
+      "features": ["climate change", "biological diversity", "land use", "ecosystem service", "biodiversity ecosystem", "negative impact", "conservation restoration", "sustainable use", "sustainable use biodiversity", "use biodiversity", "use biodiversity ecosystem", "use land", "restoration sustainable use", "sustainable management", "invasive specie", "forest land", "degraded land", "alien specie", "combat desertification", "invasive alien", "invasive alien specie", "conservation biodiversity", "freshwater ecosystem", "terrestrial marine", "natural resource", "local planning", "specie plant", "national local planning", "include forest", "ecosystem biodiversity", "national local", "natural habitat", "degradation loss", "protect natural", "integrate action", "biodiversity sustainable", "land soil", "national economy", "ensure protection", "area forest", "conservation protection", "management strategy", "reduce impact"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.215,
+      "features": ["human right", "public policy", "public administration", "vulnerable group"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0067,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

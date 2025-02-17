@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1468,
+      "features": ["development poverty", "poverty eradication", "poverty reduction", "economic development", "lack resource", "adaptation planning", "good practice"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.0876,
+      "features": ["agricultural practice", "improve agricultural", "agriculture livestock", "practice increase", "aim reduce", "livestock sector", "carbon sequestration", "change extreme weather", "climate change extreme", "change extreme", "climate smart"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0187,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0119,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0128,
+      "features": ["water resource", "source water", "resource water"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["carbon neutral", "renewable energy", "solar wind", "energy efficiency", "clean energy", "energy technology", "solar pv", "access clean", "waste energy", "transport sector", "access clean energy", "renewable energy technology", "energy project", "reliable sustainable", "fossil fuel", "energy security", "energy demand", "ensure energy", "diversify energy", "energy solar", "carbon dioxide", "renewable electricity", "efficiency measure", "energy save", "street lighting", "street light", "electricity supply", "efficiency improvement", "energy water", "sector action", "energy building", "gas production", "renewable energy project", "energy mix", "source energy", "solar energy", "dioxide equivalent", "carbon dioxide equivalent", "energy generation", "energy efficiency measure", "energy community", "wind energy", "energy resource", "energy waste"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.2076,
+      "features": ["private sector", "economic diversification", "economic growth", "gdp capita", "economic activity", "transport sector", "economic development", "high value", "long term"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.2548,
+      "features": ["capacity building", "infrastructure development", "infrastructure investment", "infrastructure develop", "support need", "information communication technology", "communication technology", "information communication", "long term", "transport infrastructure", "transport mobility", "greenhouse gas", "rapid urbanisation", "green building", "value add", "government agency", "small medium", "support program", "master plan", "freight transport", "technology innovation"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0128,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.4689,
+      "features": ["human settlement", "waste management", "urban area", "policy plan", "land use", "international community", "planning process", "water heater", "urban planning", "urban plan", "energy plant", "mitigate adapt climate", "public participation", "real estate", "mitigate adapt", "adapt climate change", "air water", "plan include", "adapt climate", "solid waste", "development plan", "economic social", "grow population", "area country", "major river", "master plan", "infrastructure development"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.2382,
+      "features": ["waste management", "fossil fuel", "aim reduce", "circular economy", "green building", "solid waste", "waste reduce", "energy water", "waste landfill", "development planning", "gas production"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "carbon neutral", "low emission", "mitigation action", "determine contribution", "mitigation measure", "capacity building", "climate action", "climate resilience", "greenhouse gas", "impact climate", "impact climate change", "energy efficiency", "mitigation adaptation", "renewable energy", "low carbon", "gas emission", "adaptation measure", "implement climate", "greenhouse gas emission", "integrate climate", "adaptation plan", "net emission", "transport sector", "adapt climate", "adapt climate change", "climate change mitigation", "change mitigation", "emission source", "adaptation action", "aim reduce", "dry season", "change impact", "emission reduction", "climate change impact", "reduce emission", "capacity climate", "adaptive capacity", "carbon sink", "adaptive capacity climate", "plan strategy", "climate smart", "monitoring reporting", "climate change action", "change mitigation adaptation", "change priority", "change action", "increase carbon", "carbon dioxide", "emission increase"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0025,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.505,
+      "features": ["climate change", "protect area", "forest carbon", "land area", "forest management", "land use", "forest area", "area protect", "forest cover", "ecosystem service", "biodiversity conservation", "forest land", "forest degradation", "conservation sustainable", "forestry sector", "sustainable management", "deforestation forest", "flora fauna", "natural resource", "deforestation forest degradation", "area country", "management forest", "project implement", "area base", "conservation effort", "natural resource management", "rich biodiversity", "create green", "successful implementation"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.0503,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0043,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

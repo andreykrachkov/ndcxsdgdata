@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1881,
+      "features": ["poverty eradication", "development poverty", "good practice"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.0103,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0187,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0154,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0307,
+      "features": ["water resource", "source water", "resource water"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["carbon dioxide", "dioxide equivalent", "carbon dioxide equivalent", "natural gas", "energy demand", "renewable energy", "energy sector", "energy efficiency", "national energy", "energy efficiency measure", "gas electricity", "efficiency measure", "gas production", "relate energy"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.2855,
+      "features": ["economic diversification"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.0547,
+      "features": ["achieve goal"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0193,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.3381,
+      "features": ["urban planning", "human settlement", "urban plan", "solid waste", "economic social", "public participation", "real estate", "urban solid waste", "urban solid", "social impact"],
+      "category": "low"
+    },
+    {
+      "id": 12,
+      "importance": 0.0944,
+      "features": ["solid waste", "use natural", "gas production"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["net emission", "determine contribution", "climate change", "carbon dioxide", "greenhouse gas", "sector economy", "adaptation measure", "emission ton", "greenhouse gas emission", "gas emission", "climate action", "mitigation adaptation", "emission reduction", "global climate", "climate policy", "combat climate", "combat climate change", "impact climate", "impact climate change", "mitigation measure", "climate crisis", "effect climate", "adaptation action", "effect climate change", "technology transfer", "response climate", "respond climate", "strengthen resilience", "good practice", "local community", "emission source", "vulnerable impact", "emission increase", "address climate change", "address climate", "adaptation plan", "framework climate", "city government", "work climate"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0108,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.1312,
+      "features": ["land use"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.463,
+      "features": ["national global", "public policy", "aim ensure", "general public"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0119,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

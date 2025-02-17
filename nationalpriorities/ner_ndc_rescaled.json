@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1747,
+      "features": ["social inclusion", "economic development", "poverty economic"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.187,
+      "features": ["food nutrition", "food nutritional", "agricultural sector", "agricultural land", "agricultural product", "increase food", "add value", "value chain", "nutritional security", "food nutritional security", "agricultural production", "improve resilience", "agriculture livestock"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0622,
+      "features": ["mortality live"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0269,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0719,
+      "features": ["woman age", "age year", "woman age year"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.1344,
+      "features": ["water resource", "source water", "resource water", "water supply", "drinking water", "water quality", "supply water", "water water", "water body", "ground water", "water need", "body water", "drinking water supply", "level water", "storm water"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["energy sector", "renewable energy", "energy efficiency", "improve energy", "improve energy efficiency", "new renewable energy", "new renewable", "clean energy", "modern energy", "energy service", "power plant", "transmission distribution", "transport sector", "modern energy service", "emission energy", "implementation energy", "energy use", "reduce energy", "solar energy", "solar photovoltaic", "improvement energy", "proportion energy", "energy access", "energy demand", "base energy", "use renewable energy", "development renewable", "development renewable energy", "use renewable", "access rate", "energy improve", "good practice", "improvement energy efficiency", "measure reduce", "street light", "electricity access", "wind turbine", "international cooperation", "energy project", "renewable energy project", "energy energy", "access clean", "renewable energy energy", "clean technology", "energy energy efficiency"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1441,
+      "features": ["economic growth", "growth rate", "economic development", "work condition", "economic activity", "employment income", "national economy"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.1796,
+      "features": ["development project"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0813,
+      "features": ["social inclusion", "development plan", "crop production"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.5805,
+      "features": ["urban area", "population growth", "international community", "economic social", "regional development", "early warning", "development plan", "housing sector", "area development", "local regional", "risk disaster"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.1336,
+      "features": ["natural resource", "financial resource", "national level", "sector household", "resource use"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "adaptation measure", "emission sector", "greenhouse gas", "gas emission", "mitigation adaptation", "reduction emission", "greenhouse gas emission", "effect climate", "renewable energy", "policy strategy", "mitigation measure", "effect climate change", "temperature increase", "emission reduction", "climate finance", "new climate", "national policy", "dry season", "national communication", "climate action", "national climate", "disaster management", "impact climate", "impact climate change", "adaptation climate", "climate risk", "adaptation action", "adaptation climate change", "international climate", "technology transfer", "institutional capacity", "strengthen resilience", "good practice", "human institutional", "impact reduction", "transition low", "early warning", "local regional", "plan climate", "change increase", "access climate", "carbon economy", "capacity building", "carbon development", "national policy strategy", "energy efficiency", "emission increase", "reduce emission", "transport sector"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0057,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.5341,
+      "features": ["natural resource", "sustainable land", "plant specie", "sustainable management", "forest management", "forest area", "land management", "land forest", "sustainable land management", "land water", "management protect", "management forest", "animal plant", "action plan", "climate change", "agricultural land", "land degradation", "degraded land", "urban forest", "adaptation mitigation", "surface area", "water reservoir", "national economy"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.3278,
+      "features": ["strategy achieve", "local governance", "financial resource", "monitor implementation", "monitoring evaluation"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0461,
+      "features": ["capacity building", "resource mobilization", "strengthen capacity", "economic social", "promote implementation"],
+      "category": "low"
+    }
+  ]
+}

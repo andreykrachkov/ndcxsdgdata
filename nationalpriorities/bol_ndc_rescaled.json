@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.4682,
+      "features": ["extreme poverty", "rural area", "people live", "reduce exposure", "population live", "vulnerable population", "poverty reduction", "live poverty", "poverty eradication", "development poverty", "support vulnerable", "poverty high", "rural poverty", "poverty woman", "reduction effort", "live extreme", "live extreme poverty", "family live", "people disability", "basic service", "project aim", "rural urban", "economic development"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.4628,
+      "features": ["food production", "food product", "agricultural product", "agricultural production", "food insecurity", "food security", "agricultural sector", "promote sustainable", "national level", "fruit vegetable", "increase food", "production food", "improve food", "increase production", "agricultural activity", "sustainable agriculture", "agricultural productivity", "ensure food", "ensure food security", "vulnerable situation", "food availability", "agricultural food", "increase agricultural", "improve agricultural", "family farmer", "reduce food", "production facility", "reduction food", "increase agricultural productivity", "food industry", "reduction number", "effect climate"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0688,
+      "features": ["health service", "national health", "health sector", "quality health", "quality health service", "access quality health", "access quality", "implement action"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0022,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0883,
+      "features": ["woman man", "gender perspective", "role woman", "rate gender", "man woman", "woman right", "woman represent", "right woman", "gender issue", "land ownership", "rural woman", "decision make", "woman political", "political participation", "ensure gender", "exercise right", "population woman"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.4242,
+      "features": ["water resource", "drinking water", "water management", "water resource management", "resource management", "human consumption", "integrated water", "integrated water resource", "basic sanitation", "management water", "water coverage", "sanitation service", "use water", "increase water", "urban area", "water treatment", "water treat", "water sector", "water quality", "water source", "water security", "water body", "management water resource", "reduce water", "availability water", "water human", "water storage", "local population", "integrate management", "water availability", "drink water", "water stress", "agricultural sector", "water supply", "wastewater treatment", "water use", "quality water", "sustainable water", "water loss", "treatment plant", "potable water", "wastewater treatment plant", "water scarcity", "figure water", "change water", "agriculture industry", "sustainable water management", "use water resource", "water pollution", "access drinking"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.7239,
+      "features": ["renewable energy", "international cooperation", "electricity generation", "energy sector", "energy efficiency", "instal capacity", "alternative energy", "energy source", "electricity sector", "power plant", "energy consumption", "improve energy", "energy resource", "generation capacity", "energy consume", "energy efficiency measure", "electricity grid", "efficiency measure", "fossil fuel", "energy energy", "promote energy", "renewable energy source", "energy transition", "renewable source", "energy generation", "access electricity", "access energy", "share renewable", "target energy", "electric vehicle", "improve energy efficiency", "electric energy", "energy electricity", "transport sector", "electrical energy", "increase energy", "renewable energy energy", "efficiency renewable", "energy efficiency renewable", "electricity consumption", "increase electricity", "share renewable energy", "energy improve", "come renewable", "investment energy", "power grid", "efficiency renewable energy", "energy increase", "carbon dioxide", "energy power"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.0896,
+      "features": ["economic recovery", "productive employment", "small medium", "national economy"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.3438,
+      "features": ["city develop", "resilient infrastructure", "public transport", "sustainable resilient", "development sustainable", "vegetable oil", "new technology", "technological development", "small medium", "regional international", "long term", "international market", "development new", "power renewable"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.1885,
+      "features": ["vulnerable group", "social economic", "reduce inequality", "social inequality", "development progress"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "features": ["risk management", "urban area", "quality life", "integrated sustainable", "population live", "risk reduction", "land use", "planning management", "promote use", "economic social", "disaster risk", "resilient sustainable", "urban rural", "management waste", "early warning", "service delivery", "basic service", "population growth", "support sustainable", "universal access", "cultural activity", "city human", "development plan", "natural disaster", "local regional"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.2843,
+      "features": ["sustainable production", "natural resource", "consumption production", "production consumption", "efficient use", "fossil fuel", "national level", "energy generation", "prevention management"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "climate crisis", "mitigation adaptation", "climate action", "adaptive capacity", "management climate", "risk management", "renewable energy", "energy efficiency", "greenhouse gas", "adaptation climate", "technology transfer", "global climate", "effect climate", "implementation climate", "effect climate change", "greenhouse gas emission", "reduce emission", "gas emission", "address climate", "climate risk", "adaptation climate change", "weather event", "impact climate", "impact climate change", "strengthen resilience", "capacity building", "resilience adaptation", "food security", "change impact", "emission reduction", "climate change impact", "climate relate", "integrate climate", "climate policy", "capacity climate", "climate change adaptation", "change adaptation", "relate climate", "adaptive capacity climate", "risk reduction", "mitigation plan", "reduce greenhouse gas", "carbon emission", "institutional capacity", "reduce greenhouse", "climate change increase", "extreme weather", "mitigation action", "temperature increase"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0023,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.8098,
+      "features": ["climate change", "forest management", "forest cover", "sustainable forest", "area forest", "sustainable management", "management forest", "sustainable forest management", "forest area", "protect area", "forest product", "land use", "afforestation reforestation", "natural resource", "adaptation mitigation", "sustainable use", "conservation sustainable", "deforestation forest", "increase forest", "local community", "forest carbon", "land management", "biodiversity conservation", "sustainable land", "forest resource", "total forest", "forested area", "sustainable land management", "conservation sustainable use", "management practice", "management plan", "area increase", "flora fauna", "community management", "protection biodiversity", "contribute global", "reach hectare", "manage forest", "area ha", "illegal deforestation", "management area", "integrated management", "water reservoir", "water increase", "national economy", "forest forest", "conservation development", "prevention control", "forestry sector", "protect restore"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.2901,
+      "features": ["human right", "vulnerable group", "risk management", "civil society", "right people", "national human", "crisis management", "decision making", "participatory process", "monitoring evaluation", "high risk"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.1125,
+      "features": ["international cooperation", "capacity development", "mean implementation", "develop country", "technology transfer", "sustainable development", "international market", "capacity building", "financial resource", "international partner", "city country", "international financial"],
+      "category": "low"
+    }
+  ]
+}

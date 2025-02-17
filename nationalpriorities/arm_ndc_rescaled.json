@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2631,
+      "features": ["poverty reduction", "economic development", "renewable energy generation"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0106,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0022,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0242,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["renewable energy", "energy security", "natural gas", "energy supply", "fossil fuel", "solar energy", "power plant", "nuclear energy", "energy source", "energy energy", "energy efficiency", "renewable energy source", "final energy", "energy resource", "use renewable energy", "use renewable", "clean energy", "energy sector", "affordable clean energy", "affordable clean", "energy intensity", "affordable reliable", "promote energy", "national energy", "electricity generation", "energy renewable", "share renewable", "green energy", "electric vehicle", "energy development", "energy conservation", "promote energy efficiency", "development renewable", "development renewable energy", "power generation", "efficiency energy", "energy renewable energy", "ensure energy", "energy share", "renewable energy energy", "efficiency renewable", "energy efficiency renewable", "share renewable energy", "efficiency renewable energy", "target increase", "reliable energy", "energy generation", "primary energy", "country energy", "wind energy"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1647,
+      "features": ["gdp growth", "economic development", "economic recovery", "target achieve", "long term"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.0828,
+      "features": ["new technology", "public transport"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0894,
+      "features": ["social economic", "goal reduce"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.3867,
+      "features": ["adapt climate change", "adapt climate", "planning process", "solid waste", "mitigate adapt climate", "mitigate adapt", "solid waste disposal", "plan implementation", "access adequate", "management include", "provide affordable"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.1086,
+      "features": ["fossil fuel", "solid waste", "waste disposal", "climate neutral", "country energy"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "renewable energy", "low carbon", "emission reduction", "gas emission", "adapt climate", "adapt climate change", "low carbon development", "carbon development", "impact climate", "impact climate change", "greenhouse gas", "adaptation measure", "climate change adaptation", "change adaptation", "adaptation climate", "address climate change", "address climate", "net emission", "climate neutral", "adaptation climate change", "capacity building", "reduction emission", "energy efficiency", "mitigation adaptation", "adaptation action", "temperature increase", "greenhouse gas emission", "reduce emission", "action climate", "mitigation measure", "result climate change", "result climate", "climate risk", "carbon emission", "reduction target", "sea level", "emission reduction target", "climate neutrality", "determine contribution", "emission source", "management climate", "change planning", "climate change planning", "biodiversity land", "climate action"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.4364,
+      "features": ["climate change", "natural ecosystem", "vulnerability climate change", "vulnerability climate", "forest cover", "land cover", "forestry sector", "include forest", "ecosystem biodiversity", "management include", "increase forest", "ecosystem service", "forest land", "biodiversity ecosystem", "strategy action", "improve biodiversity"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.0452,
+      "features": ["reduce risk"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0265,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

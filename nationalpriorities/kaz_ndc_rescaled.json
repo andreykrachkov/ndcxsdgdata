@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0749,
+      "features": ["adaptation planning", "poverty eradication", "development poverty", "institutional framework"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.1299,
+      "features": ["food security", "public health", "food insecurity", "agricultural production", "agricultural product", "ensure food", "livestock production", "ensure food security", "arable land", "pest disease", "agricultural sector", "organic farming", "reduce food"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.1005,
+      "features": ["public health", "infectious disease", "health city", "public private"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0502,
+      "features": ["formal education", "education need", "education ensure", "quality assurance", "sustainable development"],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0475,
+      "features": ["gender equality", "promote gender", "promote gender equality", "decision maker", "decision make"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.2016,
+      "features": ["water resource", "water resource management", "resource management", "water supply", "water use", "water save", "drinking water", "wastewater treatment", "improve water", "water loss", "use water", "water scarcity", "access clean", "reduce water", "integrate water", "clean drinking water", "integrate water resource", "clean drinking", "availability water", "water treatment", "transboundary water", "access clean drinking", "basin management", "water cooperation", "water supply network", "major river", "project implement", "supply network", "water treat", "water quality", "transboundary river", "change water", "neighboring country", "climate change water", "agricultural sector", "protection water", "transboundary cooperation"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["renewable energy", "carbon neutral", "energy sector", "transition green", "increase share", "energy efficiency", "energy source", "renewable energy source", "energy security", "share renewable", "natural gas", "energy conservation", "share renewable energy", "electricity production", "carbon dioxide", "source energy", "measure reduce", "energy production", "energy policy", "energy intensity", "fossil fuel", "reduce energy", "electricity generation", "green energy", "power plant", "electric power", "fuel energy", "energy resource", "support development", "development renewable", "development renewable energy", "power generation", "efficiency energy", "energy efficiency energy", "increase energy", "save energy", "energy improve", "power grid", "ensure protection", "reduce carbon", "good practice", "term energy", "emission energy", "power sector", "increase share renewable", "solar wind", "carbon technology", "low carbon technology", "project implement"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1175,
+      "features": ["young people", "long term", "growth development", "green hydrogen"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.1504,
+      "features": ["foreign investment"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0652,
+      "features": ["policy measure", "general public"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.4903,
+      "features": ["major river", "sustainable transport", "policy plan", "population live", "waste management", "risk reduction", "municipal waste", "risk management", "live city", "disaster risk", "disaster risk reduction", "statistical datum", "natural disaster", "quality life", "land use", "planning process", "plan include"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.0766,
+      "features": ["waste management", "natural resource", "municipal waste", "organic agriculture"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "adaptation climate", "adaptation climate change", "greenhouse gas", "greenhouse gas emission", "gas emission", "low carbon", "adaptation action", "carbon neutrality", "adaptation plan", "carbon neutral", "impact climate", "low emission", "reduce greenhouse gas", "reduce greenhouse", "temperature increase", "reduction emission", "impact climate change", "adaptation measure", "climate policy", "climate change adaptation", "change adaptation", "renewable energy", "extreme weather", "extreme weather event", "determine contribution", "increase frequency", "weather event", "emission sector", "energy efficiency", "climate change national", "climate risk", "response climate", "change impact", "climate change impact", "climate change include", "national adaptation", "change include", "risk reduction", "transition low", "carbon dioxide", "agriculture water", "low carbon development", "carbon development", "food security", "climate relate", "reduce emission", "disaster risk", "climate resilience", "awareness climate"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.5175,
+      "features": ["climate change", "forest cover", "land use", "degraded land", "afforestation reforestation", "increase forest", "country area", "sustainable forest", "forest area", "land forest", "restore degraded", "land cover", "restore degraded land", "management protect", "action plan", "water reservoir", "ensure protection", "land area", "total land", "sustainable land", "total land area", "area increase", "project implement", "development agriculture", "vulnerability climate change", "vulnerability climate", "conservation development"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.0835,
+      "features": ["local government", "public policy", "general public"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0119,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

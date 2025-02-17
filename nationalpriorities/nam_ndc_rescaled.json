@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3343,
+      "features": ["live poverty", "poverty eradication", "development poverty", "vulnerable population", "crisis disaster", "poverty woman", "proportion population", "improve livelihood", "climate relate", "high poverty", "economic development", "good practice", "extreme event"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.605,
+      "features": ["food security", "food production", "food product", "national food", "agricultural product", "increase food", "research extension", "value chain", "increase productivity", "agricultural production", "effect climate", "agriculture food", "ensure food", "community food", "ensure food security", "agricultural practice", "increase production", "rural community", "production food", "value add", "support farmer", "impact agricultural", "resource food", "security improve", "nutritional status", "small scale", "fishery aquaculture"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.4084,
+      "features": ["improve health", "medical staff", "health facility", "health condition", "health sector", "life expectancy", "age group", "air quality", "lead cause", "prevention treatment", "animal health", "disease control"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0369,
+      "features": ["formal education"],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.4043,
+      "features": ["gender equality", "woman girl", "gender responsive", "achieve gender equality", "achieve gender", "woman man", "gender equality empower", "equality empower", "need woman", "address gender", "gender issue", "decision making", "participation woman", "empower woman", "include woman", "equality empowerment", "gender equality empowerment", "equal participation", "gender perspective", "equality empower woman", "decision make", "rate gender", "include gender", "action plan", "gender balance", "compare man", "situation woman", "mainstream gender"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.2656,
+      "features": ["water supply", "water quality", "water resource", "water security", "woman girl", "management plan", "quality water", "improve water", "new water", "water treatment", "water treat", "resource management", "improve sanitation", "conservation area", "water availability", "water resource management", "source water", "treat water", "agriculture industry", "resource water", "improve water quality", "treatment wastewater", "secondary treatment", "water resource include", "water management", "availability water", "ground water", "sanitation facility", "rural household", "enhance water", "facility water", "water desalination", "wastewater management", "sanitation water"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["fossil fuel", "renewable source", "improve health", "energy sector", "electricity generation", "solar energy", "electricity generate", "gas production", "solar power", "renewable energy", "energy mix", "energy security", "instal capacity", "target set", "local production", "renewable resource", "generate renewable", "target increase", "increase use", "measure reduce", "energy total", "street lighting", "street light", "year energy", "clean technology", "good practice", "sustainable inclusive", "building develop"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.3566,
+      "features": ["new product", "gdp growth", "economic development", "economic recovery", "inclusive growth", "economic sector", "economic diversification", "improve productivity", "long term"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.3155,
+      "features": ["public private", "capacity building", "city develop", "international market", "financial support", "national infrastructure", "achieve goal", "change resilience", "km road", "member state"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.3608,
+      "features": ["social economic"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.9772,
+      "features": ["urban green", "green space", "planning process", "air quality", "economic loss", "plan include", "urban planning", "human settlement", "urban plan", "international community", "policy plan", "natural disaster", "economic social", "land use", "public participation", "population reside", "land use plan", "water heater", "use plan", "goal sustainable", "development plan", "city base", "population growth", "activity include", "real estate", "strategy climate change", "waste waste", "support sustainable", "project improve", "strategy climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.1447,
+      "features": ["solid waste", "production electricity", "gas production", "waste disposal", "waste waste", "domestic waste", "natural resource"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "low emission", "reduce emission", "adaptation action", "socio economic", "climate action", "air quality", "mitigation adaptation", "adaptation measure", "capacity building", "emission reduction", "greenhouse gas", "food security", "determine contribution", "emission increase", "mitigation measure", "effect climate", "effect climate change", "impact climate", "greenhouse gas emission", "gas emission", "climate finance", "technology transfer", "impact climate change", "extreme weather", "plan strategy", "extreme weather event", "weather event", "change adaptation", "focus climate", "change planning", "climate change planning", "climate change adaptation", "natural disaster", "action sector", "national policy", "disaster management", "climate relate", "address climate", "adaptive capacity", "action reduce", "institutional capacity", "build resilience", "monitoring reporting", "agriculture water", "economic benefit", "aim reduce", "vulnerability assessment", "local community", "temperature increase"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.1855,
+      "features": ["coastal zone", "blue economy", "management plan", "socio economic", "life water", "marine protect", "marine protect area", "small scale", "sea water", "protect area", "fishery aquaculture", "improve livelihood", "sustainable use", "coastal ecosystem", "water quality", "sea level", "resource include", "coastal zone management", "zone management", "coastal erosion"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.584,
+      "features": ["climate change", "space urban", "management plan", "natural resource", "land use", "forest cover", "biodiversity conservation", "biodiversity ecosystem", "conservation area", "ecosystem biodiversity", "management strategy", "natural habitat", "ecosystem service", "protect area", "sustainable use", "land management", "sustainable land", "create green", "sustainable land management", "forest inventory", "management protect", "land use plan", "use plan", "local community", "environment biodiversity", "natural resource management", "land soil", "rich biodiversity", "land ecosystem"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.2511,
+      "features": ["decision making", "city report", "make process", "informed decision", "carry activity"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0594,
+      "features": ["develop country", "capacity building", "support develop", "public private", "technology transfer", "international market", "capacity building develop"],
+      "category": "low"
+    }
+  ]
+}

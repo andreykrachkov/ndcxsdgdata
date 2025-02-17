@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3587,
+      "features": ["poverty eradication", "development poverty", "social service", "social exclusion", "vulnerable population", "good practice"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.034,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.1733,
+      "features": ["health sector", "health personnel", "cardiovascular disease", "health risk", "air pollution", "air quality", "city health", "health professional", "health emergency", "health strategy"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0328,
+      "features": ["man woman"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.3307,
+      "features": ["water resource", "urban area", "management water", "treat wastewater", "management water resource", "drink water", "quality water", "water consumption", "sustainable management water", "use water", "surface water", "sustainable management", "reduce water", "use water resource", "water distribution", "water increase", "area include", "integrate management", "associate climate", "water availability", "development water", "availability water", "area water"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["power plant", "energy efficiency", "energy performance", "implementation energy", "renewable energy", "fossil fuel", "wind farm", "solar energy", "fuel oil", "natural gas", "renewable source", "capacity mw", "energy consumption", "solar panel", "electricity production", "energy saving", "passenger car", "improve energy", "energy technology", "reduce energy", "electricity sector", "improve energy efficiency", "electric power", "use renewable energy", "renewable energy technology", "electrical energy", "solar power", "supply energy", "use renewable", "industry transport", "total capacity mw", "wind energy", "achieve energy", "gas pipeline", "energy resource", "solar farm", "climate plan", "waste energy", "area energy"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1833,
+      "features": ["economic diversification", "economic growth", "growth rate", "gdp growth", "human capital", "national economy", "sector great"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.0725,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.1158,
+      "features": ["basic social", "quality life", "social exclusion"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.9591,
+      "features": ["urban area", "sustainable city", "local authority", "green space", "area total", "water heater", "air quality", "urban planning", "public transport", "human settlement", "air pollution", "urban plan", "green area", "residential building", "international community", "urban rural", "quality public", "urban green", "natural disaster", "promote use", "monitor air", "public participation", "area include", "planning process", "large urban", "urban transport", "plan include", "disaster risk", "disaster risk reduction", "risk reduction", "housing sector", "quality life", "economic social", "social impact", "regional planning", "activity include", "real estate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.4292,
+      "features": ["household waste", "fossil fuel", "reduce waste", "natural resource", "national plan", "industrial waste", "reuse waste", "information awareness", "environmental standard", "aim reduce", "develop implement", "implementation plan", "risk associate", "area energy"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "impact climate", "impact climate change", "adaptation climate", "adaptation climate change", "strengthen resilience", "determine contribution", "greenhouse gas", "gas emission", "greenhouse gas emission", "adaptation measure", "mitigation action", "policy strategy", "resilience adaptation", "climate risk", "climate impact", "extreme weather", "reduce emission", "mitigation adaptation", "climate policy", "mitigation measure", "national adaptation", "climate change adaptation", "change adaptation", "institutional capacity", "new climate", "local community", "transition low", "extreme weather event", "carbon economy", "weather event", "renewable energy", "action sector", "reduction target", "reduction emission", "energy efficiency", "climate action", "national climate", "change impact", "emission reduction", "climate change impact", "disaster risk", "climate resilience", "capacity climate", "climate change include", "relate climate change", "change include", "climate adaptation", "relate climate", "climate finance"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.1173,
+      "features": ["coastal area", "fishery aquaculture", "marine protect", "reduce pollution", "marine protect area", "protect area", "exclusive economic zone", "exclusive economic", "economic zone", "plan coastal", "quality water", "coastal environment", "fishing sector", "illegal unreported", "fishing activity", "environment ecosystem", "management measure", "term water", "water agriculture"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.4545,
+      "features": ["climate change", "forest management", "sustainable forest", "sustainable forest management", "land management", "forestry sector", "forest degradation", "combat illegal", "biological diversity", "sustainable land", "sustainable land management", "urban forest", "soil erosion", "management forest", "resilient climate", "vulnerability climate change", "vulnerability climate", "alien specie", "invasive alien", "invasive alien specie", "sustainable management", "strategy action plan", "management strategy", "strategy action", "specie plant", "action plan", "local community", "water increase", "national economy"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.1912,
+      "features": ["public policy", "civil society", "international financial", "strategic plan"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0423,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}

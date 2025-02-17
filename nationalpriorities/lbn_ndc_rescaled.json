@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.225,
+      "features": ["poverty eradication", "development poverty", "good practice", "climate relate", "reduce poverty", "essential service", "improve social"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.1133,
+      "features": ["climate smart", "food security", "promote sustainable", "agricultural sector", "food nutrition", "agricultural production", "nutrition security", "food nutrition security", "agricultural product", "agriculture include", "increase agricultural", "value chain", "agri food", "achieve food", "research development", "public health"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.094,
+      "features": ["public health", "national health", "mental health", "health sector", "health outcome", "city health", "people health", "health strategy"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0468,
+      "features": ["gender equality", "gender responsive"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0746,
+      "features": ["water supply", "water sector", "water quality", "management water", "sustainable water", "water source", "surface water", "water service", "drink water", "drink water supply", "improve water", "water security", "improve water quality"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["electricity demand", "renewable energy", "building sector", "energy source", "renewable energy source", "energy efficiency", "demand energy", "energy efficiency measure", "efficiency measure", "generate renewable", "generation capacity", "clean energy", "energy sector", "energy transition", "electric vehicle", "power plant", "improvement energy", "energy resource", "use renewable energy", "use renewable", "electricity production", "clean technology", "target increase", "heat power", "government institution", "energy building", "investment project", "support use", "waste energy", "health safety", "reduce carbon"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.3096,
+      "features": ["economic growth", "economic diversification", "private sector", "decent work", "sustainable economic", "sustainable economic growth", "create job", "job opportunity", "include climate", "sustainable growth", "long term", "gdp ratio", "promote sustain", "investment climate", "debt gdp", "promote sustainable", "debt gdp ratio"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.152,
+      "features": ["capacity building", "support need", "encourage innovation", "investment research", "need improve", "foreign investment", "rural area", "public infrastructure", "city develop", "long term"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0657,
+      "features": ["reduce inequality", "promote social", "economic growth", "process ensure"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.3971,
+      "features": ["planning process", "plan include", "disaster risk", "urban planning", "human settlement", "urban plan", "international community", "urban rural", "early warning", "natural disaster", "economic social", "waste generation", "public participation", "infrastructure urban", "population growth", "policy plan", "real estate", "adapt climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.1472,
+      "features": ["capacity building", "circular economy", "natural resource", "use natural resource", "use natural", "food value", "waste generation", "value chain", "plan support", "food value chain"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["renewable energy", "climate action", "greenhouse gas", "gas emission", "climate change", "greenhouse gas emission", "emission reduction", "determine contribution", "energy efficiency", "climate relate", "adaptation action", "mitigation action", "climate crisis", "capacity building", "impact climate", "global warming", "reduce greenhouse gas", "reduce greenhouse", "early warning", "reduce emission", "technology transfer", "disaster risk", "action climate", "mitigation adaptation", "adaptation plan", "climate friendly", "climate resilient", "climate impact", "adapt climate", "climate relate disaster", "sea level rise", "extreme weather", "climate smart", "implementation climate", "level rise", "sea level", "resilience climate", "relate disaster", "adaptive capacity", "carbon sink", "commit reduce", "food security", "ghg emission", "change impact", "climate change impact", "combat climate", "impact climate change", "tackle climate", "climate policy", "mitigation measure"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0729,
+      "features": ["blue economy", "marine ecosystem", "coastal zone", "sea water", "protect area", "area network", "spatial plan", "marine biodiversity", "sea level", "sustainable use"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.3151,
+      "features": ["land use", "increase forest", "terrestrial marine", "climate change", "forest management", "land degradation", "ecosystem service", "protect area", "sustainable use", "forest cover", "forest land", "degraded land", "nature reserve", "restore degraded", "biodiversity ecosystem", "promote sustainable use", "restore degraded land", "habitat specie", "natural resource", "include forest", "natural ecosystem", "natural habitat", "forest product", "land management", "forest resource", "vulnerability climate change", "local community", "protect forest", "vulnerability climate", "forest forest"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.1966,
+      "features": ["peace justice", "peace justice strong", "justice strong", "justice strong institution", "strong institution", "decision making", "aim ensure", "make process", "vulnerable group", "social justice"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0424,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}
