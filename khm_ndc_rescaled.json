@@ -1,189 +1,104 @@
 [
   {
-    "id": 11,
-    "importance_ndc": 0.6427,
+    "id": 1,
+    "importance": 0.27,
     "features": null,
-    "category": "medium",
-    "total": 4.0008,
-    "importance_new": 0.6427,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 1
-  },
-  {
-    "id": 7,
-    "importance_ndc": 0.3808,
-    "features": null,
-    "category": "medium",
-    "total": 4.0008,
-    "importance_new": 0.3808,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.5925
-  },
-  {
-    "id": 5,
-    "importance_ndc": 0.2617,
-    "features": null,
-    "category": "medium",
-    "total": 4.0008,
-    "importance_new": 0.2617,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.4072
-  },
-  {
-    "id": 15,
-    "importance_ndc": 0.258,
-    "features": null,
-    "category": "medium",
-    "total": 4.0008,
-    "importance_new": 0.258,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.4014
-  },
-  {
-    "id": 12,
-    "importance_ndc": 0.2009,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.2009,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.3126
-  },
-  {
-    "id": 9,
-    "importance_ndc": 0.1981,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1981,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.3083
+    "category": "low"
   },
   {
     "id": 2,
-    "importance_ndc": 0.1976,
+    "importance": 0.3075,
     "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1976,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.3075
-  },
-  {
-    "id": 1,
-    "importance_ndc": 0.1735,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1735,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.27
-  },
-  {
-    "id": 16,
-    "importance_ndc": 0.131,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.131,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.2038
-  },
-  {
-    "id": 6,
-    "importance_ndc": 0.1236,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1236,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.1923
+    "category": "low"
   },
   {
     "id": 3,
-    "importance_ndc": 0.1179,
+    "importance": 0.1834,
     "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1179,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.1834
-  },
-  {
-    "id": 10,
-    "importance_ndc": 0.1123,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1123,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.1747
-  },
-  {
-    "id": 8,
-    "importance_ndc": 0.1074,
-    "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.1074,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.1671
+    "category": "low"
   },
   {
     "id": 4,
-    "importance_ndc": 0.0613,
+    "importance": 0.0954,
     "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.0613,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.0954
+    "category": "low"
   },
   {
-    "id": 14,
-    "importance_ndc": 0.0203,
+    "id": 5,
+    "importance": 0.4072,
     "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.0203,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.0315
+    "category": "medium"
   },
   {
-    "id": 17,
-    "importance_ndc": 0.0137,
+    "id": 6,
+    "importance": 0.1923,
     "features": null,
-    "category": "low",
-    "total": 4.0008,
-    "importance_new": 0.0137,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0.0213
+    "category": "low"
+  },
+  {
+    "id": 7,
+    "importance": 0.5925,
+    "features": null,
+    "category": "medium"
+  },
+  {
+    "id": 8,
+    "importance": 0.1671,
+    "features": null,
+    "category": "low"
+  },
+  {
+    "id": 9,
+    "importance": 0.3083,
+    "features": null,
+    "category": "low"
+  },
+  {
+    "id": 10,
+    "importance": 0.1747,
+    "features": null,
+    "category": "low"
+  },
+  {
+    "id": 11,
+    "importance": 1,
+    "features": null,
+    "category": "medium"
+  },
+  {
+    "id": 12,
+    "importance": 0.3126,
+    "features": null,
+    "category": "low"
   },
   {
     "id": 13,
-    "importance_ndc": 1,
+    "importance": 0,
     "features": null,
-    "category": "high",
-    "total": 4.0008,
-    "importance_new": 0,
-    "total_rescale": 3.0008,
-    "rf": 1.556,
-    "importance": 0
+    "category": "high"
+  },
+  {
+    "id": 14,
+    "importance": 0.0315,
+    "features": null,
+    "category": "low"
+  },
+  {
+    "id": 15,
+    "importance": 0.4014,
+    "features": null,
+    "category": "medium"
+  },
+  {
+    "id": 16,
+    "importance": 0.2038,
+    "features": null,
+    "category": "low"
+  },
+  {
+    "id": 17,
+    "importance": 0.0213,
+    "features": null,
+    "category": "low"
   }
 ]
