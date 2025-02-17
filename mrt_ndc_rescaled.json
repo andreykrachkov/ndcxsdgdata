@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1867,
+      "features": ["reduce poverty", "basic service", "people need", "economic development", "rural area", "climate relate"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.1706,
+      "features": ["food security", "improve resilience", "agricultural product", "fishery aquaculture", "food insecurity", "food nutrition", "agricultural production", "agriculture food", "community food", "strengthen food", "agriculture include", "food nutritional", "effect climate", "agricultural land", "agricultural productivity", "improve agricultural", "adverse effect", "livestock sector"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.1193,
+      "features": ["improve health", "community health", "people need", "cardiovascular disease", "health risk", "health strategy", "health people", "risk factor", "animal health", "respiratory disease", "natural environment", "health security"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0219,
+      "features": "sustainable development",
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.1478,
+      "features": ["rural woman", "woman man", "man woman", "include woman", "gender equity", "political economic", "ensure gender", "high woman", "labor market", "service woman", "action plan"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.1769,
+      "features": ["water supply", "drinking water", "drink water", "water body", "drinking water supply", "access water", "water resource", "water sanitation", "water management", "management water", "improve water", "water security", "water strategy", "body water", "improve access", "area include", "urban area", "flood risk"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["energy efficiency", "renewable energy", "power plant", "energy sector", "carbon neutral", "improve energy", "improve energy efficiency", "natural gas", "clean energy", "energy mix", "electricity generation", "energy demand", "wind energy", "wind turbine", "instal capacity", "solar wind", "energy performance", "energy resource", "wind farm", "fuel oil", "electricity network", "energy power", "electric car", "term energy", "electricity grid", "energy save", "emission energy", "achieve energy", "mw mw", "energy consumption", "energy production", "energy energy", "energy renewable", "share renewable", "solar energy", "increase share", "public building", "total energy consumption", "development renewable", "development renewable energy", "building construct", "form energy", "renewable resource", "efficiency energy", "energy efficiency energy", "energy renewable energy", "share renewable energy", "electricity production", "energy saving", "building new"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.2519,
+      "features": ["young people", "job creation", "economic development", "economic growth", "gdp growth", "labor market", "youth policy", "sector growth", "resilient economy", "economic sector", "economic activity", "national economic", "private sector"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.1722,
+      "features": ["infrastructure development", "infrastructure develop", "capacity building", "rail transport", "creation job", "resilient infrastructure", "industrial sector", "financial support", "new industrial", "plan future"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.1237,
+      "features": ["social economic", "development plan", "improve quality life", "quality life", "promote equality", "task force"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.6519,
+      "features": ["urban planning", "urban plan", "solid waste", "development plan", "regional planning", "water heater", "early warning", "land use", "use plan", "air quality", "human settlement", "housing unit", "waste management", "urban area", "waste collect", "local authority", "international community", "access housing", "waste collection", "planning management", "quality life", "economic social", "waste produce", "urban planning management", "area include", "housing urban", "land use plan", "urban solid waste", "urban solid", "improve air quality", "improve air", "public transport", "public participation", "area km2", "total area", "adapt climate change", "adapt climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.1519,
+      "features": ["solid waste", "year framework", "waste management", "solid waste management", "waste collection", "waste incineration", "energy waste", "organic agriculture", "capacity building", "promote private", "city country"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "adaptation action", "capacity building", "greenhouse gas", "strengthen resilience", "carbon neutrality", "mitigation measure", "climate change adaptation", "change adaptation", "effect climate", "resilience climate", "carbon neutral", "climate policy", "adaptation climate", "adaptation climate change", "renewable energy", "climate action", "country climate", "effect climate change", "determine contribution", "gas emission", "greenhouse gas emission", "adaptation plan", "reduction emission", "impact climate", "national climate", "adaptation measure", "carbon climate", "energy efficiency", "food security", "mitigation adaptation", "global warming", "technology transfer", "emission sector", "change impact", "climate change impact", "impact climate change", "action climate", "climate resilience", "national climate change", "integrate climate", "integrate climate change", "change vulnerability", "carbon market", "national communication", "flood risk", "increase temperature", "reduce emission", "early warning", "emission reduce"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0841,
+      "features": ["fishing sector", "body water", "coastal management", "fishery aquaculture", "work country"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.3984,
+      "features": ["climate change", "land use", "land management", "biodiversity conservation", "forest resource", "land ecosystem", "protection conservation", "area protect", "natural resource", "resilient climate", "action plan", "land degradation", "land forest", "combat desertification", "sustainable management", "conserve biodiversity", "land use plan", "use plan", "land use planning", "use planning", "base result", "forest product", "national land", "water coastal", "green job", "forest area", "degraded land", "degradation neutrality", "forest forest", "agricultural land"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.1339,
+      "features": ["public awareness", "aim ensure", "civil society", "private sector civil", "sector civil", "sector civil society", "international financial", "woman young"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0635,
+      "features": ["sustainable development", "development policy"],
+      "category": "low"
+    }
+  ]
+}
