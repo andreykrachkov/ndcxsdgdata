@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0733,
+      "features": ["climate relate", "development poverty", "incidence poverty", "economic development", "poor household"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.1297,
+      "features": ["food security", "security climate", "climate smart", "agriculture fishery", "carbon sequestration", "food agriculture", "ensure food", "ensure food security", "aim reduce", "impact food", "fishery sector", "effect climate", "agriculture sector", "agricultural product", "small scale", "adverse effect", "organic agriculture", "livestock sector", "research development"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0174,
+      "features": ["improve health", "health increase"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0093,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.1113,
+      "features": ["gender responsive", "participation woman", "labor force", "force participation", "gender equality", "woman man", "woman labor", "gender mainstreaming", "disaggregate datum", "woman girl", "include woman", "gender pay", "gender pay gap", "pay gap", "develop gender", "age woman", "ensure gender", "achieve gender", "gender equity", "woman business", "source health"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0768,
+      "features": ["treatment facility", "wastewater treatment", "water treatment", "water treat", "water sector", "water management", "sanitation service", "water resource", "water quality", "water relate", "treatment plant", "country water", "private sector civil", "efficiency sector", "sector civil society", "sector civil"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["carbon dioxide", "dioxide equivalent", "carbon dioxide equivalent", "sustainable energy", "industry transport", "practice implement", "energy security", "accelerate transition", "inclusive growth", "renewable energy", "renewable source", "generation renewable", "energy sector", "energy efficiency", "energy generation", "fossil fuel", "power generation", "electric vehicle", "power plant", "transport sector", "energy energy", "natural gas", "electric energy", "offshore wind", "transition green", "energy transition", "sector action", "clean energy", "energy source", "energy use", "energy policy", "energy mix", "renewable energy source", "solar energy", "energy investment", "renewable energy energy", "reduce carbon", "good practice", "implementation energy", "coal power", "energy efficiency conservation", "efficiency conservation", "power sector", "measure reduce", "energy consumption", "energy project", "renewable energy project", "energy supply", "reduce energy", "electricity generation"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.3258,
+      "features": ["economic growth", "private sector", "economic sector", "inclusive growth", "decent work", "sustainable growth", "human capital", "promote sustain", "percentage point", "sector participation", "private sector participation", "promote sustainable", "international standard", "disaster risk", "job creation", "gdp capita", "decent job", "supply chain", "work opportunity", "right worker", "financial institution", "create decent", "skill development", "trade union", "sector investment", "point low", "long term", "growth development", "social dialogue", "implement policy", "government support", "include climate", "business model", "commercial bank", "domestic foreign", "transport sector"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.4025,
+      "features": ["capacity building", "industry service", "sector develop", "policy regulation", "new technology", "industrial sector", "development industrial", "infrastructure sustainable", "rail transport", "information communication technology", "communication technology", "public transport", "information communication", "sustainable transport", "greenhouse gas", "social impact", "public infrastructure", "investment new", "master plan", "infrastructure project", "long term", "technology innovation", "transport network", "medium enterprise", "small medium", "economy develop", "public private", "private sector develop", "small medium enterprise", "development research", "water wastewater", "green building", "public transport network", "inclusive green"],
+      "category": "medium"
+    },
+    {
+      "id": 10,
+      "importance": 0.1165,
+      "features": ["economic growth", "sexual orientation", "child youth", "gender identity", "inclusive economic growth", "inclusive economic", "development partner", "social inclusion", "policy measure", "agriculture waste", "vulnerable group", "enhance development"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.4209,
+      "features": ["solid waste", "disaster risk", "waste management", "risk reduction", "land use", "local government", "disaster risk reduction", "sewage treatment", "soil water", "safe resilient", "cultural heritage", "public transport", "human settlement", "resilience disaster", "critical infrastructure", "sustainable transport", "development plan", "quality standard", "policy plan", "disaster preparedness", "city region", "sewage treatment plant", "packaging waste", "waste waste", "solid waste disposal", "strengthen disaster", "preparedness response", "air quality", "public facility", "waste collect", "regional development", "waste collection", "target sustainable", "promote use", "strategy climate change", "transport project", "master plan", "strategy climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.3348,
+      "features": ["circular economy", "capacity building", "consumption production", "sustainable consumption", "sustainable consumption production", "production practice", "city country", "solid waste", "waste management", "solid waste management", "treatment facility", "national level", "fossil fuel", "raw material", "waste waste", "green procurement", "promote private", "domestic waste", "energy generation", "waste landfill", "environmental impact", "waste disposal", "green building", "resource efficiency", "management program", "resource ensure", "national plan", "ton day", "disposal site", "public procurement", "plastic waste", "waste collection", "reduce plastic waste", "reduce plastic", "industrial waste", "consumption pattern", "industrial wastewater", "aim reduce"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "climate change mitigation", "change mitigation", "carbon dioxide", "low carbon", "emission reduction", "climate relate", "greenhouse gas", "gas emission", "climate finance", "adaptive capacity", "strengthen resilience", "extreme weather", "mitigation action", "extreme weather event", "weather event", "capacity building", "food security", "climate change adaptation", "change adaptation", "low carbon economy", "access climate", "carbon economy", "disaster resilient", "climate action", "climate disaster", "change impact", "climate change impact", "greenhouse gas emission", "adaptation measure", "country climate", "resilience adaptive capacity", "address climate change", "resilience adaptive", "address climate", "implement climate", "strengthen resilience adaptive", "local community", "climate smart", "practice implement", "low carbon development", "carbon development", "country climate change", "measure climate", "socio economic", "renewable energy", "mitigation adaptation", "climate resilient", "national climate", "energy efficiency"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0052,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.1854,
+      "features": ["ecosystem biodiversity", "climate change", "government action", "land use", "nature base", "forest resource", "use land", "land management", "forest degradation", "degraded land", "forestry sector", "sustainable management", "deforestation forest", "deforestation forest degradation", "management forest", "forest carbon", "area cover", "end total", "management capacity"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.1779,
+      "features": ["local government", "government agency", "risk management", "public sector", "monitoring evaluation", "participation develop", "human right", "skill training", "right work", "financial resource"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0583,
+      "features": ["private sector", "civil society", "sustainable development", "foreign direct", "economic growth", "local community", "climate change mitigation", "change mitigation", "development partner", "international partner", "capacity building"],
+      "category": "low"
+    }
+  ]
+}
