@@ -1,0 +1,89 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1653,
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.2215,
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0968,
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0331,
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.1543,
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0453,
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.7828,
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.2794,
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.1183,
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.1199,
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.2721,
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.1382,
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.4883,
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.2753,
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0712,
+      "category": "low"
+    }
+  ]
+}
