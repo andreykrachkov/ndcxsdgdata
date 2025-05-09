@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1808,
+      "features": ["eradicate poverty", "poverty reduction", "development poverty", "financial assistance", "poverty high", "support need", "rural urban", "extreme event"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.0996,
+      "features": ["research development", "climate smart", "extension service", "agricultural research", "smallholder farmer", "agricultural production", "agricultural land", "agricultural product", "increase productivity", "public health"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0709,
+      "features": ["public health", "health promote"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0942,
+      "features": ["gender equality", "gender equity", "action plan", "national policy"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.1955,
+      "features": ["water resource", "water supply", "water quality", "water management", "management water", "sanitation hygiene", "water wastewater", "groundwater resource", "safe water", "wastewater management", "agricultural sector", "support develop", "water resource management", "resource management", "integrate water", "integrate water resource"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["natural gas", "renewable energy", "energy source", "dioxide equivalent", "energy sector", "carbon dioxide equivalent", "include energy", "use renewable", "carbon dioxide", "waste energy", "clean energy", "energy technology", "fossil fuel", "energy energy", "energy efficiency", "electricity generation", "renewable energy source", "renewable source", "target energy", "instal capacity", "capacity mw", "energy electricity", "use renewable energy", "transport sector", "power generation", "alternative energy", "renewable energy energy", "clean technology", "energy energy efficiency", "energy transportation", "energy management", "fuel source", "renewable energy electricity", "high low", "efficiency improvement", "energy supply"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.3475,
+      "features": ["private sector", "economic growth", "domestic foreign", "national economic", "long term", "include climate"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.3266,
+      "features": ["research development", "infrastructure include", "infrastructure promote", "development new", "road infrastructure", "climate proof", "water wastewater", "infrastructure service", "greenhouse gas", "rural area", "gas emission", "capacity building", "increase productivity"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.1807,
+      "features": ["development partner", "people disability", "inequality include", "include people"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.6128,
+      "features": ["international community", "urban rural", "early warning", "promote use", "waste management", "human settlement", "management waste", "planning management", "land use", "population growth", "land use plan", "settlement development", "waste management sector", "use plan", "access adequate", "plan include", "public transport", "critical infrastructure", "development plan", "sustainable waste"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.2395,
+      "features": ["waste management", "waste recycling", "waste disposal", "management program", "develop implement", "waste disposal site", "disposal site", "use natural", "reduce consumption", "aim reduce"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "greenhouse gas", "impact climate", "impact climate change", "gas emission", "climate change adaptation", "change adaptation", "emission reduction", "greenhouse gas emission", "climate resilient", "adaptation action", "extreme weather", "change impact", "climate change impact", "low emission", "mitigation action", "climate smart", "promote climate", "adaptation measure", "reduction target", "change mitigation", "climate relate", "climate resilience", "early warning", "determine contribution", "climate change mitigation", "reduce emission", "mitigation adaptation", "climate finance", "adaptive capacity", "reduce greenhouse gas", "renewable energy", "reduce greenhouse", "sea level rise", "level rise", "sea level", "extreme weather event", "weather event", "climate vulnerability", "capacity climate", "address climate change", "address climate", "national climate", "climate fund", "disaster risk", "national adaptation", "climate risk", "target climate", "global warming", "action sector"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0563,
+      "features": ["fishery aquaculture", "marine resource", "coastal marine", "sea level", "coastal community", "management coastal", "research development", "blue economy", "base management"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.2679,
+      "features": ["climate change", "ecosystem service", "forest management", "land use", "forest land", "forest degradation", "biodiversity ecosystem", "deforestation forest", "afforestation reforestation", "management practice", "loss biodiversity", "deforestation forest degradation", "land use plan", "use plan", "land use planning", "use planning", "forest sector", "sustainable forest", "land management", "biological diversity", "convention biological", "convention biological diversity", "national report", "management protect"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.2781,
+      "features": ["civil society", "local government", "ensure effective", "good governance"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0395,
+      "features": ["sustainable development", "development goal", "priority sector"],
+      "category": "low"
+    }
+  ]
+}
