@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.146,
+      "features": ["poverty reduction", "poverty rate", "extreme poverty", "reduce poverty", "eradicate poverty", "social service", "support need"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.2963,
+      "features": ["food insecurity", "food security", "agricultural area", "food nutrition", "food nutritional", "young people", "agricultural practice", "agriculture livestock", "resource food", "agricultural production", "agricultural land", "agricultural product", "increase food", "food security nutrition", "security nutrition", "adverse effect", "agricultural development", "area organic", "nutritional security", "food nutritional security", "reduction food", "large scale", "good agricultural", "extension service", "agricultural activity", "nutritional status", "aim reduce", "sector promote", "increase demand", "national level", "effect climate", "carbon sequestration"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.1585,
+      "features": ["health population", "long term", "human animal", "public health", "health problem", "cardiovascular disease", "health risk", "mortality live", "healthcare facility", "health care", "health child"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0025,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0808,
+      "features": ["man woman", "gender equality", "action plan"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.5557,
+      "features": ["water resource", "water desalination", "water supply", "treat wastewater", "drinking water", "access water", "change water", "flood risk", "climate change water", "water resource management", "resource management", "integrated water", "sustainable management", "integrated water resource", "desalination plant", "urban area", "wastewater collection", "high level", "water sanitation", "surface water", "country water", "water treatment", "water distribution", "water need", "area include", "agricultural sector", "water treat", "water quality", "wastewater treatment", "management water", "provide water", "sustainable management water", "treatment plant", "water water", "management water resource", "water supply sanitation", "supply sanitation", "water shortage", "ensure availability", "drinking water sanitation", "water ensure", "water reuse", "availability water", "water human", "area water", "access drinking", "access drinking water", "reduction water", "source water", "resource water"],
+      "category": "medium"
+    },
+    {
+      "id": 7,
+      "importance": 0.8148,
+      "features": ["renewable energy", "fuel oil", "energy sector", "power plant", "electricity demand", "electricity production", "carbon dioxide", "project aim", "energy efficiency", "transport sector", "improve access", "energy production", "wind farm", "charge station", "use renewable energy", "use renewable", "efficiency building", "energy efficiency building", "country energy", "household business", "development renewable", "development renewable energy", "electric car", "energy consumption", "energy service", "energy supply", "energy renovation", "public building", "energy resource", "solar pv", "capacity mw", "local production", "solar power", "mw solar", "practice implement", "clean technology", "energy consume", "good practice", "implementation energy", "relate energy", "increase use", "energy waste", "energy save", "emission energy", "street lighting", "street light", "wind solar", "project implement", "electricity sector", "total energy"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1918,
+      "features": ["growth rate", "economic growth", "private sector", "unemployment rate", "young people", "employment rate", "job creation", "gdp growth", "increase economic", "economic diversification", "year old", "long term", "gdp capita", "economic activity", "human capital", "sector participation", "private sector participation", "national economic", "transport sector"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.2306,
+      "features": ["public private", "capacity building", "urban infrastructure", "sustainable transport", "city project", "master plan", "support need", "infrastructure project", "rural population", "public investment", "support program", "long term"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.1017,
+      "features": ["growth rate", "safe regular", "economic growth", "aim reduce", "capita income", "employment rate", "average capita"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "features": ["urban area", "development plan", "international community", "population live", "population growth", "municipal waste", "year old", "increase number", "plan implementation", "living condition", "urban center", "natural disaster", "improve living", "area km2", "action address", "area include", "planning process", "people live", "master plan", "disaster risk", "housing unit", "risk reduction", "management waste", "promote use", "economic social", "real estate", "urban transport", "plan include", "need improve", "local authority", "sustainable transport", "social impact", "total area", "low middle income", "low middle", "mean transport", "adapt climate change", "public private partnership", "project improve", "private partnership", "adapt climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.2535,
+      "features": ["municipal waste", "waste management", "solid waste", "solid waste management", "sustainable tourism", "waste treat", "waste treatment", "electronic waste", "environmental management", "national level", "contribution achieve", "energy waste", "rate waste", "capacity building", "financial resource", "country energy"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "adaptation measure", "impact climate", "impact climate change", "effect climate", "effect climate change", "global warming", "renewable energy", "capacity building", "climate risk", "climate action", "sea level", "reduce emission", "strengthen resilience", "local community", "temperature increase", "greenhouse gas", "implement climate", "adaptation action", "adapt climate", "climate change vulnerability", "change vulnerability", "adapt climate change", "rise sea level", "rise sea", "heat wave", "policy strategy", "waste sector", "aim reduce", "food security", "mitigation adaptation", "climate change policy", "change policy", "increase carbon", "carbon dioxide", "energy efficiency", "climate resilience", "transport sector", "emission compare", "emission reduction", "greenhouse gas emission", "gas emission", "mitigation measure", "climate change adaptation", "change adaptation", "change climate", "address climate change", "address climate", "adaptive capacity", "natural disaster"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.1151,
+      "features": ["coastal area", "collection treatment", "marine biodiversity", "coastal zone", "area measure", "marine ecosystem", "coastal marine"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.5147,
+      "features": ["climate change", "biological diversity", "degraded land", "land use", "animal plant", "plant specie", "terrestrial marine", "specie plant", "local community", "agricultural land", "action plan", "forest land", "land area", "nature reserve", "restore degraded", "combat desertification", "restore degraded land", "strategy action plan", "land water", "strategy action", "plant tree", "include forest", "vulnerability climate change", "vulnerability climate", "total area", "land degradation", "invasive specie", "combat illegal", "protect biodiversity", "environmental protection", "sustainable management", "project aim", "natural reserve", "loss biodiversity", "biodiversity national", "national economy"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.1732,
+      "features": ["good governance", "local governance", "strategic plan", "relevant information", "international financial", "increase economic", "monitor implementation"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0998,
+      "features": ["sustainable development", "public private", "private sector", "international level", "development policy", "capacity building", "financial resource", "monitoring evaluation", "strengthen capacity", "state budget", "national financing", "international financial", "mean implementation", "civil society", "direct investment", "foreign direct investment", "foreign direct", "socio economic", "private sector civil"],
+      "category": "low"
+    }
+  ]
+}
