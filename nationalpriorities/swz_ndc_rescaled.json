@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2061,
+      "features": ["poverty eradication", "development poverty", "extreme event", "support vulnerable", "good practice", "climate relate"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.2415,
+      "features": ["food security", "nutrition security", "improve food", "food insecurity", "food nutrition", "food nutrition security", "nutritional need", "support food", "livestock production", "access market", "food security nutrition", "security nutrition", "value chain", "climate smart", "practice increase", "develop sustainable", "community food", "rural community", "healthy eating", "promote healthy", "key sector"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0798,
+      "features": ["health sector", "city health", "national health", "health policy", "disease control", "healthcare worker", "public health"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.2084,
+      "features": ["woman girl", "participation woman", "include woman", "representation woman", "support implementation", "woman total", "include gender", "national policy", "gender base", "gender responsive", "gender issue", "decision make", "develop gender"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.1472,
+      "features": ["water resource", "water supply", "water availability", "sustainable water", "water infrastructure", "increase water", "potable water", "water save", "groundwater resource", "water storage", "protect water", "monitoring water", "support develop", "water use", "improve water", "manage water", "water shortage", "manage water resource"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["energy intensity", "reduce energy", "renewable energy", "energy use", "access clean", "household energy", "share renewable", "share renewable energy", "electricity generation", "energy consumption", "modern energy", "clean fuel", "energy efficiency", "increase share", "access clean fuel", "solar power", "fuel technology", "clean fuel technology", "increase share renewable", "solar wind", "electricity supply", "efficiency improvement", "energy include", "area key", "energy mix", "access energy", "national energy", "transport sector", "include energy", "energy improve", "reduce carbon", "energy waste", "development economy", "international cooperation", "carbon neutral", "improve access", "good practice"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.2708,
+      "features": ["economic development", "economic sector", "economic growth", "real gdp", "economic activity", "source income", "long term", "average monthly"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.2403,
+      "features": ["value chain", "promote innovation", "develop sustainable"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0138,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.9916,
+      "features": ["disaster risk", "solid waste", "early warning", "waste management", "risk reduction", "urban rural", "air pollutant", "public participation", "waste generate", "solid waste disposal", "support sustainable", "water heater", "plan include", "disaster risk reduction", "urban area", "critical infrastructure", "risk management", "exist infrastructure", "population growth", "total area", "planning process", "disaster risk management", "master plan", "preparedness response", "human settlement", "pollutant emission", "need improve"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.546,
+      "features": ["circular economy", "solid waste", "waste generate", "waste disposal", "waste treat", "waste treatment", "life cycle", "waste disposal site", "disposal site", "resource use", "waste management", "household level", "waste include", "natural resource", "value chain", "community waste", "awareness program", "energy waste"],
+      "category": "medium"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "climate action", "greenhouse gas", "disaster risk", "determine contribution", "reduce emission", "climate smart", "emission reduction", "mitigation measure", "adaptive capacity", "adaptation action", "early warning", "change impact", "climate change impact", "risk reduction", "renewable energy", "capacity building", "impact climate", "impact climate change", "greenhouse gas emission", "gas emission", "climate change adaptation", "change adaptation", "effect climate", "effect climate change", "emission compare", "reduction target", "emission reduction target", "policy strategy", "food security", "disaster risk reduction", "climate relate", "climate resilience", "mitigation adaptation", "climate policy", "net emission", "climate resilient", "sector economy", "emission greenhouse gas", "emission greenhouse", "local community", "temperature increase", "commit reduce", "community resilience", "adaptation plan", "low carbon", "national climate", "global climate", "national climate change", "adaptation measure"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.4932,
+      "features": ["climate change", "degraded land", "land degradation", "ecosystem service", "protect area", "tree planting", "include tree", "tree plant", "total area", "natural resource", "invasive specie", "biodiversity loss", "biodiversity conservation", "land forest", "land area", "control invasive", "land ecosystem", "nature base", "land water", "negative impact", "ecosystem biodiversity", "economic value", "local community", "forest product", "natural resource management", "eco tourism", "sustainable use", "city urban", "plant tree", "action plan"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.0886,
+      "features": ["civil society", "legal framework"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.0657,
+      "features": ["sustainable development", "capacity building", "priority sector"],
+      "category": "low"
+    }
+  ]
+}
