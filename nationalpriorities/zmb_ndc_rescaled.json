@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0967,
+      "features": ["reduce poverty"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.2202,
+      "features": ["food security", "agriculture food", "crop livestock", "include agriculture"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0158,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0029,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.1117,
+      "features": ["woman man"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0583,
+      "features": ["urban area", "agricultural sector"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "features": ["renewable energy", "energy energy", "energy efficiency", "transport sector", "include energy", "renewable energy energy", "energy energy efficiency", "good practice"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1117,
+      "features": ["growth rate", "gdp growth", "gdp growth rate"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.2339,
+      "features": ["capacity building", "infrastructure development", "infrastructure develop", "development main", "long term", "local community", "impact include", "impact sector"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0229,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.9279,
+      "features": ["population growth", "infrastructure development", "solid waste", "waste management", "urban area", "early warning", "sustainable transport", "development plan", "waste generation", "total waste", "land use", "land use plan", "support sustainable", "use plan", "economic loss"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.5999,
+      "features": ["solid waste", "capacity building", "management sustainable", "waste management", "natural resource", "waste generation", "rate waste"],
+      "category": "medium"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "gas emission", "climate resilient", "carbon climate resilient", "carbon climate", "low carbon", "low carbon climate", "emission reduction", "greenhouse gas", "greenhouse gas emission", "reduce emission", "adaptation action", "mitigation action", "mitigation adaptation", "capacity building", "climate change adaptation", "change adaptation", "effect climate", "effect climate change", "socio economic", "food security", "ensure climate", "adaptation measure", "technology transfer", "change impact", "climate relate", "impact climate", "impact climate change", "integrate climate", "change climate", "climate change policy", "address climate change", "address climate", "change policy", "integrate climate change", "low emission", "climate impact", "reduce greenhouse gas", "renewable energy", "reduce greenhouse", "extreme weather", "good practice", "build resilience", "plan strategy", "reduction target", "early warning", "emission reduction target", "plan climate", "extreme weather event", "determine contribution"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.4364,
+      "features": ["climate change", "forest land", "forest management", "sustainable forest", "sustainable forest management", "protection conservation", "forest resource", "sustainable management", "management practice", "local community", "land use", "natural resource", "adaptation mitigation", "land use plan", "use plan"],
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 0.1725,
+      "features": ["civil society", "private sector civil", "sector civil", "sector civil society", "monitoring evaluation"],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.01,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}
