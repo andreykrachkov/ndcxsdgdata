@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0221,
+      "features": ["access basic", "access basic service", "basic service", "economic development"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.0784,
+      "features": ["sustainable agriculture", "agricultural product", "food product", "productive sustainable", "agricultural production", "agricultural area", "food production", "traditional knowledge", "agricultural sector", "agricultural land", "agri food", "genetic resource", "fishery aquaculture", "food security", "healthy food", "sustainable agricultural", "agricultural research", "promote sustainable", "value chain", "sustainable agricultural production", "proportion agricultural", "improve food", "soil conservation", "extension service", "agricultural practice", "food waste", "agricultural development", "national level", "soil water"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.0425,
+      "features": ["public health", "national level", "mental health", "health policy", "health sector", "human resource"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0126,
+      "features": ["cultural diversity", "education strategy"],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.0772,
+      "features": ["ethnic group", "gender base", "decision making", "meeting hold", "woman girl", "role woman", "violence woman", "gender base violence", "base violence", "ensure woman", "national action", "gender perspective", "decision make", "equal access", "access woman", "social vulnerability", "participation woman", "woman right", "woman participation", "land ownership", "action plan"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0555,
+      "features": ["water treatment", "water treat", "wastewater treatment", "water quality", "water pollution", "water supply", "drinking water", "treat wastewater", "water reuse", "impact water", "industrial wastewater", "municipal wastewater", "water protection", "water flow", "agricultural sector", "basic sanitation", "management water", "water use", "treatment plant", "wastewater treatment plant", "water body", "sustainable management", "urban water", "water conservation", "change water", "relate water", "implement water", "water use efficiency", "sector policy", "pollution water", "water treatment plant", "use efficiency", "support develop"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.0382,
+      "features": ["energy transition", "electricity sector", "carbon neutral", "energy sector", "energy production", "industry transport", "sector action", "energy consume", "achieve energy", "solar panel", "adoption sustainable", "energy mineral", "practice implement", "reduce carbon", "international cooperation"],
+      "category": "low"
+    },
+    {
+      "id": 8,
+      "importance": 0.1545,
+      "features": ["promote sustain", "sustainable tourism", "promote sustainable", "economic development", "promote sustainable tourism", "tourism sector", "economic activity", "new product", "job creation", "private sector", "long term", "sustainable economic", "business development", "economy indicator", "business model", "develop business", "business sector", "development tourism", "promote economic", "international standard", "country economic", "small medium", "youth woman", "high tech", "national economy", "environmental social", "work relate"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.0823,
+      "features": ["science technology", "road infrastructure", "local community", "technology innovation", "quality life", "research institute", "value chain", "long term", "capacity building", "value add", "industrial sector", "environmental impact", "public private", "national regional", "total cost", "research development", "infrastructure promote", "sustainable infrastructure", "manufacturing industry", "business sector", "high tech", "economy develop", "infrastructure plan", "business support", "support program", "city develop", "social environmental"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0467,
+      "features": ["social inclusion", "population group", "development plan", "protection right", "participation people", "strengthen gender"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.4665,
+      "features": ["land use", "planning management", "rural development", "use plan", "land use plan", "risk management", "solid waste", "development plan", "waste management", "local authority", "build area", "urban planning", "urban area", "urban plan", "green area", "sustainable community", "regional planning", "planning process", "housing sector", "urban development", "public space", "risk reduction", "regional development", "urban rural", "pollution control", "management waste", "urban green", "area country", "public private partnership", "territorial development", "private partnership", "economic social", "area development", "sustainable city", "disaster risk", "resilient sustainable", "waste management waste", "municipal waste", "green public", "city local", "environmental impact", "policy plan", "green space", "community include", "access green", "improve urban", "protection management", "housing urban", "sustainable building", "disaster risk management"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.132,
+      "features": ["solid waste", "waste management", "sustainable production", "national level", "sustainable consumption", "natural resource", "production consumption", "sustainable practice", "solid waste management", "use natural", "sustainable production consumption", "use natural resource", "waste disposal", "negative impact", "single use", "single use plastic", "use plastic", "national action", "information reporting", "circular economy", "food waste", "hazardous waste", "waste generate", "reduce waste", "environmental impact", "corporate social", "social environmental", "value chain", "country caribbean", "practice sustainable", "environmental management", "efficient use", "challenge implement", "scientific technological", "waste disposal site", "hazardous waste generate", "disposal site", "rate waste", "environmental education", "sustainability criterion", "mitigate negative", "air water", "capacity building", "human health", "develop implement", "relate environmental", "implementation plan", "environmental sector", "industrial waste", "progress reduce"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "territorial planning", "climate adaptation", "planning management", "climate action", "local community", "climate change adaptation", "change adaptation", "risk management", "institutional capacity", "nature base", "nature base solution", "climate change biodiversity", "change biodiversity", "adaptation climate", "adaptation climate change", "climate finance", "greenhouse gas", "monitoring reporting", "climate resilience", "carbon neutrality", "carbon neutral", "management climate", "low carbon", "greenhouse gas emission", "gas emission", "relate climate change", "relate climate", "management indicator", "impact climate", "impact climate change", "adaptation measure", "integrate climate", "country climate", "climate risk", "change relate", "emission intensity", "action sector", "good practice", "implementation climate", "carbon market", "climate change mitigation", "change mitigation", "environmental education", "low carbon development", "carbon development", "achieve carbon", "adaptation action", "national policy", "policy strategy"],
+      "category": "medium"
+    },
+    {
+      "id": 14,
+      "importance": 0.1308,
+      "features": ["marine coastal", "coastal marine", "marine ecosystem", "protect area", "coastal ecosystem", "fishing sector", "management plan", "marine coastal ecosystem", "sustainable use", "sustainable practice", "coral reef", "marine area", "fishing community", "coastal marine area", "environmental impact", "fish stock", "conservation sustainable", "management marine", "national international", "include marine", "reduce environmental", "fishing practice", "sustainable fishery", "area marine", "management coastal", "sustainable fishing", "reduce environmental impact", "management measure", "scientific information", "water treatment", "sustainable management", "industry promote", "spatial plan", "environmental education", "protect marine", "coastal area", "coastal zone", "body water", "water protect", "work carry", "research development", "urban water", "marine water", "state marine", "fishing activity", "product service", "conservation area", "city national", "term sustainability", "use plastic"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 1,
+      "features": ["climate change", "sustainable use", "ecosystem service", "protect area", "biodiversity loss", "biodiversity conservation", "use biodiversity", "local community", "land use", "conservation sustainable", "conservation sustainable use", "biological diversity", "sustainable use biodiversity", "invasive alien", "conservation restoration", "alien specie", "management plan", "use plan", "invasive alien specie", "land use plan", "biodiversity ecosystem", "nature base", "forest area", "fair equitable", "use planning", "forest management", "natural resource", "land use planning", "relate biodiversity", "environmental education", "environmental management", "institutional capacity", "action plan", "natural ecosystem", "conservation biodiversity", "invasive specie", "impact biodiversity", "sustainable management", "land water", "threaten specie", "sustainable forest", "inland water", "area base", "agriculture practice", "sustainable forest management", "management protect", "ecosystem function", "access genetic", "green blue", "protection conservation"],
+      "category": "high"
+    },
+    {
+      "id": 16,
+      "importance": 0.3206,
+      "features": ["decision making", "human right", "public policy", "citizen participation", "risk management", "national regional", "participatory process", "guarantee right", "access information", "local governance", "right access", "cross border cooperation", "border cooperation", "civil society", "foreign policy", "public sector", "efficiency effectiveness", "information public", "protection human", "use technology", "urban rural area", "awareness raise", "rate inhabitant", "meeting hold", "peace building", "local government", "society sustainable", "ensure effective", "informed decision", "criminal case", "financial resource", "community include"],
+      "category": "medium"
+    },
+    {
+      "id": 17,
+      "importance": 0.0302,
+      "features": ["sustainable development", "public private", "development assistance", "official development", "official development assistance", "resource mobilization", "financial resource", "private sector", "international cooperation", "development agenda", "sustainable development agenda", "capacity building", "cooperation include", "level global", "debt sustainability", "international financial", "local community"],
+      "category": "low"
+    }
+  ]
+}
