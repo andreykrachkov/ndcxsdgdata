@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3697,
+      "features": ["social protection", "vulnerable population", "multidimensional poverty", "poverty eradication", "social protection measure", "resilient development", "basic need", "inequality protect", "high rate", "rural area", "inclusion social", "extreme event", "essential service", "service water", "economic development"],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.2631,
+      "features": ["food security", "agricultural production", "agricultural product", "food nutrition", "food supply", "ensure food", "ensure food security", "production food", "adequate food", "impact food", "reduce food", "national level", "effect climate", "agricultural sector", "food production", "food sector", "food product", "rural development", "traditional knowledge", "sector policy", "carbon sequestration"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.1329,
+      "features": ["air quality", "public health", "mental health", "city health", "national level", "service health", "improve air quality", "improve air", "health service", "quality health", "child adolescent", "health country"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0.0843,
+      "features": ["education training", "educational process", "indigenous people", "high education", "level education", "early childhood", "childhood education", "early childhood education", "education level", "human right gender", "cultural diversity", "right gender"],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0.1506,
+      "features": ["promote woman", "policy gender", "gender equity", "role woman", "ethnic group", "disaggregate datum"],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.1163,
+      "features": ["water resource", "water supply", "water sanitation", "management water", "drinking water", "water resource management", "resource management", "water scarcity", "water supply sanitation", "supply sanitation", "water shortage", "access safe", "urban drainage", "relate water", "sanitation facility", "population water", "sustainable urban drainage", "safe affordable drinking", "affordable drinking", "affordable drinking water", "integrate management", "focal point", "management water resource", "equitable access", "sanitation sector", "basic sanitation", "territorial planning"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.8154,
+      "features": ["fossil fuel", "renewable energy", "energy efficiency", "goal reduce", "carbon neutral", "energy sector", "energy security", "energy transition", "energy source", "energy energy", "renewable energy source", "natural gas", "fuel oil", "renewable energy energy", "energy energy efficiency", "energy management", "electric vehicle", "dependence fossil", "dependence fossil fuel", "business model", "measure reduce", "international cooperation", "attract investment", "clean fuel", "energy mix", "national energy", "electricity generation", "ensure access", "electric power", "support development", "use renewable energy", "transport sector", "alternative energy", "use renewable", "ensure energy", "generation capacity", "clean technology", "energy generation", "technology promote", "energy efficiency measure", "country energy", "electricity grid", "efficiency measure", "electricity heat", "energy service", "climate goal", "sector action", "energy transportation", "electricity demand", "action environment"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1665,
+      "features": ["sustainable tourism", "tourism policy", "sustainable economic", "economic development", "economic diversification", "social dialogue", "decent employment", "tourism sector", "new business", "skill development", "business model", "strategic sector", "international standard"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.282,
+      "features": ["value chain", "capacity building", "infrastructure sustainable", "greenhouse gas", "innovation ecosystem", "public transport", "rural area", "resilient infrastructure", "public private", "local community", "gas emission", "sustainable mobility", "support need", "international market", "resource conservation"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.2002,
+      "features": ["social inclusion", "sexual orientation", "promote social", "social economic", "disaggregate datum", "urban rural"],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "features": ["risk management", "human settlement", "urban rural", "cultural heritage", "disaster risk", "economic loss", "waste management", "international community", "urban development", "resilient sustainable", "goal sustainable", "city human", "city human settlement", "sustainable urban", "solid waste", "planning management", "sustainable housing", "urban space", "land use", "public participation", "resilient urban", "sustainable building", "territorial development", "sustainable city", "air quality", "public transport", "public transportation", "risk reduction", "air pollutant", "early warning", "safe affordable", "access safe", "city local", "promote use", "quality life", "economic social", "reduce adverse", "action address", "community life", "social cohesion", "local regional", "access safe affordable", "adapt climate change", "improve air quality", "improve air", "access adequate", "adapt climate"],
+      "category": "medium"
+    },
+    {
+      "id": 12,
+      "importance": 0.1852,
+      "features": ["production consumption", "waste management", "sustainable production", "sustainable production consumption", "fossil fuel", "business model", "circular economy", "solid waste", "solid waste management", "sustainable tourism", "food loss", "reduce food", "good service", "reduce food loss", "domestic waste", "environmental social", "natural resource", "social responsibility", "focus sustainable"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate action", "climate change", "mitigation adaptation", "carbon neutrality", "carbon neutral", "adaptive capacity", "climate crisis", "impact climate", "climate finance", "impact climate change", "carbon emission", "risk management", "climate resilience", "reduce emission", "national adaptation", "climate risk", "national climate", "greenhouse gas", "adaptation climate", "effect climate", "adaptation climate change", "ensure climate", "climate policy", "country climate", "net emission", "address climate", "capacity building", "technology transfer", "energy efficiency", "food security", "gas emission", "climate change adaptation", "change adaptation", "effect climate change", "renewable energy", "territorial planning", "emission reduction", "greenhouse gas emission", "disaster risk", "adaptation measure", "integrate climate", "future generation", "national policy", "air quality", "vulnerable impact", "extreme weather", "vulnerable community", "extreme weather event", "access climate", "weather event"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.0326,
+      "features": ["marine coastal", "coastal ecosystem", "marine coastal ecosystem", "marine ecosystem", "include marine", "cultural heritage"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.9147,
+      "features": ["climate change", "biodiversity conservation", "land use", "protection biodiversity", "ecosystem service", "forest area", "biodiversity loss", "land management", "sustainable management", "natural resource", "human activity", "area cover", "ecosystem biodiversity", "use land", "conservation restoration", "protect area", "environmental management", "conservation sustainable", "land water", "forest management", "sustainable use", "forest cover", "forest degradation", "land area", "biodiversity protection", "conservation project", "protect biodiversity", "biodiversity ecosystem", "environmental protection", "conservation protection", "management practice", "inland water", "adaptation mitigation", "management forest", "implement sustainable", "local community", "restore forest", "agricultural land", "conservation restoration sustainable", "restoration sustainable use", "biodiversity target", "relate biodiversity", "global biodiversity", "urban forest", "implementation sustainable", "country territory", "degradation loss", "halt deforestation", "biodiversity sustainable"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.8103,
+      "features": ["human right", "public policy", "access information", "social justice", "monitoring evaluation", "civil society", "child right", "promote peaceful", "public administration", "public institution", "risk management", "promote peace", "right child", "line international", "information public", "ensure effective", "information management", "national legislation", "financial resource", "public awareness", "legal framework", "protect human", "national human", "participatory process", "international financial", "vulnerable group", "participation develop", "strategic plan", "fundamental right", "justice ensure"],
+      "category": "medium"
+    },
+    {
+      "id": 17,
+      "importance": 0.0589,
+      "features": [],
+      "category": "low"
+    }
+  ]
+}
