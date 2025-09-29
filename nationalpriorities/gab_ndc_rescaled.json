@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.0777,
+      "features": ["agriculture sector", "agricultural production", "agricultural land", "agricultural product", "ensure food", "genetic resource", "provide food", "food feed"],
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.033,
+      "features": ["long term"],
+      "category": "low"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.0639,
+      "features": ["water resource", "water sanitation", "water supply", "water resource management", "resource management", "rainwater harvesting", "city water", "water quality", "provide water", "transboundary water", "fresh water", "promote water", "agricultural sector"],
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.8875,
+      "features": ["carbon dioxide", "energy sector", "energy efficiency", "carbon neutral", "natural gas", "emission energy", "renewable energy", "power plant", "improve energy", "improve energy efficiency", "energy source", "fossil fuel", "solar energy", "fuel oil", "industry transport", "energy improve", "electricity grid", "energy policy", "access electricity", "reduce energy", "renewable energy source", "electricity sector", "source energy", "instal capacity", "gas pipeline", "solar photovoltaic", "improvement energy", "base energy", "capacity mw", "solar power", "dependence fossil", "energy solar", "dependence fossil fuel", "energy efficiency measure", "improvement energy efficiency", "efficiency measure", "investment project", "gas production", "continue grow"],
+      "category": "medium"
+    },
+    {
+      "id": 8,
+      "importance": 0.1693,
+      "features": ["economic growth", "job create", "gdp growth", "increase economic", "private sector", "national economy"],
+      "category": "low"
+    },
+    {
+      "id": 9,
+      "importance": 0.1849,
+      "features": ["achieve goal", "public private", "road rail", "resilient infrastructure", "development industrial", "long term", "technical support", "international market", "capacity building", "electricity grid"],
+      "category": "low"
+    },
+    {
+      "id": 10,
+      "importance": 0.0023,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 11,
+      "importance": 0.3373,
+      "features": ["land use", "urban area", "international community", "urban planning", "urban plan", "population growth", "use plan", "waste management", "green space", "area country", "area development", "land use plan", "water heater", "increase number", "solid waste", "waste waste"],
+      "category": "low"
+    },
+    {
+      "id": 12,
+      "importance": 0.0577,
+      "features": ["waste management", "waste waste", "solid waste"],
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "features": ["climate change", "determine contribution", "climate finance", "carbon dioxide", "greenhouse gas", "carbon neutral", "carbon sink", "greenhouse gas emission", "reduce emission", "gas emission", "emission reduction", "effect climate", "effect climate change", "energy efficiency", "renewable energy", "access climate", "carbon neutrality", "carbon market", "emission sector", "impact climate", "impact climate change", "national climate", "adaptation climate", "climate resilient", "reduce greenhouse gas", "reduce greenhouse", "capacity building", "increase climate", "mitigation measure", "net emission", "adaptation plan", "adaptation climate change", "climate mitigation", "international climate", "extreme weather", "weather condition", "sea level", "policy climate", "extreme weather event", "economic transformation", "weather event", "forest forest", "combat climate", "combat climate change", "waste sector", "climate action", "change impact", "climate change impact", "climate resilience", "national climate change"],
+      "category": "high"
+    },
+    {
+      "id": 14,
+      "importance": 0.023,
+      "features": ["marine ecosystem", "protection marine", "territorial water"],
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 1,
+      "features": ["climate change", "ecosystem service", "sustainable forest", "land use", "forest carbon", "forest management", "protect area", "sustainable forest management", "agricultural land", "sustainable management", "use plan", "use planning", "forest land", "area forest", "forestry sector", "manage forest", "forest forest", "national park", "management forest", "implementation sustainable", "implement sustainable", "forest sector", "national economy", "forest cover", "forest degradation", "conservation sustainable", "land area", "sustainable land", "deforestation forest", "area protect", "management practice", "area increase", "deforestation forest degradation", "area country", "land use plan", "reduce impact", "economic value", "land use planning", "value national", "base result", "protect forest", "sustainable land use", "environmental management", "forest resource", "mitigation climate change", "mitigation climate", "implement year", "management area"],
+      "category": "medium"
+    },
+    {
+      "id": 16,
+      "importance": 0.0237,
+      "features": [],
+      "category": "low"
+    },
+    {
+      "id": 17,
+      "importance": 0.016,
+      "features": ["public private", "international partner", "international partnership", "sustainable economic"],
+      "category": "low"
+    }
+  ]
+}
