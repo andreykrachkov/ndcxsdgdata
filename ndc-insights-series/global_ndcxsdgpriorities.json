@@ -2,88 +2,88 @@
   "global_ndcsdgpriorities": [
     {
       "id": 1,
-      "importance": 0.0542,
-      "sdg_num": "SDG 1"
+      "importance": 0.2192,
+      "category": "Low"
     },
     {
       "id": 2,
-      "importance": 0.0849,
-      "sdg_num": "SDG 2"
+      "importance": 0.1574,
+      "category": "Low"
     },
     {
       "id": 3,
-      "importance": 0.0898,
-      "sdg_num": "SDG 3"
+      "importance": 0.1,
+      "category": "Low"
     },
     {
       "id": 4,
-      "importance": 0.0123,
-      "sdg_num": "SDG 4"
+      "importance": 0.0374,
+      "category": "Low"
     },
     {
       "id": 5,
-      "importance": 0,
-      "sdg_num": "SDG 5"
+      "importance": 0.1096,
+      "category": "Low"
     },
     {
       "id": 6,
-      "importance": 0.0464,
-      "sdg_num": "SDG 6"
+      "importance": 0.1267,
+      "category": "Low"
     },
     {
       "id": 7,
-      "importance": 0.8377,
-      "sdg_num": "SDG 7"
+      "importance": 1,
+      "category": "High"
     },
     {
       "id": 8,
-      "importance": 0.0653,
-      "sdg_num": "SDG 8"
+      "importance": 0.2492,
+      "category": "Low"
     },
     {
       "id": 9,
-      "importance": 0.0899,
-      "sdg_num": "SDG 9"
+      "importance": 0.2308,
+      "category": "Low"
     },
     {
       "id": 10,
-      "importance": 0.0056,
-      "sdg_num": "SDG 10"
+      "importance": 0.1245,
+      "category": "Low"
     },
     {
       "id": 11,
-      "importance": 0.2461,
-      "sdg_num": "SDG 11"
+      "importance": 0.6474,
+      "category": "Medium"
     },
     {
       "id": 12,
-      "importance": 0.226,
-      "sdg_num": "SDG 12"
+      "importance": 0.2191,
+      "category": "Low"
     },
     {
       "id": 13,
-      "importance": 1,
-      "sdg_num": "SDG 13"
+      "importance": 0,
+      "category": "Low"
     },
     {
       "id": 14,
-      "importance": 0,
-      "sdg_num": "SDG 14"
+      "importance": 0.0705,
+      "category": "Low"
     },
     {
       "id": 15,
-      "importance": 0.3628,
-      "sdg_num": "SDG 15"
+      "importance": 0.4215,
+      "category": "Medium"
     },
     {
       "id": 16,
-      "importance": 0.0294,
-      "sdg_num": "SDG 16"
+      "importance": 0.2051,
+      "category": "Low"
     },
     {
       "id": 17,
-      "importance": 0.0021,
-      "sdg_num": "SDG 17"
+      "importance": 0.0343,
+      "category": "Low"
     }
   ]
 }
