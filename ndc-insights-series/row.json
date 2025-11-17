@@ -2,105 +2,88 @@
   "sdgs": [
     {
       "id": 1,
-      "importance": 0.2192,
-      "category": "Low",
-      "features": ["reduce poverty"]
+      "importance": 0.1927,
+      "category": "Low"
     },
     {
       "id": 2,
-      "importance": 0.1574,
-      "category": "Low",
-      "features": ["food security", "agriculture sector", "livestock production", "carbon sequestration", "national level"]
+      "importance": 0.132,
+      "category": "Low"
     },
     {
       "id": 3,
-      "importance": 0.1,
-      "category": "Low",
-      "features": ["mortality rate", "improve health", "animal health", "reduce mortality", "disease control", "health include", "achieve target"]
+      "importance": 0.084,
+      "category": "Low"
     },
     {
       "id": 4,
-      "importance": 0.0374,
-      "category": "Low",
-      "features": ["level education", "education sector", "education training", "development education", "sustainable development"]
+      "importance": 0.0318,
+      "category": "Low"
     },
     {
       "id": 5,
-      "importance": 0.1096,
-      "category": "Low",
-      "features": []
+      "importance": 0.091,
+      "category": "Low"
     },
     {
       "id": 6,
-      "importance": 0.1267,
-      "category": "Low",
-      "features": ["water resource", "water use", "protection water"]
+      "importance": 0.1066,
+      "category": "Low"
     },
     {
       "id": 7,
       "importance": 1,
-      "category": "High",
-      "features": ["power plant", "energy efficiency", "energy performance", "efficiency improvement", "energy sector", "transmission distribution", "energy project", "renewable energy", "energy production", "mw mw", "access electricity", "natural gas", "solar pv", "include energy", "solar power", "generate electricity", "energy saving", "increase access", "coal power", "improve health", "project implement", "energy policy", "renewable energy project", "energy intensity", "energy supply", "fossil fuel", "reduce energy", "promote energy", "access energy", "access clean", "solar energy", "instal capacity", "energy cost", "promote energy efficiency", "capacity mw", "support development", "affordable energy", "power generation", "mw solar", "energy improve", "energy water", "investment energy", "carbon dioxide", "improve access", "measure ensure", "energy save", "effort increase", "measure reduce", "emission energy", "waste energy"]
+      "category": "High"
     },
     {
       "id": 8,
-      "importance": 0.2492,
-      "category": "Low",
-      "features": []
+      "importance": 0.2426,
+      "category": "Low"
     },
     {
       "id": 9,
-      "importance": 0.2308,
-      "category": "Low",
-      "features": ["long term", "development project", "rural area", "resilient infrastructure", "research innovation", "greenhouse gas", "value chain", "total cost"]
+      "importance": 0.1777,
+      "category": "Low"
     },
     {
       "id": 10,
-      "importance": 0.1245,
-      "category": "Low",
-      "features": []
+      "importance": 0.1107,
+      "category": "Low"
     },
     {
       "id": 11,
-      "importance": 0.6474,
-      "category": "Medium",
-      "features": ["public transport", "human settlement", "waste management", "sustainable urban", "risk management", "spatial planning", "proper waste", "population growth", "cultural heritage", "heritage site", "solid waste", "early warning", "development plan", "urban centre", "solid waste disposal"]
+      "importance": 0.5486,
+      "category": "Medium"
     },
     {
       "id": 12,
-      "importance": 0.2191,
-      "category": "Low",
-      "features": ["solid waste", "natural resource", "waste disposal", "disposal site", "waste management", "production consumption", "waste treat", "waste treatment", "production waste", "management sustainable", "national level", "waste disposal site", "activity sector", "ensure sustainable", "kg kg", "energy water", "environment support"]
+      "importance": 0.1873,
+      "category": "Low"
     },
     {
       "id": 13,
       "importance": 0,
-      "category": "Low",
-      "features": ["climate change", "mitigation measure", "emission reduction", "greenhouse gas", "reduce emission", "climate change mitigation", "change mitigation", "climate action", "climate change adaptation", "change adaptation", "address climate change", "address climate", "mitigation action", "greenhouse gas emission", "gas emission", "adaptation action", "emission sector", "energy efficiency", "climate relate", "impact climate", "climate resilience", "integrate climate", "relate climate change", "integrate climate change", "relate climate", "net emission", "capacity building", "change impact", "climate change impact", "impact climate change", "mitigation adaptation", "national adaptation", "low emission", "climate finance", "global warming", "local community", "protection climate", "policy strategy", "waste sector", "emission capita", "renewable energy", "urgent action", "adaptation measure", "adaptation climate", "flash flood", "adaptation plan", "climate risk", "adaptation climate change", "relate hazard", "reduce greenhouse gas"]
+      "category": "Low"
     },
     {
       "id": 14,
-      "importance": 0.0705,
-      "category": "Low",
-      "features": []
+      "importance": 0.0448,
+      "category": "Low"
     },
     {
       "id": 15,
-      "importance": 0.4215,
-      "category": "Medium",
-      "features": ["climate change", "forest management", "sustainable forest", "area forest", "natural resource", "sustainable forest management", "forest land", "sustainable management", "forest area", "forest degradation", "forest resource", "environmental protection", "natural resource management", "adaptation mitigation", "change adaptation mitigation", "protect area", "forest cover", "land area", "national forest", "deforestation forest", "management practice", "maintain biodiversity", "deforestation forest degradation", "management forest", "implement sustainable", "local community", "increase forest", "protect forest", "conservation effort", "forest policy", "restore degraded", "degraded forest", "area increase", "protection water", "project implement", "tree plant"]
+      "importance": 0.4178,
+      "category": "Medium"
     },
     {
       "id": 16,
-      "importance": 0.2051,
-      "category": "Low",
-      "features": ["awareness raise"]
+      "importance": 0.2118,
+      "category": "Low"
     },
     {
       "id": 17,
-      "importance": 0.0343,
-      "category": "Low",
-      "features": []
+      "importance": 0.0216,
+      "category": "Low"
     }
   ]
 }
