@@ -1,0 +1,131 @@
+{
+  "relevance": 0.9324510614833195,
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1429060945390362,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 2,
+      "importance": 0.06181678676679073,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 3,
+      "importance": 0.2912146312360316,
+      "features": null,
+      "category": "medium"
+    },
+    {
+      "id": 4,
+      "importance": 0.44793793791758163,
+      "features": null,
+      "category": "medium"
+    },
+    {
+      "id": 5,
+      "importance": 0.18885071531105027,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 6,
+      "importance": 0.17265846597547585,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 7,
+      "importance": 0.1708373464267326,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 8,
+      "importance": 0.9174861974658489,
+      "features": null,
+      "category": "high"
+    },
+    {
+      "id": 9,
+      "importance": 0.8593617850342976,
+      "features": null,
+      "category": "high"
+    },
+    {
+      "id": 10,
+      "importance": 0.36626336224184236,
+      "features": null,
+      "category": "medium"
+    },
+    {
+      "id": 11,
+      "importance": 0.8006138341993153,
+      "features": null,
+      "category": "high"
+    },
+    {
+      "id": 12,
+      "importance": 0.16833976033960432,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 13,
+      "importance": 0.09905566270079359,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 14,
+      "importance": 0.0026367604257048058,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 15,
+      "importance": 0.15988977799396992,
+      "features": null,
+      "category": "low"
+    },
+    {
+      "id": 16,
+      "importance": 1,
+      "features": null,
+      "category": "high"
+    },
+    {
+      "id": 17,
+      "importance": 0.11085876455081313,
+      "features": null,
+      "category": "low"
+    }
+  ],
+  "metadata": [
+    {
+      "_id": "420ec78fa189afe35b413163f52ef59a",
+      "timestamp": "2024-10-09T08:45:41.580000",
+      "language": null,
+      "iso": null,
+      "year": null,
+      "kind": "Unknown",
+      "name": null
+    },
+    {
+      "_id": "408565cbc7e7d37ad70af858f4b2bca9",
+      "timestamp": "2024-10-09T08:46:13.606000",
+      "language": null,
+      "iso": null,
+      "year": null,
+      "kind": "Unknown",
+      "name": null
+    }
+  ],
+  "weights": [
+    0.5,
+    0.5
+  ]
+}
