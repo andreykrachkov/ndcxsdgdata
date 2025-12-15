@@ -1,0 +1,121 @@
+{
+    "relevance": 0.970873786407767,
+    "sdgs": [
+        {
+            "id": 1,
+            "importance": 0.01356947823901935,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 2,
+            "importance": 0.10869060679420786,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 3,
+            "importance": 0.009963065206946379,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 4,
+            "importance": 0.006398541050794064,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 5,
+            "importance": 0.0,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 6,
+            "importance": 0.15314892202200764,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 7,
+            "importance": 1.0,
+            "features": null,
+            "category": "high"
+        },
+        {
+            "id": 8,
+            "importance": 0.21468821656867015,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 9,
+            "importance": 0.2259667767448784,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 10,
+            "importance": 0.0313028566597992,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 11,
+            "importance": 0.3595974838192971,
+            "features": null,
+            "category": "medium"
+        },
+        {
+            "id": 12,
+            "importance": 0.20528463058591073,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 13,
+            "importance": 0.0,
+            "features": null,
+            "category": "high"
+        },
+        {
+            "id": 14,
+            "importance": 0.0,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 15,
+            "importance": 0.42220590027896054,
+            "features": null,
+            "category": "medium"
+        },
+        {
+            "id": 16,
+            "importance": 0.012114275809226034,
+            "features": null,
+            "category": "low"
+        },
+        {
+            "id": 17,
+            "importance": 0.003512163111519539,
+            "features": null,
+            "category": "low"
+        }
+    ],
+    "metadata": [
+        {
+            "_id": "6d509d73dcfed7a7b92a139ae747d9ee",
+            "timestamp": "2024-10-09T08:46:41.534174Z",
+            "language": null,
+            "iso": null,
+            "year": null,
+            "kind": "Unknown",
+            "name": null
+        }
+    ],
+    "weights": [
+        1
+    ]
+}
