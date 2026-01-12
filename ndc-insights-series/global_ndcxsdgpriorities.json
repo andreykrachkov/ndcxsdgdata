@@ -2,19 +2,19 @@
   "sdgs": [
     {
       "id": 1,
-      "importance": 0.2118,
+      "importance": 0.2126,
       "category": "Low",
       "features": ["reduce poverty"]
     },
     {
       "id": 2,
-      "importance": 0.1664,
+      "importance": 0.1676,
       "category": "Low",
       "features": ["food security", "agriculture sector", "livestock production", "carbon sequestration", "national level"]
     },
     {
       "id": 3,
-      "importance": 0.1091,
+      "importance": 0.1089,
       "category": "Low",
       "features": ["mortality rate", "improve health", "animal health", "reduce mortality", "disease control", "health include", "achieve target"]
     },
@@ -26,13 +26,13 @@
     },
     {
       "id": 5,
-      "importance": 0.1052,
+      "importance": 0.1099,
       "category": "Low",
       "features": []
     },
     {
       "id": 6,
-      "importance": 0.1395,
+      "importance": 0.1408,
       "category": "Low",
       "features": ["water resource", "water use", "protection water"]
     },
@@ -44,31 +44,31 @@
     },
     {
       "id": 8,
-      "importance": 0.2535,
+      "importance": 0.2525,
       "category": "Low",
       "features": []
     },
     {
       "id": 9,
-      "importance": 0.2567,
+      "importance": 0.2568,
       "category": "Low",
       "features": ["long term", "development project", "rural area", "resilient infrastructure", "research innovation", "greenhouse gas", "value chain", "total cost"]
     },
     {
       "id": 10,
-      "importance": 0.1168,
+      "importance": 0.1179,
       "category": "Low",
       "features": []
     },
     {
       "id": 11,
-      "importance": 0.6938,
+      "importance": 0.6976,
       "category": "Medium",
       "features": ["public transport", "human settlement", "waste management", "sustainable urban", "risk management", "spatial planning", "proper waste", "population growth", "cultural heritage", "heritage site", "solid waste", "early warning", "development plan", "urban centre", "solid waste disposal"]
     },
     {
       "id": 12,
-      "importance": 0.2343,
+      "importance": 0.2353,
       "category": "Low",
       "features": ["solid waste", "natural resource", "waste disposal", "disposal site", "waste management", "production consumption", "waste treat", "waste treatment", "production waste", "management sustainable", "national level", "waste disposal site", "activity sector", "ensure sustainable", "kg kg", "energy water", "environment support"]
     },
@@ -80,25 +80,25 @@
     },
     {
       "id": 14,
-      "importance": 0.0779,
+      "importance": 0.0772,
       "category": "Low",
       "features": []
     },
     {
       "id": 15,
-      "importance": 0.4456,
+      "importance": 0.4459,
       "category": "Medium",
       "features": ["climate change", "forest management", "sustainable forest", "area forest", "natural resource", "sustainable forest management", "forest land", "sustainable management", "forest area", "forest degradation", "forest resource", "environmental protection", "natural resource management", "adaptation mitigation", "change adaptation mitigation", "protect area", "forest cover", "land area", "national forest", "deforestation forest", "management practice", "maintain biodiversity", "deforestation forest degradation", "management forest", "implement sustainable", "local community", "increase forest", "protect forest", "conservation effort", "forest policy", "restore degraded", "degraded forest", "area increase", "protection water", "project implement", "tree plant"]
     },
     {
       "id": 16,
-      "importance": 0.219,
+      "importance": 0.2199,
       "category": "Low",
       "features": ["awareness raise"]
     },
     {
       "id": 17,
-      "importance": 0.0383,
+      "importance": 0.0384,
       "category": "Low",
       "features": []
     }
