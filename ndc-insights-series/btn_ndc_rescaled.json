@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.269,
+      "category": "Low",
+      "features": ["development poverty", "poverty reduction", "social sector", "extreme event", "poverty rate", "poverty eradication", "poverty alleviation", "economic development", "resilient development", "additional resource"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1131,
+      "category": "Low",
+      "features": ["food production", "food product", "food security", "agriculture include", "promote sustainable", "soil erosion", "food nutrition", "nutrition security", "food nutrition security", "strengthen food", "national level", "climate smart"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0259,
+      "category": "Low",
+      "features": ["health sector", "health facility", "management health"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0208,
+      "category": "Low",
+      "features": "include woman"
+    },
+    {
+      "id": 6,
+      "importance": 0.0475,
+      "category": "Low",
+      "features": ["water management", "water security", "water scarcity", "water resource", "water resource management", "resource management", "management tool", "capacity development"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon neutral", "energy efficiency", "renewable energy", "fossil fuel", "energy source", "energy efficiency measure", "efficiency measure", "efficiency improvement", "renewable energy source", "energy security", "source energy", "energy resource", "solar wind", "improve energy", "energy mix", "electric vehicle", "improve energy efficiency", "increase share", "electric energy", "fuel energy", "use renewable energy", "efficiency energy", "increase energy", "use renewable", "fossil fuel energy", "energy capacity", "energy increase", "energy generation", "term energy", "renewable energy capacity", "waste energy", "electricity supply", "instal capacity", "energy energy", "promote energy", "power plant", "promote energy efficiency", "renewable energy energy", "industry transport", "energy country", "energy climate", "generation capacity", "future energy", "energy energy efficiency", "inclusive growth", "energy efficiency energy", "good practice", "international cooperation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3099,
+      "category": "Medium",
+      "features": ["long term", "economic growth", "sustainable economic", "sustainable economic growth", "development service", "private sector", "decent work", "gdp growth", "real gdp", "sustainable growth", "inclusive growth", "green hydrogen", "economic activity", "global effort"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0902,
+      "category": "Low",
+      "features": "long term"
+    },
+    {
+      "id": 10,
+      "importance": 0.0512,
+      "category": "Low",
+      "features": "economic growth"
+    },
+    {
+      "id": 11,
+      "importance": 0.4826,
+      "category": "Medium",
+      "features": ["planning process", "human settlement", "land use", "land use plan", "use plan", "risk reduction", "international community", "early warning", "risk management", "plan include", "urban development", "urban planning", "air pollution", "urban area", "urban plan", "person disability", "economic social", "public participation", "infrastructure urban", "plan implementation", "cultural heritage", "economic loss", "real estate", "support sustainable", "local plan"]
+    },
+    {
+      "id": 12,
+      "importance": 0.271,
+      "category": "Low",
+      "features": ["circular economy", "consumption production", "fossil fuel", "sustainable consumption", "sustainable consumption production", "promotion sustainable", "pattern consumption production", "economy principle", "pattern consumption", "sustainable pattern", "circular economy principle", "energy generation", "capacity building", "national level", "sustainable future", "technological capacity"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["carbon neutral", "climate change", "climate resilient", "energy efficiency", "renewable energy", "low emission", "carbon sink", "carbon neutrality", "greenhouse gas", "climate action", "impact climate", "impact climate change", "nature base", "mitigation adaptation", "capacity building", "gas emission", "carbon market", "greenhouse gas emission", "reduce emission", "climate risk", "determine contribution", "nature base solution", "net emission", "strengthen resilience", "low carbon", "address climate", "climate smart", "carbon climate resilient", "carbon climate", "low carbon climate", "facilitate implementation", "policy strategy", "implementation climate", "national climate", "address climate change", "adaptation plan", "climate finance", "adaptation action", "climate impact", "transport sector", "risk reduction", "global warming", "local community", "risk management", "mitigation action", "early warning", "agriculture water", "increase temperature", "institutional capacity", "plan strategy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0007,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.535,
+      "category": "Medium",
+      "features": ["nature base", "land management", "climate change", "sustainable land", "sustainable land management", "land use", "biodiversity conservation", "forest management", "sustainable forest", "invasive specie", "include forest", "forest cover", "forest carbon", "land degradation", "sustainable forest management", "land area", "principle sustainable", "land use plan", "conservation nature", "reduce impact", "use plan", "land use planning", "use planning", "ecosystem function", "ecosystem service", "biodiversity loss", "conservation sustainable", "control invasive", "sustainable management", "soil erosion", "natural resource", "management forest", "land soil", "protection conservation", "forest inventory", "adaptation mitigation", "natural ecosystem", "value national", "local community"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1277,
+      "category": "Low",
+      "features": ["monitoring evaluation", "woman child", "vulnerable group", "policy ensure"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0338,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

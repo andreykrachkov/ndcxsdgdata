@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1839,
+      "category": "Low",
+      "features": ["social protection", "poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0676,
+      "category": "Low",
+      "features": ["self sufficiency", "food security", "food supply", "global food security", "national food", "global food", "child youth", "young people"]
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0844,
+      "category": "Low",
+      "features": ["promote gender", "gender equality", "woman man", "woman right", "gender balance", "equal opportunity", "promote woman", "promote gender equality"]
+    },
+    {
+      "id": 6,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["climate target", "energy resource", "support development", "good practice"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2532,
+      "category": "Low",
+      "features": ["trade union", "employer employee", "young people", "economic diversification", "target government"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1497,
+      "category": "Low",
+      "features": ["research innovation", "new technology", "development new", "financial support", "greenhouse gas", "gas emission", "local community"]
+    },
+    {
+      "id": 10,
+      "importance": 0.2583,
+      "category": "Low",
+      "features": ["equal opportunity", "child youth", "education work", "good practice", "policy measure"]
+    },
+    {
+      "id": 11,
+      "importance": 0.2205,
+      "category": "Low",
+      "features": ["urban planning", "public transport", "human settlement", "urban plan", "local authority", "economic social", "regional planning", "public participation", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0057,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "greenhouse gas emission", "gas emission", "climate target", "climate policy", "emission reduction", "low emission", "determine contribution", "transition low", "adaptation action", "global warming", "reduce greenhouse gas", "reduce greenhouse", "climate action", "climate change", "reduce emission", "good practice", "local community", "implementation climate", "national climate", "develop climate", "climate relate", "impact climate", "mitigation measure", "change climate", "relate climate", "climate friendly", "emission promote", "emission greenhouse gas", "emission greenhouse", "new climate", "reduction target", "trading scheme", "emission reduction target", "include climate", "policy climate", "progress climate", "reduction greenhouse", "food security", "public transport", "climate energy", "temperature increase", "energy plan", "climate energy plan"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.156,
+      "category": "Low",
+      "features": ["land use", "use land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3196,
+      "category": "Medium",
+      "features": ["human right", "civil society", "relevant information", "make process", "public service", "access information"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0175,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

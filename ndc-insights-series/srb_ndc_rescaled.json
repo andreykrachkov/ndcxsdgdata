@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1011,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 2,
+      "importance": 0.0779,
+      "category": "Low",
+      "features": ["agricultural production", "agricultural product", "change extreme weather", "climate change extreme", "change extreme", "crop livestock", "self sufficiency", "large scale"]
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.083,
+      "category": "Low",
+      "features": ["gender perspective", "decision make", "gender mainstreaming", "gender equality", "achieve gender equality", "achieve gender", "participation woman", "woman empowerment", "gender responsive", "equality woman", "equal participation", "rate gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0608,
+      "category": "Low",
+      "features": ["water sector", "water quality", "water scarcity", "change water", "climate change water", "water supply"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy sector", "power plant", "energy cost", "household energy", "country energy", "energy efficiency", "energy transition", "use electricity", "electricity heating", "electricity heat"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2376,
+      "category": "Low",
+      "features": ["economic diversification", "growth employment"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0257,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 10,
+      "importance": 0.0925,
+      "category": "Low",
+      "features": "promote active"
+    },
+    {
+      "id": 11,
+      "importance": 0.1017,
+      "category": "Low",
+      "features": "public participation"
+    },
+    {
+      "id": 12,
+      "importance": 0.0423,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "greenhouse gas emission", "climate change", "emission reduction", "reduction target", "emission reduction target", "reduce greenhouse gas", "reduce greenhouse", "reduction greenhouse", "impact climate", "impact climate change", "extreme weather", "extreme weather event", "weather event", "climate action", "global climate", "increase frequency", "climate relate", "mitigation measure", "relate climate change", "climate change adaptation", "change adaptation", "change climate", "adaptation climate", "relate climate", "effect climate", "effect climate change", "adaptation climate change", "heat wave", "local community", "temperature increase", "base result", "determine contribution", "climate change mitigation", "change mitigation", "carbon dioxide", "relate disaster", "line ministry", "climate change national", "capacity building", "energy efficiency"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0081,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.2121,
+      "category": "Low",
+      "features": ["climate change", "land use", "land degradation", "forestry sector", "use land", "negative impact"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2348,
+      "category": "Low",
+      "features": ["public policy", "legal framework", "make process", "aim ensure", "civil society", "international financial", "national legislation"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0041,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

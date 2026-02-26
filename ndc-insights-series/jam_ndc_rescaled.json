@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2341,
+      "category": "Low",
+      "features": ["poverty eradication", "social protection", "reduce poverty", "poverty rate", "development poverty", "work poverty", "poverty alleviation", "absolute poverty", "good practice", "poverty decrease", "poverty country", "eastern western"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0449,
+      "category": "Low",
+      "features": ["improve agricultural", "increase productivity"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0353,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.089,
+      "category": "Low",
+      "features": ["gender equity", "ensure gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.039,
+      "category": "Low",
+      "features": ["water resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy sector", "electricity generation", "emission energy", "renewable energy", "energy use", "fossil fuel", "energy efficiency", "renewable source", "energy electricity", "transition energy", "transport sector", "include energy", "generate renewable", "electricity generate", "energy capacity", "total electricity", "climate goal", "reduce electricity", "renewable energy capacity", "international cooperation", "generation renewable", "climate target"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3786,
+      "category": "Medium",
+      "features": ["economic growth", "economy support", "promote sustainable development", "strong commitment", "promote sustain", "develop business", "growth economy", "wholesale retail", "promote sustainable", "sector key", "economic diversification", "private sector"]
+    },
+    {
+      "id": 9,
+      "importance": 0.218,
+      "category": "Low",
+      "features": ["manufacturing industry", "achieve goal", "local community", "city develop", "impact include", "capacity building", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1996,
+      "category": "Low",
+      "features": ["social inclusion", "good practice", "process ensure", "social protection", "social economic"]
+    },
+    {
+      "id": 11,
+      "importance": 0.3836,
+      "category": "Medium",
+      "features": ["urban area", "urban planning", "human settlement", "urban plan", "city local", "natural disaster", "public participation", "real estate", "planning process", "adapt climate change", "plan include", "adapt climate", "resilient sustainable", "economic social", "population growth", "development social"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0684,
+      "category": "Low",
+      "features": ["natural resource", "use natural resource", "use natural", "city country"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["emission reduction", "climate change", "greenhouse gas", "determine contribution", "greenhouse gas emission", "gas emission", "mitigation measure", "climate resilient", "change impact", "climate change impact", "adaptation action", "reduction target", "emission reduction target", "natural disaster", "renewable energy", "local community", "level rise", "resilience climate", "emission sector", "resilience building", "climate action", "emission decrease", "technology transfer", "sector economy", "sea level", "national climate", "climate relate", "global climate", "support climate", "climate crisis", "climate change adaptation", "change adaptation", "change include", "adaptation plan", "low emission", "carbon sink", "effect climate", "effect climate change", "transport sector", "global warming", "international climate", "adapt climate", "adapt climate change", "sea level rise", "good practice", "build resilience", "temperature increase", "transition low", "climate change measure", "change measure"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0951,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.5856,
+      "category": "Medium",
+      "features": ["forest cover", "local community", "sustainable management", "land use", "forestry sector", "climate change", "protect area", "sustainable use", "biodiversity target", "land ecosystem", "promote sustainable use", "degraded forest", "ecosystem function", "natural resource", "management forest", "tree cover", "land management", "sustainable land", "sustainable land management", "include forest"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1525,
+      "category": "Low",
+      "features": "civil society"
+    },
+    {
+      "id": 17,
+      "importance": 0.0259,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

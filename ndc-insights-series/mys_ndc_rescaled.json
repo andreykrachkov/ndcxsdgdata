@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1737,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2051,
+      "category": "Low",
+      "features": ["food security", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0046,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.0395,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0122,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.1201,
+      "category": "Low",
+      "features": ["water resource", "manage water", "manage water resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "fossil fuel", "energy mix", "low carbon energy", "clean energy", "energy project", "energy energy", "national energy", "energy transition", "share renewable", "electric vehicle", "power plant", "instal capacity", "increase share", "fuel increase", "include energy", "renewable energy energy", "share renewable energy", "carbon capture", "energy transformation", "waste energy", "increase share renewable", "carbon technology", "natural gas", "energy resource", "low carbon technology", "energy future"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2858,
+      "category": "Low",
+      "features": ["economic diversification", "economic development"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1671,
+      "category": "Low",
+      "features": ["infrastructure include", "public transport"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0754,
+      "category": "Low",
+      "features": "good practice"
+    },
+    {
+      "id": 11,
+      "importance": 0.533,
+      "category": "Medium",
+      "features": ["disaster risk", "urban planning", "human settlement", "urban plan", "risk management", "economic social", "planning process", "disaster risk management", "cultural value", "strengthen disaster", "public transport", "land use", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1724,
+      "category": "Low",
+      "features": ["waste management", "solid waste", "solid waste management", "fossil fuel", "industrial waste", "treatment facility", "industrial wastewater", "fuel subsidy"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["emission reduction", "greenhouse gas", "low carbon", "reduction target", "emission reduction target", "greenhouse gas emission", "gas emission", "climate change", "adaptation action", "renewable energy", "global warming", "technology transfer", "transition low", "transition low carbon", "food security", "mitigation adaptation", "action global", "climate resilient", "sea level rise", "level rise", "sea level", "climate action", "reduce emission", "disaster risk", "climate finance", "climate risk", "public transport", "electric vehicle", "low carbon economy", "determine contribution", "socio economic", "carbon economy", "capacity building", "increase climate", "climate change biodiversity", "emission sector", "change biodiversity", "water food", "foster climate", "adaptation measure", "low emission", "good practice", "mitigation action", "fuel use", "establish national"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0402,
+      "category": "Low",
+      "features": "sea level"
+    },
+    {
+      "id": 15,
+      "importance": 0.5197,
+      "category": "Medium",
+      "features": ["land use", "climate change", "protect area", "land water", "inland water", "forest management", "sustainable forest", "forest area", "biodiversity loss", "sustainable forest management", "protection conservation", "biodiversity conservation", "conservation sustainable", "sustainable management", "contribute global", "specie habitat", "management forest", "cultural value", "forest land", "include forest", "manage forest"]
+    },
+    {
+      "id": 16,
+      "importance": 0.085,
+      "category": "Low",
+      "features": "ministry state"
+    },
+    {
+      "id": 17,
+      "importance": 0.0026,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

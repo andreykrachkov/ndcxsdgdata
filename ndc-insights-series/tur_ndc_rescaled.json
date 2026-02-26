@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1811,
+      "category": "Low",
+      "features": ["social protection", "poverty eradication", "development poverty", "social inclusion", "group people"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0439,
+      "category": "Low",
+      "features": ["food security", "promote sustainable"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1209,
+      "category": "Low",
+      "features": ["public health", "health service", "health outcome", "achieve target", "air pollution", "improve public health", "long term", "air quality"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.3561,
+      "category": "Medium",
+      "features": ["woman man", "equality woman", "action plan", "include woman", "woman girl", "woman empowerment", "right woman", "role woman", "need woman", "national policy"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0275,
+      "category": "Low",
+      "features": ["water resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy resource", "include energy", "industry transport", "measure ensure", "energy source", "energy intensity", "national energy", "renewable energy source", "use renewable energy", "use renewable", "energy generation", "energy building", "increase use", "emission energy", "net greenhouse gas", "net greenhouse"]
+    },
+    {
+      "id": 8,
+      "importance": 0.5076,
+      "category": "Medium",
+      "features": ["private sector", "young people", "disaster risk", "economic growth", "promote sustainable development", "strong commitment", "promote sustain", "long term", "promote sustainable", "decent job", "economic sector", "skill development", "include climate", "small medium", "sustainable growth", "economic diversification", "global effort"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3773,
+      "category": "Medium",
+      "features": ["knowledge technology", "support innovation", "green transition", "technological development", "create new", "innovation entrepreneurship", "small medium", "sustainable transport", "medium sized", "innovation policy", "infrastructure develop", "support green", "small medium sized", "capacity building", "policy aim"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1986,
+      "category": "Low",
+      "features": ["social protection", "social inclusion", "employment social", "sustainable growth"]
+    },
+    {
+      "id": 11,
+      "importance": 0.8063,
+      "category": "High",
+      "features": ["disaster risk", "disaster risk reduction", "risk reduction", "urban planning", "urban plan", "early warning", "planning process", "plan include", "human settlement", "air pollution", "waste management", "sustainable transport", "economic social", "waste generation", "land use", "public participation", "population growth", "area include", "development social", "reduce waste generation", "low income", "air quality", "air pollutant", "real estate", "pollution prevention"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1623,
+      "category": "Low",
+      "features": ["waste management", "reduce waste", "waste generation", "resource efficiency", "efficient use", "use resource", "energy generation", "waste landfill", "aim reduce", "circular economy", "tourism industry"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate action", "climate policy", "determine contribution", "greenhouse gas", "greenhouse gas emission", "gas emission", "low carbon", "mitigation adaptation", "national climate", "net emission", "aim reduce", "reduce emission", "climate finance", "emission compare", "capacity building", "impact climate", "impact climate change", "disaster risk", "climate resilient", "risk reduction", "disaster risk reduction", "emission reduction", "global climate", "reduce greenhouse gas", "technology transfer", "renewable energy", "reduce greenhouse", "strengthen resilience", "national policy", "early warning", "include climate", "ensure climate", "adaptation effort", "nature base solution", "nature base", "change impact", "climate change impact", "combat climate", "combat climate change", "climate relate", "action combat", "climate resilience", "adaptation measure", "climate change adaptation", "change adaptation", "climate change policy", "country climate", "change policy", "climate adaptation"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0027,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.4487,
+      "category": "Medium",
+      "features": ["land use", "forest management", "strategy action", "climate change", "sustainable forest", "sustainable forest management", "sustainable land", "nature base", "use land", "sustainable land use", "natural area", "biodiversity sustainable", "contribute global"]
+    },
+    {
+      "id": 16,
+      "importance": 0.5157,
+      "category": "Medium",
+      "features": ["civil society", "public institution", "private sector civil", "participatory process", "sector civil", "sector civil society", "general public", "special need", "evidence base", "ensure effective", "awareness raise", "improve public", "monitoring evaluation", "ensure social"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0797,
+      "category": "Low",
+      "features": ["private sector", "aim strengthen", "public sector", "sector academia", "private sector academia", "multilateral cooperation"]
+    }
+  ]
+}

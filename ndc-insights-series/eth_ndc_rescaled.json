@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.175,
+      "category": "Low",
+      "features": ["climate relate", "poverty reduction", "social inclusion", "rural urban", "health education", "extreme event"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2511,
+      "category": "Low",
+      "features": ["climate smart", "food security", "small scale", "food production", "agricultural product", "agricultural productivity", "food product", "farming practice", "smallholder farmer", "agriculture sector", "agricultural sector", "rural development", "extension service", "promote sustainable", "key sector", "agriculture rural development"]
+    },
+    {
+      "id": 3,
+      "importance": 0.2104,
+      "category": "Low",
+      "features": ["health sector", "health service", "health facility", "health worker", "community health", "health professional", "delivery health", "health work", "prevention health", "disease prevention", "service delivery", "healthcare facility", "vaccination campaign", "long term"]
+    },
+    {
+      "id": 4,
+      "importance": 0.004,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.119,
+      "category": "Low",
+      "features": ["gender equality", "woman girl", "woman participation", "reach woman", "mainstream gender", "gender responsive", "rate gender", "child marriage"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2603,
+      "category": "Low",
+      "features": ["water supply", "water sanitation", "drinking water", "improve sanitation", "improve water", "waterborne disease", "water availability", "sanitation hygiene", "water relate", "water service", "new water", "water sanitation hygiene", "sanitation facility", "sanitation water", "water energy", "water source", "clean drinking water", "clean drinking", "water access", "water coverage", "urban area", "address water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "transport sector", "clean energy", "energy sector", "energy source", "renewable energy source", "solar power", "energy infrastructure", "energy efficiency", "clean cooking", "charge station", "target set", "sustainable energy", "energy production", "energy supply", "energy mix", "energy transition", "renewable source", "access clean", "electric vehicle", "energy development", "improvement energy", "energy access", "development renewable", "development renewable energy", "power generation", "energy solution", "renewable energy production", "diversify energy", "energy improve", "clean renewable", "energy management", "national grid", "improvement energy efficiency", "electricity access", "solar wind", "plan increase", "small scale", "mw mw", "energy support", "climate goal", "energy efficiency conservation", "efficiency conservation", "climate target"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3343,
+      "category": "Medium",
+      "features": ["private sector", "growth rate", "economic development", "sector participation", "private sector participation", "economic growth", "job creation", "gdp growth", "real gdp", "gdp growth rate", "domestic foreign", "percentage point"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3051,
+      "category": "Medium",
+      "features": ["road infrastructure", "value add", "long term", "transportation infrastructure", "cut emission", "resilient infrastructure", "service sector", "capacity building"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1946,
+      "category": "Low",
+      "features": ["social inclusion", "child youth", "good practice", "development plan", "et al", "development partner", "smallholder farmer"]
+    },
+    {
+      "id": 11,
+      "importance": 0.9131,
+      "category": "High",
+      "features": ["urban development", "urban planning", "urban area", "urban plan", "sustainable urban", "international community", "early warning", "green space", "resilient urban", "infrastructure development", "affordable housing", "air pollution", "solid waste", "living condition", "critical infrastructure", "integrate urban", "development plan", "urban green", "community include", "improve living", "area country", "urban mobility", "comprehensive urban", "adapt climate change", "adapt climate", "waste management", "service delivery", "economic loss", "infrastructure urban", "rural development"]
+    },
+    {
+      "id": 12,
+      "importance": 0.117,
+      "category": "Low",
+      "features": ["waste management", "solid waste", "ton ton"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate resilient", "climate relate", "climate finance", "climate action", "renewable energy", "emission reduction", "mitigation adaptation", "climate smart", "carbon market", "climate resilience", "low emission", "national climate", "climate policy", "climate risk", "greenhouse gas", "integrate climate", "adaptation action", "good practice", "socio economic", "transport sector", "greenhouse gas emission", "gas emission", "net emission", "adaptive capacity", "relate hazard", "technology transfer", "climate relate hazard", "strengthen resilience", "extreme weather", "resilience climate", "national development planning", "extreme weather event", "weather event", "adaptation effort", "international climate", "reduce greenhouse gas", "reduce greenhouse", "green space", "build resilience", "reduction target", "emission reduction target", "determine contribution", "capacity building", "food security", "change climate", "climate adaptation", "institutional capacity", "early warning", "reduction emission"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.7358,
+      "category": "High",
+      "features": ["degraded land", "restore degraded", "restore degraded land", "land use", "ecosystem service", "forest degradation", "deforestation forest", "afforestation reforestation", "deforestation forest degradation", "increase hectare", "forest management", "sustainable forest", "sustainable forest management", "forest product", "climate change", "green job", "protect area", "protect nature", "forest cover", "tree planting", "sustainable land", "land ecosystem", "area protect", "natural resource", "tree plant", "use land", "agriculture practice", "protect forest", "national economy", "forestry sector", "sustainable management", "institutional capacity", "development agriculture", "forest sector", "local community", "vulnerability climate"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3459,
+      "category": "Medium",
+      "features": ["evidence base", "decision making", "ensure effective", "public sector", "accord new", "strong institution", "civil society", "private sector civil", "sector civil", "sector civil society", "greenhouse gas inventory", "gas inventory", "community include"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0258,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

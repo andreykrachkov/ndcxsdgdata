@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1103,
+      "category": "Low",
+      "features": ["multidimensional poverty", "social protection", "poverty eradication", "development poverty", "rural area", "inclusive social"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1873,
+      "category": "Low",
+      "features": ["food security", "promote sustainable", "agricultural sector", "quality food", "access food", "agriculture food", "strengthen food", "nutritional quality", "key sector", "effect climate", "carbon sequestration", "public health", "food nutrition", "agricultural product", "agricultural productivity", "provide food", "national food", "community food", "impact agricultural", "food nutritional", "access nutritious", "nutritional security", "food nutritional security", "national level", "economic resource"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1591,
+      "category": "Low",
+      "features": ["public health", "mental health", "health sector", "health risk", "health increase", "air quality monitoring", "quality monitoring", "health priority", "air quality", "base health", "public private", "national level"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0177,
+      "category": "Low",
+      "features": "educational infrastructure"
+    },
+    {
+      "id": 5,
+      "importance": 0.0479,
+      "category": "Low",
+      "features": ["woman girl", "participation woman", "equal opportunity", "woman man"]
+    },
+    {
+      "id": 6,
+      "importance": 0.3307,
+      "category": "Medium",
+      "features": ["water resource", "water management", "wastewater management", "water treatment", "water treat", "water resource management", "resource management", "increase water", "treat water", "integrate water", "integrate water resource", "technical training", "wastewater treatment", "agricultural sector", "water sanitation", "water sector", "sanitation service", "sustainable water", "water infrastructure", "water security", "drink water", "sanitation management", "water body", "human consumption", "water wastewater", "water reuse", "rainwater harvesting", "sustainable water management", "city infrastructure", "energy infrastructure", "water use", "quality water", "treatment plant", "water scarcity", "treat wastewater", "source water", "ensure availability", "water stress", "resource water", "body water", "equitable access", "water use efficiency", "promote water", "integrate management", "water protection", "use efficiency", "reduction water", "water energy", "increase recycling", "address water"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9239,
+      "category": "High",
+      "features": ["renewable energy", "energy sector", "energy efficiency", "transport sector", "energy consumption", "fossil fuel", "reduce energy", "electricity generation", "energy security", "renewable source", "power generation", "electricity consumption", "clean technology", "electricity demand", "international cooperation", "energy project", "improve energy", "energy production", "energy mix", "source energy", "electric vehicle", "development energy", "improve energy efficiency", "instal capacity", "solar panel", "accelerate transition", "energy capacity", "energy water", "offshore wind", "emission vehicle", "energy transportation", "proportion renewable", "good practice", "increase use", "measure ensure", "renewable energy capacity", "energy promote", "continue grow", "efficiency improvement", "sustainable energy", "security supply", "dioxide equivalent", "carbon dioxide equivalent", "adoption sustainable", "increase energy", "city energy", "energy infrastructure", "carbon dioxide", "measure reduce", "goal reduce"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3835,
+      "category": "Medium",
+      "features": ["economic growth", "real gdp", "private sector", "transport sector", "unemployment rate", "employment rate", "national economic", "international standard", "digital platform", "economic sector", "country economic", "economy sector", "promote sustain", "promote sustainable"]
+    },
+    {
+      "id": 9,
+      "importance": 0.5237,
+      "category": "Medium",
+      "features": ["new technology", "public private", "national regional", "public investment", "capacity building", "infrastructure promote", "national research", "public transport", "infrastructure service", "knowledge technology", "increase number", "urban infrastructure", "scientific research", "regional international", "local community", "need improve", "national regional international", "resilient infrastructure", "build resilient", "transport infrastructure", "sustainable infrastructure", "measure reduce", "industry increase", "challenge climate", "manufacturing construction", "sustainable mobility", "technical support", "trade organization"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0696,
+      "category": "Low",
+      "features": ["equal opportunity", "employment rate", "good practice", "regular migration", "small business"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["solid waste", "risk management", "waste waste", "urban area", "urban rural", "urban planning", "urban plan", "public transport", "economic social", "safe resilient", "waste management", "adapt climate", "green public", "critical infrastructure", "early warning", "promote use", "land use", "social impact", "disaster risk", "human settlement", "resilient sustainable", "risk reduction", "sustainable urban", "waste collect", "solid waste collect", "waste collection", "urban green", "quality life", "public participation", "resilience strategy", "infrastructure urban", "regional planning", "population growth", "real estate", "reduce environmental", "urban solid waste", "urban solid", "use plan", "adapt climate change", "air water", "soil water", "air quality", "public transportation", "public space", "municipal waste", "management include", "development plan", "green public space", "basic service", "waste generation"]
+    },
+    {
+      "id": 12,
+      "importance": 0.5848,
+      "category": "Medium",
+      "features": ["solid waste", "waste waste", "circular economy", "waste management", "solid waste management", "reduce consumption", "natural resource", "promote circular", "promote circular economy", "aim reduce", "sustainable consumption", "waste reduction", "transition circular", "transition circular economy", "municipal waste", "resource efficiency", "economy principle", "management program", "national solid waste", "national solid", "circular economy principle", "volume waste", "environmental education", "consumption production", "sustainable consumption production", "waste generation", "waste collection", "air water", "environmental climate", "implementation plan", "mean transport", "financial resource"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate action", "determine contribution", "climate risk", "risk management", "emission reduction", "climate finance", "national climate", "impact climate", "capacity building", "impact climate change", "mitigation adaptation", "institutional capacity", "reduce emission", "good practice", "reduction target", "weather event", "adaptation action", "extreme weather", "extreme weather event", "climate vulnerability", "food security", "renewable energy", "emission reduction target", "greenhouse gas", "gas emission", "adaptive capacity", "energy efficiency", "greenhouse gas emission", "technology transfer", "strengthen resilience", "global warming", "technical capacity", "emission increase", "global climate", "climate resilience", "adaptation climate", "country climate", "adaptation climate change", "climate impact", "transport sector", "reduce greenhouse gas", "heat wave", "reduce greenhouse", "transition low", "early warning", "integrate climate", "ensure climate", "establish national", "climate policy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0245,
+      "category": "Low",
+      "features": ["coastal area", "coastal zone"]
+    },
+    {
+      "id": 15,
+      "importance": 0.5578,
+      "category": "Medium",
+      "features": ["land use", "biodiversity ecosystem", "climate change", "ecosystem service", "forest cover", "protect natural", "conservation restoration", "ecosystem biodiversity", "natural area", "biodiversity conservation", "institutional capacity", "sustainable forest", "biodiversity strategy", "forest resource", "conservation biodiversity", "sustainable management", "degraded forest", "forest inventory", "afforestation reforestation", "ensure sustainable management", "conserve biodiversity", "improve protection", "management forest", "use land", "resilient climate", "local community", "degradation loss", "restore forest", "vulnerability climate", "national economy", "plant specie", "environmental conservation", "favorable condition", "project aim", "natural resource", "adaptation mitigation", "city area", "use plan", "use planning", "develop green", "environmental climate", "management include", "change adaptation mitigation", "total area"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3313,
+      "category": "Medium",
+      "features": ["human right", "public institution", "risk management", "digital platform", "public security", "previous year", "integrate health", "homicide rate", "ensure effective", "information management"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0268,
+      "category": "Low",
+      "features": ["private sector", "resilience sustainability"]
+    }
+  ]
+}

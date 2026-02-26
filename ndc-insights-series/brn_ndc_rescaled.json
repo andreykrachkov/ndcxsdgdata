@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0811,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice", "climate relate"]
+    },
+    {
+      "id": 2,
+      "importance": 0.132,
+      "category": "Low",
+      "features": ["food security", "promote sustainable"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0015,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.017,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["dioxide equivalent", "carbon dioxide equivalent", "carbon dioxide", "electricity generation", "renewable energy", "energy use", "national energy", "energy security", "energy transition", "share renewable", "power generation", "energy need", "industry transport", "share renewable energy", "annual growth", "natural gas", "energy resource", "international cooperation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3289,
+      "category": "Medium",
+      "features": ["economic growth", "country economic", "economic diversification", "long term", "economic development", "promote sustain", "growth rate", "gdp growth", "real gdp", "annual growth rate", "economic activity", "annual growth", "sustainable economy", "sector growth", "private sector", "resilient economy", "growth economy", "sustainable economic", "promote sustainable"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2115,
+      "category": "Low",
+      "features": ["capacity building", "promote innovation", "long term", "government industry"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0532,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.368,
+      "category": "Medium",
+      "features": ["urban planning", "urban area", "urban plan", "natural disaster", "public participation", "real estate", "international community", "economic social", "planning process", "plan include"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1046,
+      "category": "Low",
+      "features": "waste disposal"
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate action", "greenhouse gas", "emission reduction", "determine contribution", "greenhouse gas emission", "reduce emission", "gas emission", "climate resilient", "adaptation action", "capacity building", "carbon dioxide", "low carbon", "mitigation adaptation", "address climate", "transition low", "national climate", "global climate", "address climate change", "climate impact", "carbon climate resilient", "carbon climate", "low carbon climate", "transition low carbon", "policy strategy", "reduction greenhouse", "food security", "adaptation effort", "mitigation measure", "technical capacity", "climate relate", "support climate", "climate resilience", "climate crisis", "climate change policy", "adaptation climate", "flash flood", "change policy", "net emission", "adaptive capacity", "implement climate", "effect climate", "effect climate change", "natural disaster", "emission ton", "approach climate", "international climate", "sector economy", "institutional capacity", "renewable energy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.008,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.3326,
+      "category": "Medium",
+      "features": ["forest inventory", "forest cover", "forest land", "land area", "national forest", "deforestation forest", "human activity", "land use", "biodiversity loss", "land management", "sustainable land", "natural environment", "sustainable land management", "contribute global", "infrastructure energy", "increase forest", "climate change"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1293,
+      "category": "Low",
+      "features": ["decision making", "participatory process"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0242,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

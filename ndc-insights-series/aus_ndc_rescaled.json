@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0252,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "population live", "child young"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0005,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0.0185,
+      "category": "Low",
+      "features": ["air pollution", "heart disease", "improve health", "natural environment"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0611,
+      "category": "Low",
+      "features": ["woman girl", "opportunity woman", "gender responsive", "gender equality"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0021,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "clean energy", "fossil fuel", "energy efficiency", "electricity generation", "renewable electricity", "carbon dioxide", "natural gas", "energy transition", "energy supply", "energy performance", "fuel energy", "rooftop solar", "fossil fuel energy", "reliable energy", "household business", "energy sector", "improve energy", "reduce energy", "energy capacity", "crude oil", "good practice", "increase renewable", "global energy", "continue grow", "energy project", "power plant", "nuclear energy", "improvement energy", "energy resource", "energy demand", "solar pv", "renewable resource", "energy infrastructure", "emission vehicle", "cost effective", "renewable energy capacity", "wind solar", "net greenhouse gas", "net greenhouse", "increase renewable energy", "efficiency improvement", "generation renewable", "support development", "dioxide equivalent", "carbon dioxide equivalent", "power generation", "offshore wind", "energy source", "renewable energy project"]
+    },
+    {
+      "id": 8,
+      "importance": 0.124,
+      "category": "Low",
+      "features": ["economic development", "supply chain", "economic growth", "development investment", "economic activity", "long term", "pay job", "international standard"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2033,
+      "category": "Low",
+      "features": ["research development", "greenhouse gas", "industrial sector", "new technology", "infrastructure support", "development new", "affordable access", "scale industry", "economy develop", "new industrial", "development infrastructure", "industrial strategy", "long term", "policy regulation", "effort build", "use technology", "transport network", "science technology", "infrastructure include", "power renewable", "environmental impact", "emission unit", "public private", "public investment", "power renewable energy", "investment new", "gas emission", "previous year"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0263,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.1804,
+      "category": "Low",
+      "features": ["planning process", "local government", "public participation", "natural heritage", "grow population", "population live", "humanitarian assistance", "project improve", "plan include", "disaster risk", "disaster risk reduction", "risk reduction", "social housing", "natural disaster", "pose significant", "activity include", "people live", "affordable accessible", "tropical cyclone", "previous year", "preparedness response"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0217,
+      "category": "Low",
+      "features": ["fossil fuel", "fossil fuel subsidy", "fuel subsidy"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["emission reduction", "reduction target", "emission reduction target", "climate change", "renewable energy", "gas emission", "greenhouse gas", "reduce emission", "climate action", "impact climate", "low emission", "impact climate change", "low carbon", "carbon dioxide", "energy efficiency", "greenhouse gas emission", "net emission", "global climate", "response climate", "climate policy", "address climate change", "address climate", "global warming", "change impact", "climate change impact", "climate relate", "action climate", "mitigation adaptation", "build new", "climate mitigation", "climate impact", "respond climate", "economic benefit", "good practice", "reduction emission", "national climate", "climate resilience", "climate finance", "climate risk", "international climate", "climate energy", "extreme weather", "build resilience", "temperature increase", "level rise", "resilience climate", "extreme weather event", "determine contribution", "weather event", "capacity building"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0308,
+      "category": "Low",
+      "features": ["management marine", "coastal ecosystem", "management act"]
+    },
+    {
+      "id": 15,
+      "importance": 0.1059,
+      "category": "Low",
+      "features": ["climate change", "protect restore", "halt reverse", "natural ecosystem", "forest management", "biodiversity loss", "land forest", "forest degradation", "natural environment", "deforestation forest", "conserve biodiversity", "terrestrial marine", "deforestation forest degradation", "environmental economic", "forest sector", "proportion forest", "sustainable forest", "sustainable forest management", "land management", "protect biodiversity", "environment biodiversity"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0612,
+      "category": "Low",
+      "features": ["human right", "local government", "foreign policy", "government agency", "aim ensure", "ensure public"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0049,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

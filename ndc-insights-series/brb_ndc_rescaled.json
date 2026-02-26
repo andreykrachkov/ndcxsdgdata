@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3181,
+      "category": "Medium",
+      "features": ["social protection", "climate relate", "build resilience", "low income", "reduce poverty", "social service", "support vulnerable", "provide support", "target social", "vulnerable population", "economic development", "shock responsive", "storage capacity", "social protection measure", "service social", "provide social", "group people", "poverty eradication", "development poverty", "rate poverty", "base national", "national disaster risk", "access electricity", "technical support", "base source", "water sanitation", "efficiency reduce", "national income", "land use practice", "water distribution", "social program", "use practice", "good practice", "sustainable land use", "land base source", "vulnerable person", "renewable energy generation"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1357,
+      "category": "Low",
+      "features": ["food security", "agricultural sector", "agriculture sector", "increase productivity", "agricultural production", "agricultural product", "food price", "local food", "promote sustainable", "weather condition", "carbon sequestration", "sustainable agriculture", "ensure food", "extension service", "food import", "ensure food security", "improve agricultural", "impact agricultural", "impact food", "improve food", "sector policy", "cold storage", "agriculture policy", "develop sustainable", "strategy policy", "nutritious food", "use pesticide", "adverse effect", "increase local", "key sector"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1226,
+      "category": "Low",
+      "features": ["public health", "health service", "mental health", "communicable disease", "physical mental health", "improve public health", "physical mental", "economic cultural", "health sector", "target reduce", "public private"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0648,
+      "category": "Low",
+      "features": ["woman girl", "gender responsive", "institute gender", "ensure gender", "gender equality"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1459,
+      "category": "Low",
+      "features": ["water scarcity", "water resource", "water sanitation", "water sector", "wastewater treatment", "water availability", "water security", "water treatment", "fresh water", "municipal wastewater", "suffer water", "coastal water", "suffer water scarcity", "water treat", "water supply", "source water", "reduce water", "resource water", "state water", "safe water", "international law", "capita year", "agricultural sector", "associate climate", "water scarce", "support develop"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "fossil fuel", "electricity sector", "energy sector", "electricity production", "clean energy", "energy transition", "energy performance", "electric vehicle", "include energy", "energy technology", "solar pv", "energy investment", "transport sector", "renewable energy technology", "energy efficiency target", "renewable electricity", "efficiency target", "electricity demand", "offshore wind", "energy source", "energy project", "renewable energy project", "energy strategy", "energy energy", "renewable energy source", "renewable source", "energy demand", "renewable energy energy", "generation capacity", "friendly energy", "energy waste", "energy target", "achieve energy", "renewable energy target", "clean technology", "sustainable energy", "improve energy", "modern energy", "energy policy", "energy service", "energy supply", "access electricity", "reduce energy", "national energy", "electricity generation", "share renewable", "source energy", "energy development"]
+    },
+    {
+      "id": 8,
+      "importance": 0.4428,
+      "category": "Medium",
+      "features": ["tourism sector", "economic growth", "sustainable tourism", "sustainable growth", "economic development", "debt restructuring", "promote sustain", "promote sustainable", "real gdp", "national tourism", "enhance economic", "long term", "foreign exchange", "inclusive sustainable", "labour force", "gdp capita", "economic activity", "increase economic", "financial institution", "private sector", "resilient economy", "strong economic", "financial crisis", "government support", "economic diversification", "financial stability", "national economic", "disaster risk", "growth development"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2347,
+      "category": "Low",
+      "features": ["resilient infrastructure", "build resilient infrastructure", "build resilient", "infrastructure support", "public investment", "long term", "international market", "research development", "environmental impact", "end user", "public private", "development infrastructure", "value chain", "technical support", "wide public", "agenda sustainable"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0996,
+      "category": "Low",
+      "features": ["poverty inequality", "good practice", "person disability", "reduce poverty inequality", "sustainable growth", "old person", "social economic", "meet need", "access service", "protect right", "quality life"]
+    },
+    {
+      "id": 11,
+      "importance": 0.6716,
+      "category": "Medium",
+      "features": ["natural disaster", "international community", "population growth", "economic social", "land use", "natural heritage", "housing stock", "spatial planning", "planning process", "plan include", "public transport", "risk management", "pose significant", "cultural heritage", "urban planning", "disaster risk", "human settlement", "urban plan", "risk reduction", "municipal waste", "solid waste", "housing project", "policy plan", "urban renewal", "green space", "housing sector", "quality life", "disaster response", "waste generation", "public participation", "heritage cultural", "quality life resident", "life resident", "real estate", "settlement development", "investment public", "physical development", "public transportation", "environmental impact", "provide safe", "city base", "private transport", "total number", "disaster preparedness", "social impact", "low middle income", "low middle", "safe secure", "low income"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2479,
+      "category": "Low",
+      "features": ["waste production", "solid waste", "private vehicle", "energy waste", "circular economy", "reduce waste", "municipal waste", "waste generation", "domestic waste", "implementation plan", "industrial waste", "develop national", "industrial wastewater", "waste landfill", "waste treat", "waste treatment", "fossil fuel", "develop implement"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "renewable energy", "natural disaster", "climate resilience", "greenhouse gas", "climate crisis", "gas emission", "emission reduction", "climate relate", "greenhouse gas emission", "impact climate", "impact climate change", "weather event", "sea level", "capacity building", "change impact", "climate change impact", "climate finance", "effect climate", "global warming", "extreme weather", "extreme weather event", "food security", "strengthen resilience", "mitigation action", "determine contribution", "increase climate", "reduce emission", "mitigation adaptation", "address climate", "climate resilient", "climate impact", "build resilience", "socio economic", "low carbon", "resilience building", "disaster risk", "adaptive capacity", "public transport", "carbon sink", "adaptation action", "effect climate change", "adapt climate", "sea level rise", "level rise", "resilience climate", "rise sea", "reduction emission", "relate disaster", "emission sector"]
+    },
+    {
+      "id": 14,
+      "importance": 0.1167,
+      "category": "Low",
+      "features": ["coral reef", "spatial plan", "marine ecosystem", "coastal marine", "sea level", "marine conservation", "national legal", "carbon capture", "marine pollution", "coastal zone", "environmental impact", "international law"]
+    },
+    {
+      "id": 15,
+      "importance": 0.177,
+      "category": "Low",
+      "features": ["climate change", "land use", "tree plant", "tree planting", "use practice", "land use practice", "invasive specie", "conservation biodiversity", "forested area", "natural heritage", "forest forest", "agricultural land", "ecosystem service", "natural capital", "land area", "total land", "sustainable land", "natural environment", "environmental protection", "management practice", "total land area", "land water", "inland water", "physical planning", "sustainable land use"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0743,
+      "category": "Low",
+      "features": ["relevant information", "work age population", "social justice", "policy ensure", "work age"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0897,
+      "category": "Low",
+      "features": ["international cooperation", "strengthen capacity", "build exist", "technical assistance", "private sector", "develop country", "sustainable development", "development goal", "country debt", "sector investment", "vulnerable country", "country include", "work agenda", "private sector investment", "debt burden"]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0336,
+      "category": "Low",
+      "features": "vulnerable population"
+    },
+    {
+      "id": 2,
+      "importance": 0.1602,
+      "category": "Low",
+      "features": ["food security", "agricultural land", "increase food", "security climate", "improve food"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1188,
+      "category": "Low",
+      "features": ["public health", "quality life", "people health"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.029,
+      "category": "Low",
+      "features": ["woman empowerment", "equality woman", "national policy"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0495,
+      "category": "Low",
+      "features": ["water management", "level include", "protection water"]
+    },
+    {
+      "id": 7,
+      "importance": 0.0234,
+      "category": "Low",
+      "features": ["fossil fuel", "dependence fossil", "dependence fossil fuel"]
+    },
+    {
+      "id": 8,
+      "importance": 0.0697,
+      "category": "Low",
+      "features": ["private sector", "young people", "economy sector", "public debt", "environmental social", "environmental social economic"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0567,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 10,
+      "importance": 0.023,
+      "category": "Low",
+      "features": ["people disability", "child youth", "old person"]
+    },
+    {
+      "id": 11,
+      "importance": 0.57,
+      "category": "Medium",
+      "features": ["adapt climate change", "adapt climate", "sustainable city", "natural heritage", "local authority", "action address", "territorial development", "access adequate", "human settlement", "risk reduction", "risk management", "local government", "quality life", "mitigate adapt climate", "mitigate adapt", "private partnership", "air water"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0293,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate change biodiversity", "change biodiversity", "commitment climate", "climate action", "climate resilience", "mitigation adaptation", "food security", "adaptation measure", "national adaptation", "community resilience", "adapt climate", "strengthen resilience", "adapt climate change", "local community", "climate change mitigation", "change mitigation", "capacity building", "biodiversity land", "emission reduction", "goal climate", "reduce emission", "climate policy", "capacity climate", "country climate", "climate finance", "adaptive capacity", "adaptive capacity climate", "climate impact", "technology transfer", "risk management", "measure climate", "reduction target", "change mitigation adaptation", "meet commitment", "determine contribution", "reduction emission", "management climate", "establish national", "carbon sink", "adaptation action", "risk reduction", "heat wave", "information generate", "ton co2", "extreme weather", "implementation climate", "extreme weather event", "progress climate", "weather event"]
+    },
+    {
+      "id": 14,
+      "importance": 0.2435,
+      "category": "Low",
+      "features": ["marine life", "coral reef", "marine coastal", "marine protect", "plastic pollution", "fish stock", "sustainable fishery", "marine protection", "marine specie", "ecological value", "protect area"]
+    },
+    {
+      "id": 15,
+      "importance": 1,
+      "category": "High",
+      "features": ["climate change", "land degradation", "degradation neutrality", "land degradation neutrality", "terrestrial marine", "land management", "biodiversity conservation", "degraded land", "protect area", "sustainable land", "sustainable land management", "local community", "conservation sustainable", "ecosystem service", "protect biodiversity", "biodiversity ecosystem", "ecosystem function", "natural ecosystem", "agricultural land", "combat desertification", "sustainable management", "conservation restoration", "sustainable use", "biodiversity loss", "forest cover", "national park", "natural capital", "national biodiversity", "use biodiversity", "conservation biodiversity", "land ecosystem", "native specie", "conservation sustainable use", "management practice", "land water", "specie habitat", "inland water", "protect restore", "area cover", "illegal deforestation", "area strengthen", "land resource", "natural heritage", "national land", "increase forest", "biodiversity area", "integrate action", "biodiversity sustainable", "protect nature", "restore degraded"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2129,
+      "category": "Low",
+      "features": ["public policy", "use technology", "human right", "risk management"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0717,
+      "category": "Low",
+      "features": ["private sector", "technical assistance", "international cooperation", "capacity building", "private investment", "development bank", "civil society", "public debt", "sector academia", "private sector academia", "local community"]
+    }
+  ]
+}

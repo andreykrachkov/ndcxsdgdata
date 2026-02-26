@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.476,
+      "category": "Medium",
+      "features": ["economic development", "poverty eradication", "resilient development", "climate relate", "poverty rate", "vulnerable population", "build resilience", "low income", "development poverty", "high poverty", "address poverty", "poverty alleviation", "high poverty rate", "high rate", "base national", "increase poverty", "rural area", "extreme event"]
+    },
+    {
+      "id": 2,
+      "importance": 0.3787,
+      "category": "Medium",
+      "features": ["food security", "smallholder farmer", "agricultural sector", "crop livestock", "food insecurity", "food nutrition", "nutrition security", "agri food", "food nutrition security", "support food", "livestock production", "agricultural practice", "agriculture livestock", "large scale", "support agriculture", "adequate nutrition", "value chain", "adverse effect", "include agriculture", "increase productivity", "cost production", "technology adoption", "livestock sector", "pest disease", "effect climate", "practice increase"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0492,
+      "category": "Low",
+      "features": ["health service", "health threat"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0445,
+      "category": "Low",
+      "features": "literacy skill"
+    },
+    {
+      "id": 5,
+      "importance": 0.1124,
+      "category": "Low",
+      "features": ["woman girl", "gender base", "gender base violence", "base violence", "include woman", "man woman", "gender responsive", "gender equity", "rate gender", "order promote", "national policy"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1038,
+      "category": "Low",
+      "features": ["access adequate", "include water", "water infrastructure", "supply sanitation", "change water", "management plan", "climate change water", "water resource", "water sanitation", "water resource management", "resource management", "water conservation", "increase access", "water storage", "investment water", "urban area"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9521,
+      "category": "High",
+      "features": ["annual growth", "energy sector", "fossil fuel", "renewable energy", "energy use", "energy transition", "energy resource", "transport sector", "national grid", "universal access", "electricity generation", "energy source", "energy service", "affordable reliable", "clean cooking", "renewable source", "green energy", "power plant", "fuel energy", "fuel increase", "affordable energy", "reliable affordable", "ensure energy", "fossil fuel energy", "climate goal", "reliable energy", "share total", "renewable electricity", "coal power", "development economy", "emission energy", "power sector", "solar wind", "increase renewable", "electricity supply", "carbon technology", "low carbon technology", "continue grow", "renewable energy source", "policy legislation", "climate target", "inclusive growth", "international cooperation", "attract investment"]
+    },
+    {
+      "id": 8,
+      "importance": 0.8289,
+      "category": "High",
+      "features": ["economic development", "economic growth", "sustainable economic", "gdp growth", "economic sector", "sustainable economic growth", "growth rate", "gdp growth rate", "skill development", "inclusive growth", "economic diversification", "private sector", "resilient economy", "create job", "job creation", "gdp capita", "business process", "entrepreneurship innovation", "annual growth", "employment opportunity", "foreign exchange", "skill knowledge", "investment plan", "development investment", "promote sustainable development", "promote sustain", "investment climate", "national economic", "sector investment", "target achieve", "long term", "promote sustainable", "employment youth", "market promote"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2694,
+      "category": "Low",
+      "features": ["capacity building", "infrastructure include", "support innovation", "technology innovation", "value add", "climate proof", "greenhouse gas", "local community", "gas emission", "development aim", "long term", "green building"]
+    },
+    {
+      "id": 10,
+      "importance": 0.102,
+      "category": "Low",
+      "features": ["equal opportunity", "population group", "economic growth", "financial service", "manufacturing sector", "development partner", "smallholder farmer", "vulnerable group"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["waste management", "early warning", "access adequate", "development plan", "sustainable waste", "human settlement", "risk management", "economic loss", "planning process", "preparedness response", "economic social", "urban planning", "urban area", "urban plan", "risk reduction", "urban rural", "management include", "spatial planning", "quality life", "public participation", "ensure accessibility", "universal access", "construction material", "building code", "literacy skill", "plan include", "disaster risk", "resilient sustainable", "disaster risk reduction", "informal settlement", "special attention", "real estate", "low middle income", "low middle", "infrastructure development"]
+    },
+    {
+      "id": 12,
+      "importance": 0.13,
+      "category": "Low",
+      "features": ["waste management", "sustainable waste", "sustainable waste management", "fossil fuel", "value chain", "negative impact", "capacity building", "develop implement", "implementation plan", "increase consumption", "national level", "management facility"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate resilient", "climate action", "low carbon", "greenhouse gas", "carbon climate", "low carbon climate", "emission reduction", "carbon climate resilient", "change impact", "climate change impact", "adaptation action", "mitigation adaptation", "greenhouse gas emission", "gas emission", "capacity building", "carbon market", "socio economic", "climate resilience", "mitigation action", "implementation climate", "determine contribution", "climate initiative", "address climate change", "address climate", "early warning", "food security", "global climate", "climate change adaptation", "change adaptation", "renewable energy", "national policy", "weather event", "climate finance", "sector economy", "extreme weather", "resilience climate", "impact climate", "impact climate change", "integrate climate", "mitigation measure", "country climate", "integrate climate change", "climate risk", "implement climate", "climate impact", "climate change relate", "change relate", "action sector", "risk management"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0371,
+      "category": "Low",
+      "features": ["coastal community", "coastal erosion"]
+    },
+    {
+      "id": 15,
+      "importance": 0.3686,
+      "category": "Medium",
+      "features": ["land use", "forest degradation", "deforestation forest", "deforestation forest degradation", "use land", "forest land", "forestry sector", "nature base", "land water", "negative impact", "include forest", "implementation sustainable", "protection conservation", "land management", "land area", "sustainable land", "sustainable land management", "sustainable management", "afforestation reforestation", "end total", "local community", "management include", "tree cover", "climate change", "agricultural land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2964,
+      "category": "Low",
+      "features": ["legal framework", "violence child", "decision making", "civil society", "human right", "government agency", "sector civil", "sector civil society"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0394,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

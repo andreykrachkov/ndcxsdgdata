@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1177,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "need support", "good practice", "energy poverty"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2719,
+      "category": "Low",
+      "features": ["food security", "agricultural activity", "agricultural sector", "traditional knowledge", "agriculture sector", "agricultural land", "food supply", "local food", "national food", "healthy diet", "impact food", "pest disease", "development process", "sustainable food", "livestock production", "crop livestock", "improve resilience", "value chain", "carbon sequestration"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1138,
+      "category": "Low",
+      "features": ["mental health", "communicable disease", "health issue", "mental health issue", "improve health", "national level", "child bear", "child young people"]
+    },
+    {
+      "id": 4,
+      "importance": 0.1136,
+      "category": "Low",
+      "features": ["high school", "child youth", "school high", "education school", "vocational education", "skilled workforce"]
+    },
+    {
+      "id": 5,
+      "importance": 0.2257,
+      "category": "Low",
+      "features": ["gender equality", "gender responsive", "decision making", "base violence", "woman girl", "gender base", "gender base violence", "training education", "decision make", "achieve gender", "empower woman", "promote gender", "gender justice", "ensure woman", "impact woman", "woman decision", "woman equal", "promote gender equality", "woman decision make", "form gender", "equal access", "equality policy", "ensure gender", "mainstreame gender", "disaggregate datum", "affect woman", "commitment gender", "mainstream gender", "public sector"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0089,
+      "category": "Low",
+      "features": ["water resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["fossil fuel", "renewable energy", "clean energy", "energy efficiency", "energy sector", "electricity sector", "solar power", "electricity generation", "energy security", "target set", "energy technology", "energy transition", "solar energy", "electric vehicle", "power plant", "energy demand", "transport sector", "energy capacity", "carbon capture", "support energy", "energy efficiency measure", "efficiency measure", "renewable energy capacity", "emission energy", "energy infrastructure", "sustainable energy", "energy source", "energy project", "renewable energy project", "energy energy", "energy mix", "share renewable", "nuclear energy", "energy poverty", "fuel energy", "energy access", "overall energy", "energy electricity", "transition energy", "efficiency energy", "accelerate transition", "energy solution", "supply energy", "energy efficiency energy", "ensure energy", "reduce carbon emission", "fossil fuel energy", "renewable energy energy", "share renewable energy", "dependence fossil"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1908,
+      "category": "Low",
+      "features": ["economic growth", "economic development", "economic activity", "job creation", "economic sector", "sector key", "include climate", "economic diversification", "private sector", "promote economic"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1982,
+      "category": "Low",
+      "features": ["development infrastructure", "long term", "research development", "new technology", "infrastructure include", "innovative solution", "quality life", "greenhouse gas", "gas emission", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1394,
+      "category": "Low",
+      "features": ["social inclusion", "child youth", "promote social", "disaggregate datum", "social economic", "strengthen gender", "promote social economic", "mainstreame gender", "people vulnerable"]
+    },
+    {
+      "id": 11,
+      "importance": 0.6278,
+      "category": "Medium",
+      "features": ["urban center", "plan include", "cultural heritage", "planning process", "adapt climate", "urban planning", "human settlement", "waste management", "urban plan", "manage waste", "local government", "development plan", "economic social", "public participation", "infrastructure urban", "action address", "plan new", "natural cultural", "real estate", "natural cultural heritage", "waste source", "cultural value", "adapt climate change", "disaster risk", "international community", "policy plan", "economic loss", "waste produce", "preparedness response"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1397,
+      "category": "Low",
+      "features": ["waste stream", "waste management", "food waste", "production consumption", "reduce waste", "waste include", "waste disposal", "waste collection", "volume waste", "aim reduce", "natural resource", "health environment", "waste source", "sustainable food", "provide electricity"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "sea level", "sea level rise", "level rise", "gas emission", "greenhouse gas emission", "climate impact", "climate finance", "climate action", "impact climate", "impact climate change", "emission reduction", "low carbon", "change impact", "mitigation adaptation", "renewable energy", "nature base solution", "nature base", "climate change impact", "low emission", "reduce emission", "food security", "net emission", "implement climate", "energy efficiency", "reduce greenhouse gas", "reduce greenhouse", "reduction target", "emission reduction target", "determine contribution", "rise sea level", "rise sea", "address climate", "national climate", "climate relate", "tackle climate", "climate crisis", "global warming", "response climate", "build resilience", "access climate", "capacity building", "reduction emission", "increase climate", "reduction greenhouse", "fuel use", "climate change policy", "change policy", "climate adaptation"]
+    },
+    {
+      "id": 14,
+      "importance": 0.2325,
+      "category": "Low",
+      "features": ["marine resource", "sea level", "coral reef", "fish stock", "cultural heritage", "fishery management", "management plan", "sustainable fishery", "marine specie", "land sea", "economy sustainable", "et al", "world large", "sustainable management", "sustainable fishery management", "coastal erosion", "ocean relate"]
+    },
+    {
+      "id": 15,
+      "importance": 0.2972,
+      "category": "Low",
+      "features": ["nature base", "climate change", "tree planting", "tree plant", "forest degradation", "deforestation forest", "conserve biodiversity", "terrestrial marine", "deforestation forest degradation", "protect restore", "vulnerability climate change", "land resource", "halt reverse", "vulnerability climate", "agricultural land", "adaptation mitigation"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3572,
+      "category": "Medium",
+      "features": ["decision making", "human right", "access justice", "public sector", "protection human", "evidence base", "national legislation"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0132,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

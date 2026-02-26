@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 2,
+      "importance": 0.0145,
+      "category": "Low",
+      "features": ["food security", "agriculture include", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0172,
+      "category": "Low",
+      "features": ["public health", "health sector", "prevention control", "health risk"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.1445,
+      "category": "Low",
+      "features": ["water supply", "water conservation", "water storage", "flood risk", "river lake", "water resource", "enhance water", "water management", "improve water", "drinking water", "water resource management", "national water", "resource management", "water loss", "ensure water", "desalination plant", "promote water", "city water", "cubic meter", "water desalination", "management infrastructure"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["new energy", "power generation", "carbon dioxide", "energy consumption", "solar power", "carbon neutral", "energy efficiency", "public building", "instal capacity", "electricity consumption", "energy source", "electric vehicle", "reduce carbon", "reduce carbon emission", "renewable energy", "energy transition", "power plant", "global energy", "energy production", "fossil fuel", "electricity generation", "natural gas", "energy conservation", "energy resource", "energy power", "primary energy", "wind solar", "international cooperation", "net greenhouse gas", "net greenhouse", "carbon technology", "energy sector", "energy project", "improve energy", "energy use", "solar energy", "development energy", "energy development", "improve energy efficiency", "residential building", "energy city", "total energy consumption", "base energy", "charge station", "building energy", "transport sector", "include energy", "electric vehicle charge", "fuel oil", "vehicle charge"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1127,
+      "category": "Low",
+      "features": ["financial institution", "economic development", "program implement", "national economic", "development service"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2641,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "capacity building", "science technology", "technology innovation", "transportation infrastructure", "research development", "infrastructure development", "innovation development", "infrastructure include", "innovation platform", "financial support", "infrastructure develop", "scientific research", "construction new", "major infrastructure", "environmental performance", "issue policy", "environmental impact", "public private", "new industrial", "increase number", "support green", "impact assessment", "road rail", "african country", "policy support"]
+    },
+    {
+      "id": 10,
+      "importance": 0.014,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.3618,
+      "category": "Medium",
+      "features": ["urban rural", "early warning", "solid waste", "natural disaster", "economic social", "risk management", "environmental impact", "safe resilient", "urban area", "disaster response", "total number", "emergency response", "action address", "solid waste disposal", "adapt climate change", "rural development", "soil water", "infrastructure development", "pollution prevention", "adapt climate", "cultural heritage", "disaster risk", "air pollution", "international community", "pollution control", "air pollutant", "historical cultural", "total area", "waste source", "disaster risk management", "pollutant emission", "tropical cyclone", "strengthen disaster", "total urban"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2652,
+      "category": "Low",
+      "features": ["solid waste", "environmental impact", "fossil fuel", "raw material", "green product", "waste management", "production consumption", "waste reduction", "social responsibility", "waste disposal", "corporate social", "corporate social responsibility", "green building", "waste treat", "waste treatment", "efficient use", "implementation plan", "soil pollution", "develop green", "contribution achieve", "circular economy", "reduce waste", "waste source"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "address climate change", "address climate", "gas emission", "greenhouse gas emission", "carbon emission", "determine contribution", "carbon dioxide", "carbon neutrality", "carbon neutral", "early warning", "emission reduction", "carbon development", "achieve carbon", "carbon market", "global climate", "prevention mitigation", "adapt climate", "adapt climate change", "adaptation climate", "climate resilience", "emission decrease", "risk management", "action climate", "adaptation climate change", "resilience climate", "capacity building", "mitigation adaptation", "renewable energy", "energy efficiency", "change impact", "climate change impact", "climate relate", "climate adaptation", "climate finance", "climate risk", "natural disaster", "emission ton", "electric vehicle", "achieve carbon neutrality", "protection climate", "green building", "emission industry", "project include", "global warming", "extreme weather", "measure climate", "monitoring reporting", "level rise"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0287,
+      "category": "Low",
+      "features": ["coastal area", "marine coastal", "reduction marine", "management measure"]
+    },
+    {
+      "id": 15,
+      "importance": 0.1496,
+      "category": "Low",
+      "features": ["climate change", "prevention control", "land use", "forest area", "natural ecosystem", "forest cover", "terrestrial ecosystem", "use land", "area strengthen", "environmental protection", "area increase", "action plan", "total area", "increase hectare"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0791,
+      "category": "Low",
+      "features": ["provide service", "criminal justice", "public awareness", "training session"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0071,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

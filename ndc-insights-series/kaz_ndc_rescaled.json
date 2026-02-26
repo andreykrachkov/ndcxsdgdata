@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1712,
+      "category": "Low",
+      "features": ["social protection", "low income", "climate relate", "vulnerable population", "adaptation planning", "provide social", "poverty eradication", "development poverty", "enhance social", "shock responsive", "line national"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0494,
+      "category": "Low",
+      "features": ["agricultural production", "agricultural product", "arable land", "support farmer", "value chain", "traditional knowledge", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.027,
+      "category": "Low",
+      "features": ["public health", "air pollution", "air quality"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0456,
+      "category": "Low",
+      "features": ["gender responsive", "participation woman", "development woman", "woman vulnerable", "decision make", "ensure gender", "platform action", "hold woman", "child elderly"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1211,
+      "category": "Low",
+      "features": ["water resource", "water supply", "water quality", "water body", "sustainable water", "quality water", "water resource management", "resource management", "include water", "surface water", "water scarcity", "water save", "area include", "civil protection", "management plan", "water sector", "water management", "freshwater resource", "river basin", "reduce water", "water reduce", "agriculture industry", "river lake", "major river", "water food", "water treat", "expand access", "wetland river"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "carbon technology", "low carbon technology", "energy source", "carbon neutral", "clean energy", "energy use", "fossil fuel", "carbon capture", "renewable energy source", "measure reduce", "energy sector", "good practice", "energy production", "reduce energy", "electricity generation", "energy transition", "increase share", "efficiency renewable", "efficiency renewable energy", "natural gas", "energy efficiency renewable", "energy consumption", "energy project", "energy intensity", "share renewable", "electric vehicle", "power plant", "nuclear energy", "instal capacity", "wind farm", "energy investment", "energy capacity", "energy climate", "power grid", "heat pump", "term energy", "measure ensure", "electricity demand", "district heating", "renewable energy capacity", "waste energy", "net greenhouse gas", "net greenhouse", "energy security", "international cooperation", "improve energy", "energy policy", "renewable energy project"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2341,
+      "category": "Low",
+      "features": ["long term", "private sector", "economic growth", "labour market", "job creation", "economic development", "economic sector", "skill development", "economy sector", "business model", "investment climate", "level increase", "investment plan", "financial institution", "sustainable economy", "economic diversification", "new growth", "youth woman", "inclusive sustainable", "global effort", "promote fair"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3435,
+      "category": "Medium",
+      "features": ["capacity building", "long term", "green transition", "resilient infrastructure", "industrial sector", "foster innovation", "public private", "innovation sustainable", "investment renewable", "greenhouse gas", "support green", "gas emission", "water wastewater", "build resilient", "inclusive sustainable", "sustainable infrastructure", "government agency", "small medium", "medium sized", "construction new", "small medium sized", "heating cool", "support need", "social environmental"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0276,
+      "category": "Low",
+      "features": "process ensure"
+    },
+    {
+      "id": 11,
+      "importance": 0.6205,
+      "category": "Medium",
+      "features": ["disaster risk", "economic loss", "risk reduction", "disaster risk reduction", "public transport", "cultural heritage", "waste management", "risk management", "low income", "particulate matter", "local authority", "local government", "disaster risk management", "increase number", "air quality", "urban planning", "air pollution", "public transportation", "urban plan", "regional development", "international community", "critical infrastructure", "quality public", "early warning", "person disability", "national disaster", "waste generation", "urban mobility", "public participation", "city region", "infrastructure urban", "major river", "population growth", "income household", "planning process", "inclusive accessible", "low income household", "infrastructure facility", "waste collect", "solid waste", "residential area", "management waste", "waste collection", "development plan", "civil protection", "disaster response", "disaster preparedness", "activity include", "recycling rate", "universal access"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1301,
+      "category": "Low",
+      "features": ["waste generation", "behavioral change", "consumption production", "waste management", "sustainable consumption", "circular economy", "sustainable consumption production", "solid waste", "reduce waste", "raw material", "resource efficiency", "business model", "recycle material", "resource use", "natural resource", "waste collection", "instal renewable energy", "instal renewable", "national plan", "public awareness", "energy waste", "heat production"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["low carbon", "climate change", "renewable energy", "mitigation adaptation", "adaptation measure", "emission reduction", "climate relate", "gas emission", "net emission", "greenhouse gas", "climate resilient", "energy efficiency", "greenhouse gas emission", "national climate", "climate policy", "climate finance", "capacity building", "climate risk", "low emission", "technology transfer", "climate action", "reduce emission", "integrate climate", "adaptation action", "carbon neutral", "disaster risk", "climate impact", "international climate", "climate smart", "carbon neutrality", "extreme weather", "extreme weather event", "weather event", "adaptive capacity", "good practice", "resilience climate", "carbon market", "achieve carbon neutrality", "achieve carbon", "strengthen resilience", "determine contribution", "risk reduction", "disaster risk reduction", "risk management", "impact climate", "impact climate change", "adaptation plan", "agriculture water", "future generation", "transition low"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.3112,
+      "category": "Medium",
+      "features": ["degraded land", "climate change", "land use", "land degradation", "ecosystem service", "restore degraded", "protect restore", "natural area", "manage forest", "national local", "forest management", "sustainable forest", "forest area", "sustainable use", "biodiversity loss", "sustainable forest management", "biodiversity conservation", "forest land", "forest degradation", "soil protection", "biodiversity protection", "area protect", "nature base", "restore degraded land", "management practice", "management plan", "protection biodiversity", "use land", "protect natural", "management include", "cultural value", "agricultural land", "land area", "sustainable management", "contribute global", "natural resource", "area country", "adaptation mitigation", "institutional capacity", "national economy"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1161,
+      "category": "Low",
+      "features": ["civil society", "national regional", "risk management", "responsive inclusive", "make process", "local government", "vulnerable group", "monitoring evaluation"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0341,
+      "category": "Low",
+      "features": ["international cooperation", "sustainable development", "development partner", "international development", "innovation sustainable"]
+    }
+  ]
+}

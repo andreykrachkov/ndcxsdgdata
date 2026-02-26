@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0984,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice", "climate relate"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1443,
+      "category": "Low",
+      "features": ["access food", "improve nutrition", "ensure food", "national food", "reduce food", "self sufficiency", "farming practice", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0055,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.0103,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0647,
+      "category": "Low",
+      "features": ["woman participation", "woman represent", "labor force", "gender responsive"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1299,
+      "category": "Low",
+      "features": ["surface water", "water reuse", "flood risk", "water supply", "wastewater treatment", "water loss", "treatment plant", "wastewater treatment plant", "treat wastewater", "waste water", "water reduce", "agriculture industry", "water treatment", "water storage", "water treatment plant", "water treat", "water management", "water source", "potable water", "water security", "water conservation", "water wastewater", "renewable water", "use efficiency", "management plan", "wastewater management"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "carbon capture", "solar wind", "energy mix", "climate goal", "energy sector", "improve energy", "electricity generation", "natural gas", "power plant", "improve energy efficiency", "power generation", "renewable electricity", "clean energy", "energy source", "energy capacity", "renewable energy capacity", "energy consumption", "energy project", "energy service", "renewable energy project", "reliable sustainable", "energy energy", "energy renewable", "energy security", "development energy", "energy resource", "transmission distribution", "energy demand", "transport sector", "include energy", "solar power", "energy renewable energy", "renewable energy energy", "diversify energy", "investment energy", "renewable energy power", "energy power", "energy energy efficiency", "good practice", "gas production", "street lighting", "street light", "energy target", "energy market", "global energy", "renewable energy target", "attract investment", "energy technology"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3145,
+      "category": "Medium",
+      "features": ["economic growth", "economic diversification", "national economy", "high value", "long term economic", "employment opportunity", "private sector", "enhance economic", "long term", "national economic"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3522,
+      "category": "Medium",
+      "features": ["long term", "value add", "research development", "infrastructure development", "sustainable infrastructure", "information communication technology", "communication technology", "aim build", "information communication", "financial support", "greenhouse gas", "infrastructure develop", "value chain", "capacity building", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0021,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.6136,
+      "category": "Medium",
+      "features": ["plan include", "urban planning", "urban plan", "economic social", "population growth", "waste management", "development plan", "quality life", "land use", "real estate", "human settlement", "urban area", "critical infrastructure", "urban center", "environmental impact", "urban green", "public participation", "planning process", "support sustainable", "reduce environmental", "infrastructure development", "adapt climate", "urban development", "solid waste", "early warning", "economic loss", "city region", "pose significant", "activity include"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2435,
+      "category": "Low",
+      "features": ["waste management", "solid waste", "food loss", "reduce food", "environmental impact", "reduce food loss", "resource conservation", "industrial waste", "waste landfill", "gas production", "efficient use", "material use", "use resource", "risk associate", "public awareness"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "determine contribution", "greenhouse gas emission", "gas emission", "climate change", "renewable energy", "emission reduction", "climate action", "climate impact", "emission ton", "national climate", "mitigation adaptation", "adaptation measure", "international climate", "resilience climate", "aim reduce", "energy efficiency", "low carbon", "adaptation action", "climate relate", "impact climate", "impact climate change", "national climate change", "climate change policy", "change policy", "adaptive capacity", "climate resilient", "global warming", "strengthen resilience", "good practice", "reduction target", "emission reduction target", "ensure climate", "carbon sink", "monitoring reporting", "flood risk", "climate vulnerability", "resilience building", "adaptation effort", "reduce emission", "climate resilience", "resilience adaptive capacity", "address climate change", "resilience adaptive", "address climate", "adaptation plan", "low emission", "climate risk", "reduce greenhouse gas", "technology transfer"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0569,
+      "category": "Low",
+      "features": ["marine environment", "coral reef", "marine pollution", "coastal marine", "protect marine", "marine area", "protect marine area", "socio economic", "sustainable practice", "adverse impact"]
+    },
+    {
+      "id": 15,
+      "importance": 0.2724,
+      "category": "Low",
+      "features": ["climate change", "land use", "land degradation", "protect area", "tree planting", "degraded land", "biological diversity", "combat desertification", "management plan", "flora fauna", "reverse land", "reverse land degradation", "tree plant", "wildlife protection", "halt reverse", "halt reverse land", "management practice", "pursue sustainable", "area cover"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0433,
+      "category": "Low",
+      "features": "ensure effective"
+    },
+    {
+      "id": 17,
+      "importance": 0.0716,
+      "category": "Low",
+      "features": ["private sector", "international cooperation", "partnership aim", "technology transfer", "mean implementation", "sustainable development", "international level", "international financial", "urban development"]
+    }
+  ]
+}

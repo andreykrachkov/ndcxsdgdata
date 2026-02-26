@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2709,
+      "category": "Low",
+      "features": ["vulnerable population", "social inclusion", "essential service", "rural urban", "water sanitation", "adaptation planning", "good practice", "social protection", "population live", "child young", "economic development", "people disability"]
+    },
+    {
+      "id": 2,
+      "importance": 0.273,
+      "category": "Low",
+      "features": ["food security", "sustainable food", "value chain", "agricultural production", "agricultural product", "food sector", "child year", "strengthen food", "rural community", "improve food", "key sector", "smallholder farmer", "food insecurity", "access market"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0812,
+      "category": "Low",
+      "features": ["health facility", "number people", "mental health", "health action", "pregnant woman", "year woman"]
+    },
+    {
+      "id": 4,
+      "importance": 0.03,
+      "category": "Low",
+      "features": ["quality education", "student develop", "girl boy"]
+    },
+    {
+      "id": 5,
+      "importance": 0.5626,
+      "category": "Medium",
+      "features": ["man woman", "woman girl", "woman man", "relate gender", "gender equality", "participation woman", "gender inequality", "woman receive", "number man", "empower woman", "action plan", "reduce gender", "woman woman", "include woman", "economic empowerment", "empowerment woman", "woman include", "national gender", "young woman", "rate gender", "term gender", "economic empowerment woman", "plan gender", "work relate", "woman local", "woman business", "number woman", "woman participation", "include gender", "mainstreame gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.257,
+      "category": "Low",
+      "features": ["water resource", "water sanitation", "sanitation service", "sanitation hygiene", "water sanitation hygiene", "water supply", "drinking water", "management water", "drink water", "resource management", "water availability", "water resource management", "improve water", "access water", "water source", "open defecation", "treat wastewater", "management water resource", "source water", "drinking water sanitation", "resource water", "water sewage", "access water sanitation", "drinking water supply", "integrate management", "water sanitation service", "drink water supply", "water sector", "wastewater treatment", "water loss", "treatment plant", "septic tank", "sustainable management", "change water", "water treatment", "management infrastructure", "body water", "equitable access", "water storage", "management tool", "city water", "protect water", "water treat"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9011,
+      "category": "High",
+      "features": ["renewable energy", "power plant", "solar power", "energy renewable", "electric vehicle", "energy renewable energy", "energy consumption", "energy sector", "energy source", "instal capacity", "transport sector", "energy efficiency", "promote energy", "solar energy", "energy cost", "promote energy efficiency", "charge station", "climate plan", "efficiency renewable", "efficiency renewable energy", "energy infrastructure", "renewable energy power", "energy power", "efficiency building", "energy efficiency building", "reliable energy", "electricity grid", "energy total", "energy produce", "carbon technology", "year energy", "access electricity", "efficiency energy", "good practice", "sustainable inclusive", "energy save", "development economy", "project implement", "international cooperation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1257,
+      "category": "Low",
+      "features": ["private sector", "economy sector", "economic diversification", "informal sector", "year old", "formal sector"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2425,
+      "category": "Low",
+      "features": ["capacity building", "greenhouse gas", "value chain", "total cost", "gas emission", "road rail", "national road", "transport infrastructure", "sustainable infrastructure", "rural population", "urban infrastructure", "informal sector"]
+    },
+    {
+      "id": 10,
+      "importance": 0.2178,
+      "category": "Low",
+      "features": ["social inclusion", "people disability", "child youth", "woman young people", "social protection", "contribute reduce", "vulnerable group", "national local", "good practice", "reduce gender"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["waste management", "spatial planning", "land use", "land use plan", "use plan", "waste collect", "waste collection", "social housing", "municipal waste", "early warning", "total number", "risk management", "year old", "green space", "population live", "disaster risk", "housing unit", "urban area", "risk reduction", "sustainable urban", "people disability", "solid waste", "local authority", "international community", "urban rural", "management include", "urban center", "civil protection", "policy plan", "total area", "park build", "project improve", "urban planning", "resilient sustainable", "urban plan", "indicator housing", "economic loss", "infrastructure urban", "development social", "private partnership", "new development"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3053,
+      "category": "Medium",
+      "features": ["waste management", "natural resource", "circular economy", "waste collection", "municipal waste", "household waste", "rate waste", "consumption production", "sustainable consumption", "sustainable consumption production", "production pattern", "consumption production pattern", "value chain", "medical waste", "capacity building", "reuse recycle", "treatment facility", "recycle waste", "sustainable food", "national development", "hectare land"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "gas emission", "greenhouse gas emission", "emission reduction", "reduce greenhouse gas", "reduce greenhouse", "strengthen resilience", "effect climate", "effect climate change", "climate finance", "reduce emission", "capacity building", "climate action", "national climate", "mitigation measure", "reduction target", "adaptation action", "mitigation adaptation", "project include", "mitigation action", "reduction emission", "renewable energy", "electric vehicle", "low carbon", "local community", "resilience climate", "carbon climate", "aim reduce", "action reduce", "good practice", "climate fund", "adaptation measure", "integrate climate", "climate change action", "change action", "development climate", "climate risk", "technology transfer", "national policy", "carbon market", "emission reduction target", "increase climate", "combat climate", "combat climate change", "climate resilience", "climate policy", "transport sector", "framework climate", "action sector"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0015,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.4284,
+      "category": "Medium",
+      "features": ["land forest", "conservation restoration", "climate change", "sustainable management", "land use", "natural resource", "land use plan", "use plan", "land use planning", "use planning", "forest product", "degraded land", "natural ecosystem", "action plan", "land degradation", "protect area", "biodiversity loss", "biodiversity conservation", "sustainable land", "degraded forest", "land water", "principle sustainable", "area cover", "tree plant", "local community", "land soil", "green job", "agricultural land", "conservation biodiversity", "environmental protection"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2826,
+      "category": "Low",
+      "features": ["civil society", "good governance", "fundamental right", "monitoring evaluation", "peace security", "private sector civil", "sector civil", "sector civil society", "health social", "legal framework", "aim ensure", "participatory process", "ensure effective", "national regional", "international instrument", "digital platform"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0452,
+      "category": "Low",
+      "features": ["capacity building", "international cooperation", "develop country", "public private", "monitoring evaluation", "technology transfer"]
+    }
+  ]
+}

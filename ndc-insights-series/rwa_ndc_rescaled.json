@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1717,
+      "category": "Low",
+      "features": ["social protection", "climate relate", "poverty reduction", "support vulnerable", "extreme event", "poverty rate", "national poverty", "need support", "poor household", "institutional framework", "social inclusion", "address poverty", "rural area", "shock responsive", "integrate social"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2988,
+      "category": "Low",
+      "features": ["food security", "soil erosion", "increase food", "carbon sequestration", "agri food", "support agricultural", "soil conservation", "agricultural production", "agricultural product", "nutrition security", "crop livestock", "sustainable agriculture", "food production", "food product", "agricultural activity", "production food", "value chain", "security improve", "agriculture sector", "food nutrition", "agricultural land", "food supply", "food nutrition security", "local food", "national food", "agricultural practice", "food waste", "reduce food", "improve food", "increase productivity", "reduce food waste", "climate smart", "practice increase", "develop sustainable", "local government", "arable land", "sector addition", "safety net", "area land", "effect climate"]
+    },
+    {
+      "id": 3,
+      "importance": 0.177,
+      "category": "Low",
+      "features": ["health risk", "malaria case", "real time", "public health", "health facility", "incidence rate", "air pollution", "air quality", "mental health", "city health", "health professional", "number people", "quality monitoring", "local health", "health unit", "premature mortality", "early detection", "service include", "health sector", "live birth", "community health", "maternal mortality", "year old", "air quality monitoring", "malaria incidence", "long term", "mortality live", "mortality live birth", "successful implementation"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0091,
+      "category": "Low",
+      "features": ["child youth", "school level", "ensure inclusive", "school infrastructure", "school high", "education school"]
+    },
+    {
+      "id": 5,
+      "importance": 0.0328,
+      "category": "Low",
+      "features": ["gender equity", "woman remain", "female participation", "mainstream gender", "age year"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2833,
+      "category": "Low",
+      "features": ["water supply", "water resource", "water treatment", "water storage", "water treat", "water sanitation", "water body", "water use", "sanitation hygiene", "treatment plant", "water security", "revenue water", "drinking water", "water quality", "increase water", "treatment facility", "improve water", "quality monitoring", "water loss", "access improved", "country water", "water sanitation hygiene", "enhance water", "water treatment plant", "flood risk", "water flow", "water management", "use water", "water reduce", "private sector civil", "sector civil society", "sector civil", "wastewater treatment", "quality water", "water supply sanitation", "supply sanitation", "reduce water", "water quality monitoring", "water production", "adequate sanitation", "ambient water", "rural household", "water supply service", "supply service", "number water", "water supply network", "supply network", "water quality water", "achieve universal", "monitoring water"]
+    },
+    {
+      "id": 7,
+      "importance": 0.7749,
+      "category": "High",
+      "features": ["fossil fuel", "energy use", "increase use", "energy efficiency", "carbon dioxide", "power generation", "share total", "renewable energy", "electric vehicle", "energy waste", "energy production", "electricity generation", "dioxide equivalent", "carbon dioxide equivalent", "energy increase", "energy efficiency measure", "efficiency measure", "waste energy", "rooftop solar", "clean energy", "energy consumption", "modern energy", "energy supply", "energy transition", "solar energy", "import fossil fuel", "import fossil", "solar pv", "transport sector", "electricity consumption", "fuel technology", "increase access", "energy save", "measure reduce", "emission energy", "increase demand", "area energy", "low carbon energy", "energy security", "energy sector", "affordable clean", "energy service", "access affordable", "access electricity", "energy energy", "national energy", "renewable source", "energy poverty", "residential building", "domestic renewable"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2215,
+      "category": "Low",
+      "features": ["economic growth", "growth rate", "job creation", "tourism sector", "job opportunity", "decent job", "economic development", "economy support", "high value", "growth tourism", "delivery service", "attract international", "private sector", "youth woman", "disaster risk", "sustainable growth", "human capital", "inclusive growth", "long term"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2246,
+      "category": "Low",
+      "features": ["capacity building", "innovation ecosystem", "infrastructure national", "public private", "innovation infrastructure", "resilient infrastructure", "transport infrastructure", "public transport", "climate proof", "sustainable transport", "development project", "greenhouse gas", "development infrastructure", "total cost", "technical support", "rooftop solar", "technology adoption", "technology innovation", "aim build", "innovation sustainable", "gas emission", "city develop", "vulnerable household", "global average", "import fossil fuel", "import fossil"]
+    },
+    {
+      "id": 10,
+      "importance": 0.047,
+      "category": "Low",
+      "features": ["social inclusion", "child youth", "ensure right", "social economic"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["early warning", "land use", "human settlement", "economic loss", "urban area", "public transport", "disaster risk", "risk reduction", "master plan", "solid waste", "development plan", "air quality", "resilient sustainable", "urban green", "informal settlement", "green space", "area include", "air pollution", "disaster risk reduction", "urban rural", "air pollutant", "local government", "disaster preparedness", "waste generation", "emergency response", "population live", "population growth", "land use plan", "water heater", "use plan", "national disaster", "support sustainable", "solid waste disposal", "national disaster management", "sustainable city", "urban development", "waste management", "public transportation", "residential building", "new urban", "housing project", "international community", "risk management", "public transit", "year old", "spatial planning", "energy plant", "quality life", "basic service", "green open"]
+    },
+    {
+      "id": 12,
+      "importance": 0.319,
+      "category": "Medium",
+      "features": ["solid waste", "fossil fuel", "waste disposal", "waste generation", "waste management", "circular economy", "food waste", "reduce food", "waste treat", "waste treatment", "waste waste", "reduce food waste", "harvest loss", "capacity building", "waste reduce", "reuse recycle", "waste resource", "treatment facility", "recycle waste", "area energy", "natural resource", "impact environment", "energy waste"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "mitigation adaptation", "net emission", "climate finance", "adaptation measure", "mitigation measure", "low carbon", "climate resilient", "extreme weather", "reduction emission", "weather event", "extreme weather event", "capacity building", "climate resilience", "early warning", "food security", "emission reduction", "greenhouse gas", "emission source", "change impact", "climate change impact", "climate impact", "climate action", "national climate", "climate relate", "low emission", "climate risk", "technology transfer", "disaster risk", "adaptation action", "reduction target", "climate smart", "emission reduction target", "fuel use", "reduce emission", "emission compare", "carbon dioxide", "integrate climate", "risk reduction", "global warming", "energy efficiency", "public transport", "carbon market", "global climate", "effect climate", "electric vehicle", "include climate", "waste sector", "ensure climate", "climate policy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0016,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.6818,
+      "category": "Medium",
+      "features": ["soil erosion", "climate change", "land use", "forest area", "ecosystem service", "sustainable forest", "protect area", "land management", "degraded land", "national park", "forest land", "land area", "sustainable land", "land cover", "sustainable land management", "land use plan", "use plan", "forest product", "national land", "surface area", "restore forest", "agricultural land", "area ha", "forest forest", "forest management", "land degradation", "sustainable forest management", "restore degraded", "native specie", "environmental protection", "degraded forest", "nature base", "restore degraded land", "management practice", "urban forest", "area increase", "open space", "loss biodiversity", "contribute global", "natural resource", "negative impact", "area country", "area cover", "management forest", "tree plant", "use land", "natural ecosystem", "green blue", "biodiversity area", "target protect"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1889,
+      "category": "Low",
+      "features": ["civil society", "private sector civil", "sector civil", "sector civil society", "decision making", "evidence base", "strategic plan", "local government", "woman child", "monitoring evaluation", "local governance", "financial resource", "greenhouse gas inventory", "gas inventory", "legal framework"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0268,
+      "category": "Low",
+      "features": ["global partnership", "technical assistance", "capacity building", "capacity development"]
+    }
+  ]
+}

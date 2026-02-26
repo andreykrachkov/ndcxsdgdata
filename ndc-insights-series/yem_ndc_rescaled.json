@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3412,
+      "category": "Medium",
+      "features": ["poverty line", "live poverty", "strengthen social", "essential service", "population live", "line national", "population live poverty", "reduce poverty", "climate relate"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2752,
+      "category": "Low",
+      "features": ["climate smart", "food security", "food insecurity", "agricultural production", "agri food", "agriculture food", "agricultural product", "food sector", "agri food sector", "strengthen food", "agriculture fishery", "food consumption", "small scale", "value chain", "fishery sector", "food production", "food product", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.191,
+      "category": "Low",
+      "features": ["health facility", "health sector", "health problem", "public health", "health risk", "long term", "service include"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.037,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.423,
+      "category": "Medium",
+      "features": ["water sanitation", "water resource", "water scarcity", "water quality", "water availability", "national water", "supply water", "resource management", "access water", "improved sanitation", "water demand", "safe water", "renewable water", "urban area", "sanitation water", "high level", "water resource management", "sustainable water", "water relate", "water security", "water efficiency", "integrate water", "integrate water resource", "water reuse", "enhance water", "city water", "operation maintenance"]
+    },
+    {
+      "id": 7,
+      "importance": 0.7542,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "natural gas", "solar photovoltaic", "photovoltaic pv", "solar photovoltaic pv", "clean fuel", "fossil fuel", "energy mix", "promote energy", "electricity generation", "power plant", "accelerate transition", "energy share", "renewable energy share", "generation capacity", "household business", "clean energy", "energy sector", "energy service", "share renewable", "access clean", "electric vehicle", "energy access", "energy demand", "promote energy efficiency", "solar pv", "affordable energy", "transport sector", "smart energy", "include energy", "reliable affordable", "diversify energy", "energy water", "energy solar", "energy infrastructure", "clean technology", "access clean energy", "energy share total", "energy generation", "gas electricity", "share total", "electricity demand", "energy transformation", "solar wind", "energy promote", "increase renewable energy", "increase renewable"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3047,
+      "category": "Medium",
+      "features": ["national economy", "private sector", "economic recovery", "supply chain", "investment plan", "economic growth", "real gdp", "economic performance", "sustainable growth", "long term", "inclusive sustainable"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3673,
+      "category": "Medium",
+      "features": ["long term", "inclusive sustainable", "greenhouse gas", "value chain", "gas emission", "promote innovation", "global average", "economic social", "resilient infrastructure", "transport network", "infrastructure include", "rural population", "small scale", "manufacturing construction", "technology adoption"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0095,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["urban area", "waste management", "critical infrastructure", "risk reduction", "development plan", "urban planning", "resilient sustainable", "urban plan", "solid waste", "urban rural", "early warning", "service delivery", "person disability", "area total", "economic social", "population growth", "resilient urban", "support sustainable", "disaster preparedness", "social cohesion", "planning process", "preparedness response"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2344,
+      "category": "Low",
+      "features": ["waste management", "circular economy", "waste reduction", "reduction recycling", "energy generation", "solid waste", "sustainable public", "solid waste management", "post harvest", "value chain", "harvest loss", "post harvest loss"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "low emission", "renewable energy", "climate resilient", "climate action", "low carbon", "climate risk", "climate resilience", "mitigation adaptation", "energy efficiency", "level rise", "reduce emission", "strengthen resilience", "climate smart", "climate relate", "risk climate", "national climate", "global climate", "impact climate", "impact climate change", "integrate climate", "climate finance", "adaptive capacity", "effect climate", "effect climate change", "climate impact", "risk reduction", "technology transfer", "institutional capacity", "gas emission", "flash flood", "address climate", "build resilience", "early warning", "carbon climate", "low carbon climate", "change impact", "climate change impact", "greenhouse gas", "greenhouse gas emission", "national adaptation", "country climate", "address climate change", "integrate climate change", "adaptation plan", "emission promote", "transport sector", "emission ton", "approach climate", "waste reduction"]
+    },
+    {
+      "id": 14,
+      "importance": 0.1331,
+      "category": "Low",
+      "features": ["marine ecosystem", "coastal marine", "sustainable fishery", "blue economy", "small scale", "sea level"]
+    },
+    {
+      "id": 15,
+      "importance": 0.3484,
+      "category": "Medium",
+      "features": ["climate change", "vulnerability climate", "land degradation", "land management", "sustainable land", "sustainable land management", "nature base", "conserve biodiversity", "natural resource", "national local", "vulnerability climate change", "land water", "institutional capacity"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2154,
+      "category": "Low",
+      "features": ["evidence base", "strong institution", "vulnerable group", "decision making", "civil society", "resilient inclusive"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0597,
+      "category": "Low",
+      "features": ["sustainable development", "private sector", "civil society", "development partner", "society private", "civil society private", "society private sector", "international development"]
+    }
+  ]
+}

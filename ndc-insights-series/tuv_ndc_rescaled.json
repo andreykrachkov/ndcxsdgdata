@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0582,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.121,
+      "category": "Low",
+      "features": ["food security", "agricultural practice", "agriculture sector", "food production", "agricultural product", "agricultural productivity", "food product", "local food", "crop livestock", "increase agricultural", "increase local", "agricultural development", "development food", "increase agricultural productivity", "annual work", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0651,
+      "category": "Low",
+      "features": ["health risk", "health sector", "public health", "national health", "population health", "health wellbee"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0733,
+      "category": "Low",
+      "features": ["secondary education", "primary secondary", "education focus", "national education", "sustainable development", "education school"]
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0832,
+      "category": "Low",
+      "features": ["water supply", "water sanitation", "access safe", "water resource", "clean water", "clean water sanitation", "water resource management", "resource management", "water source", "integrated water", "water security", "access clean", "ground water", "safe water", "access clean water", "integrated water resource", "water supply network", "supply network", "development strategy", "address water", "waterborne disease", "investment plan"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "electricity generation", "energy efficiency", "energy sector", "solar pv", "energy electricity", "transport sector", "renewable energy electricity", "fossil fuel", "electricity sector", "total energy", "energy target", "increase energy", "energy source", "renewable energy source", "solar energy", "import fossil fuel", "import fossil", "transmission distribution", "solar panel", "use renewable energy", "solar power", "use renewable", "electricity demand", "waste energy", "power sector", "increase demand", "renewable energy target", "energy resource", "target set", "energy project", "improve energy", "energy use", "renewable energy project", "energy energy", "energy mix", "promote energy", "national energy", "energy security", "improve energy efficiency", "energy conservation", "promote energy efficiency", "support development", "produce energy", "form energy", "efficiency energy", "rooftop solar", "energy efficiency energy", "generate electricity", "renewable energy energy"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2288,
+      "category": "Low",
+      "features": ["economic development", "economic growth", "economic diversification", "investment plan"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2467,
+      "category": "Low",
+      "features": ["infrastructure develop", "economic infrastructure", "infrastructure development", "quality life", "development project", "master plan", "business model", "infrastructure project", "plan future", "safety security", "resilient infrastructure", "technology policy", "local community"]
+    },
+    {
+      "id": 10,
+      "importance": 0.048,
+      "category": "Low",
+      "features": ["et al", "quality life"]
+    },
+    {
+      "id": 11,
+      "importance": 0.8308,
+      "category": "High",
+      "features": ["natural disaster", "human settlement", "critical infrastructure", "access safe", "tropical cyclone", "disaster risk", "early warning", "planning process", "preparedness response", "plan include", "cultural heritage", "risk reduction", "waste collect", "waste collection", "land use", "activity include", "resilient sustainable", "waste management", "disaster risk reduction", "heritage site", "international community", "pollution control", "risk management", "improve safety", "local government", "service delivery", "disaster response", "economic loss", "public participation", "site include", "cultural heritage site", "disaster risk management", "waste waste", "master plan", "access adequate", "government building", "management include", "environmental impact", "quality life", "population live", "building material", "cultural value", "waste collection service", "development social", "settlement development", "culture heritage", "infrastructure development"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2381,
+      "category": "Low",
+      "features": ["solid waste", "waste management", "waste collection", "hazardous waste", "waste reduction", "gas production", "circular economy", "reduce waste", "waste disposal", "waste waste", "waste send", "capacity building", "hazardous waste management", "reuse waste", "financial resource", "ensure sustainable", "negative impact", "national development", "end life"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "renewable energy", "sea level", "energy efficiency", "emission reduction", "determine contribution", "carbon development", "level rise", "socio economic", "natural disaster", "sea level rise", "impact climate", "impact climate change", "transport sector", "local community", "climate resilient", "change impact", "climate change impact", "greenhouse gas", "adaptation action", "early warning", "food security", "greenhouse gas emission", "gas emission", "integrate climate", "climate change include", "climate change adaptation", "change adaptation", "change include", "integrate climate change", "emission transport", "disaster risk", "adaptation plan", "climate finance", "education awareness", "climate impact", "good practice", "reduction target", "rise sea level", "rise sea", "reduction emission", "development climate", "promote climate", "raise awareness", "ensure climate", "low carbon", "change climate", "capacity building", "climate action", "combat climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0566,
+      "category": "Low",
+      "features": ["sea level", "marine protect", "marine protect area", "coastal ecosystem", "protect area", "land sea"]
+    },
+    {
+      "id": 15,
+      "importance": 0.209,
+      "category": "Low",
+      "features": ["climate change", "land use", "protect area", "land area", "sustainable management", "local community", "total land", "economic cultural", "total land area", "country area"]
+    },
+    {
+      "id": 16,
+      "importance": 0.034,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0128,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0739,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 2,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0.0617,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.2556,
+      "category": "Low",
+      "features": "child learn"
+    },
+    {
+      "id": 5,
+      "importance": 0.1105,
+      "category": "Low",
+      "features": "man woman"
+    },
+    {
+      "id": 6,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy efficiency", "increase energy", "renewable energy", "energy consumption", "energy production", "energy use", "fossil fuel", "energy energy", "energy transition", "renewable source", "source energy", "import fossil fuel", "import fossil", "energy energy efficiency", "clean renewable", "fuel source", "district heating", "use clean", "energy produce", "project aim", "efficiency improvement", "reduce energy"]
+    },
+    {
+      "id": 8,
+      "importance": 0.0437,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 9,
+      "importance": 0.1028,
+      "category": "Low",
+      "features": ["technological development", "environmental impact"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0048,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.174,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 12,
+      "importance": 0.1446,
+      "category": "Low",
+      "features": ["natural resource", "use natural resource", "waste disposal", "use natural", "waste production", "motor vehicle", "environmental management"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "emission reduction", "climate change", "gas emission", "greenhouse gas emission", "reduction target", "global warming", "emission reduction target", "reduction emission", "energy efficiency", "global climate", "urgent action", "reduce emission", "tackle climate", "climate crisis", "tackle climate change", "effect climate", "effect climate change", "reduce greenhouse gas", "renewable energy", "reduce greenhouse", "temperature increase", "technological development", "environmental education", "emission reduce", "emission sector", "education awareness", "future generation", "reduce energy consumption"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.1262,
+      "category": "Low",
+      "features": ["land use", "use land", "environmental management"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3085,
+      "category": "Medium",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

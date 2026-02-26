@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2224,
+      "category": "Low",
+      "features": ["good practice", "poverty eradication", "vulnerable population", "health education", "build resilience", "development poverty", "social inclusion", "worth note", "international assistance"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0415,
+      "category": "Low",
+      "features": ["food security", "soil erosion", "climate smart"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0576,
+      "category": "Low",
+      "features": ["public health", "health risk", "mental health", "national level", "knowledge skill"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0801,
+      "category": "Low",
+      "features": ["child youth", "education sector", "school closure", "knowledge skill", "school infrastructure", "education priority", "education school", "sustainable development", "social support"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1106,
+      "category": "Low",
+      "features": ["gender equality", "woman man", "gender responsive", "decision make", "address gender", "promote gender", "ensure woman", "promote gender equality", "decision maker", "advance gender", "focus woman", "mainstreaming gender", "advance gender equality", "action plan", "public sector", "national youth"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0954,
+      "category": "Low",
+      "features": ["water resource", "water supply", "water sector", "water management", "water availability", "improve water", "water infrastructure", "manage water", "water shortage", "access clean", "rainwater harvesting", "flood risk", "manage water resource", "project implement", "address water", "resource management", "source water", "reduce water", "country water", "resource water", "water pollution"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy sector", "energy efficiency", "improve energy", "electricity generation", "electric vehicle", "transport sector", "solar wind", "improve energy efficiency", "energy generation", "energy technology", "energy mix", "energy transition", "energy electricity", "renewable energy technology", "increase energy", "small scale", "clean energy", "energy source", "energy production", "energy use", "fossil fuel", "energy energy", "energy security", "solar energy", "import fossil fuel", "import fossil", "energy resource", "solar pv", "overall energy", "power generation", "form energy", "renewable energy energy", "diversify energy", "energy capacity", "clean technology", "energy energy efficiency", "support energy", "energy initiative", "energy transformation", "renewable energy capacity", "emission energy", "energy target", "wind solar", "project implement", "household business", "increase renewable energy", "increase renewable", "renewable energy target", "year energy"]
+    },
+    {
+      "id": 8,
+      "importance": 0.0969,
+      "category": "Low",
+      "features": ["economic growth", "economic sector", "private sector", "transport sector", "gdp capita", "year old", "work relate"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1843,
+      "category": "Low",
+      "features": ["greenhouse gas", "capacity building", "gas emission", "aim build", "manufacturing industry", "small scale", "global average", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.134,
+      "category": "Low",
+      "features": ["vulnerable group", "social inclusion", "person disability", "development plan"]
+    },
+    {
+      "id": 11,
+      "importance": 0.4785,
+      "category": "Medium",
+      "features": ["urban planning", "human settlement", "urban plan", "critical infrastructure", "early warning", "economic social", "public participation", "real estate", "planning process", "urban centre", "plan include", "city community", "management include", "spatial planning", "land use", "emergency response", "action address", "land use plan", "use plan", "rate high", "plan implementation"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0157,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "renewable energy", "greenhouse gas", "impact climate", "national climate", "climate action", "reduce emission", "gas emission", "energy efficiency", "impact climate change", "adaptation action", "greenhouse gas emission", "capacity building", "emission reduction", "climate resilient", "extreme weather", "extreme weather event", "weather event", "low carbon", "climate resilience", "national climate change", "transport sector", "change impact", "climate change impact", "integrate climate", "change climate", "climate adaptation", "climate finance", "climate risk", "international climate", "reduce greenhouse", "electric vehicle", "sea level rise", "build resilience", "mitigation action", "level rise", "sea level", "reduce greenhouse gas", "climate change include", "change include", "integrate climate change", "low emission", "project include", "good practice", "transition low", "carbon climate resilient", "carbon climate", "low carbon climate", "low carbon economy", "access climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0893,
+      "category": "Low",
+      "features": ["spatial plan", "fishery sector", "water agriculture", "coral reef", "coastal area", "fishery management", "coastal resource", "sustainable fishery", "management coastal", "measure ensure", "socio economic", "sustainable practice", "sustainable fishery management", "adverse impact", "coastal erosion"]
+    },
+    {
+      "id": 15,
+      "importance": 0.3025,
+      "category": "Medium",
+      "features": ["climate change", "forest inventory", "land use", "forest management", "land degradation", "degraded land", "restore degraded", "sustainable land", "national forest", "protect biodiversity", "restore degraded land", "soil erosion", "natural resource", "use practice", "land use practice", "land use plan", "use plan", "land use planning", "use planning", "implement sustainable", "vulnerability climate change", "vulnerability climate", "sustainable land use", "national economy", "livelihood opportunity", "ecosystem service", "natural resource management"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0931,
+      "category": "Low",
+      "features": ["vulnerable group", "aim ensure", "national global", "make process"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0405,
+      "category": "Low",
+      "features": "private sector"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3287,
+      "category": "Medium",
+      "features": ["poverty reduction", "adaptation planning", "elderly people disability", "people disability", "climate relate", "line national"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1563,
+      "category": "Low",
+      "features": ["food security", "ensure food", "ensure food security", "security climate"]
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.0273,
+      "category": "Low",
+      "features": ["high quality", "education early"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1064,
+      "category": "Low",
+      "features": ["gender equality", "promote gender", "promote gender equality", "national policy"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0216,
+      "category": "Low",
+      "features": ["water resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon dioxide", "renewable energy", "energy sector", "energy waste", "access energy", "energy source", "national energy", "natural gas", "clean cooking", "energy demand", "dioxide equivalent", "carbon dioxide equivalent", "transport sector", "increase energy", "business model", "measure reduce", "energy resource", "plan increase"]
+    },
+    {
+      "id": 8,
+      "importance": 0.191,
+      "category": "Low",
+      "features": ["business model", "employment opportunity", "private sector"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0731,
+      "category": "Low",
+      "features": ["promote inclusive", "information technology"]
+    },
+    {
+      "id": 10,
+      "importance": 0.2795,
+      "category": "Low",
+      "features": ["people disability", "woman young people", "people vulnerable", "vulnerable group"]
+    },
+    {
+      "id": 11,
+      "importance": 0.2745,
+      "category": "Low",
+      "features": ["air quality", "human settlement", "waste management", "pollution control", "early warning", "economic social", "planning process", "make use", "quality waste", "sustainable waste", "activity include", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1057,
+      "category": "Low",
+      "features": ["value chain", "waste management", "sustainable waste", "resource use", "financial resource", "circular economy", "promotion sustainable", "business model", "economy contribute", "sustainable business", "implementation plan"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["emission reduction", "reduction target", "emission reduction target", "climate change", "climate action", "climate finance", "adaptation action", "national climate", "determine contribution", "reduce emission", "greenhouse gas", "greenhouse gas emission", "gas emission", "mitigation adaptation", "mitigation measure", "international climate", "carbon dioxide", "low carbon", "impact climate", "impact climate change", "climate resilience", "change climate", "low emission", "carbon sink", "global warming", "awareness raising", "temperature increase", "early warning", "capacity building", "increase climate", "low carbon development", "carbon development", "food security", "adaptation plan", "renewable energy", "climate relate", "global climate", "global climate change", "adaptation measure", "integrate climate", "adaptation climate", "country climate", "adaptive capacity", "climate risk", "climate resilient", "institutional capacity", "action fund", "extreme weather", "frequency intensity", "national policy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0106,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.4487,
+      "category": "Medium",
+      "features": ["land use", "protect area", "forest degradation", "degraded land", "forestry sector", "sustainable management", "use land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2282,
+      "category": "Low",
+      "features": ["civil society", "protection child", "private sector civil", "sector civil", "sector civil society", "evidence base", "vulnerable group", "child woman", "woman young"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0584,
+      "category": "Low",
+      "features": ["private sector", "civil society", "sustainable development", "international partner", "private sector civil"]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.6003,
+      "category": "Medium",
+      "features": ["poverty eradication", "percentage point", "development poverty", "extreme poverty", "rural area", "social protection", "reduce poverty", "poverty rate", "eradicate poverty", "poverty increase", "social service", "number people", "rural poverty", "right child", "child young", "high rate", "basic service", "base national", "vulnerable population", "government spending", "economic development", "increase poverty", "household consumption", "adaptation planning", "good service", "resilient development", "extreme event"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2639,
+      "category": "Low",
+      "features": ["food production", "food product", "food security", "agricultural sector", "agricultural product", "ensure food", "national level", "agricultural production", "agriculture food", "agricultural productivity", "increase food", "support food", "agricultural practice", "strengthen food", "adverse effect", "sector promote", "impact food", "increase productivity", "area land", "effect climate", "sustainable agricultural", "increase production", "promote food", "food service", "develop sustainable"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1971,
+      "category": "Low",
+      "features": ["health sector", "strengthen health", "public health", "health service", "health emergency", "national level", "health country", "health promotion", "prevention control", "resource health"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0466,
+      "category": "Low",
+      "features": ["early childhood", "childhood education", "early childhood education", "literacy rate", "attendance rate", "education training", "include education", "high school", "general education", "child youth"]
+    },
+    {
+      "id": 5,
+      "importance": 0.2056,
+      "category": "Low",
+      "features": ["include gender", "woman man", "participation woman", "ensure woman", "woman high", "adolescent young", "adolescent young people", "man average", "mainstream gender", "address gender", "equal opportunity", "empowerment woman", "gender perspective", "rural woman", "raise awareness", "national policy"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2794,
+      "category": "Low",
+      "features": ["water resource", "water sanitation", "drink water", "water scarcity", "management water", "use water", "surface water", "sustainable management", "average annual", "drinking water", "clean water", "clean water sanitation", "water management", "water availability", "resource management", "access water", "water source", "increase water", "water body", "management water resource", "human consumption", "access clean", "drinking water sanitation", "water human", "adequate sanitation", "access clean water", "access water sanitation", "integrate management", "conservation area", "water resource management", "source water", "ensure availability", "resource water", "use water resource", "green infrastructure", "management tool", "city water", "area include"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9259,
+      "category": "High",
+      "features": ["renewable energy", "energy sector", "energy production", "energy efficiency", "international cooperation", "energy source", "energy consumption", "primary energy", "annual growth", "promote energy", "promote energy efficiency", "target set", "clean technology", "fossil fuel", "modern energy", "energy service", "access affordable", "access affordable reliable", "affordable reliable", "energy energy", "electricity generation", "electricity sector", "natural gas", "renewable source", "power plant", "ensure access", "electric power", "transmission distribution", "power generation", "energy include", "fuel oil", "renewable energy production", "renewable energy energy", "come renewable", "reliable modern", "energy consume", "energy ensure", "implementation energy", "wind energy", "modern energy service", "total energy", "universal access", "use clean", "consumption energy", "emission energy", "gas production", "energy ensure access", "energy promote", "reliable modern energy", "population increase"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3434,
+      "category": "Medium",
+      "features": ["percentage point", "economic growth", "employment rate", "unemployment rate", "economic diversification", "public debt", "sustainable economic", "sustainable economic growth", "economic activity", "formal employment", "promote sustain", "private sector", "informal employment", "strategic sector", "growth high", "unemployment increase", "promote sustainable", "growth rate", "real gdp", "work hour", "productivity level", "annual growth", "informal sector", "formal sector"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2302,
+      "category": "Low",
+      "features": ["capacity building", "road infrastructure", "science technology", "sustainable transport", "technology innovation", "process result", "financial support", "public private", "sustainable mobility"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1914,
+      "category": "Low",
+      "features": ["reduce inequality", "income inequality", "child youth", "economic growth", "general public", "measure income", "capita income"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["solid waste", "natural heritage", "human settlement", "land use", "urban planning", "disaster risk", "urban area", "urban plan", "policy plan", "basic service", "population growth", "disaster risk reduction", "risk reduction", "natural disaster", "economic social", "population live", "planning process", "land use plan", "use plan", "inclusive safe", "waste collect", "housing basic", "housing basic service", "international community", "urban rural", "solid waste collect", "early warning", "sustainable transport", "urban center", "real estate", "sewage treatment", "strategy climate change", "universal access", "urban solid waste", "urban solid", "strategy climate", "total urban", "air pollution", "resilient sustainable", "waste management", "risk management", "local government", "total number", "public participation", "area include", "local regional", "local plan"]
+    },
+    {
+      "id": 12,
+      "importance": 0.437,
+      "category": "Medium",
+      "features": ["solid waste", "circular economy", "national level", "waste management", "waste disposal", "waste production", "consumption pattern", "production consumption", "sustainable production", "solid waste management", "sustainable production consumption", "waste treat", "waste treatment", "waste waste", "human health", "challenge implement", "relate waste", "ton day", "resource use", "volume waste", "sustainable public", "natural resource", "raw material", "capacity building", "efficient use", "fossil fuel", "develop implement", "term strategy", "generation waste", "long term strategy", "gas production", "financial resource"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "change adaptation", "climate change adaptation", "greenhouse gas", "climate risk", "effect climate", "effect climate change", "gas emission", "adaptation measure", "impact climate", "greenhouse gas emission", "impact climate change", "mitigation adaptation", "climate change mitigation", "change mitigation", "emission reduction", "climate finance", "determine contribution", "adaptive capacity", "climate action", "address climate", "reduce emission", "adaptation action", "reduce greenhouse gas", "reduce greenhouse", "country climate", "technology transfer", "future generation", "change climate", "address climate change", "relate climate", "capacity building", "national climate", "strengthen resilience", "relate climate change", "extreme weather", "national policy", "extreme weather event", "weather event", "support climate", "adaptation climate", "renewable energy", "temperature increase", "risk climate", "combat climate", "combat climate change", "national climate change", "climate policy", "action reduce", "international climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.1559,
+      "category": "Low",
+      "features": ["coastal ecosystem", "protect area", "marine ecosystem", "marine coastal", "marine coastal ecosystem", "marine biodiversity", "marine area", "coastal zone", "marine conservation", "marine protect", "marine protect area", "national international", "sea level", "coastal resource"]
+    },
+    {
+      "id": 15,
+      "importance": 0.9148,
+      "category": "High",
+      "features": ["climate change", "land use", "protect area", "forest management", "sustainable forest", "sustainable forest management", "natural heritage", "management forest", "surface area", "forest area", "biodiversity loss", "conservation sustainable", "forestry sector", "implement sustainable", "sustainable management", "biodiversity conservation", "forest land", "forest degradation", "terrestrial ecosystem", "land cover", "deforestation forest", "terrestrial marine", "deforestation forest degradation", "conservation area", "human activity", "negative impact", "land use plan", "area base", "use plan", "use land", "land use planning", "use planning", "conservation restoration", "agricultural land", "conservation restoration sustainable", "land area", "forest resource", "country biodiversity", "land degradation", "sustainable use", "land forest", "national park", "restore degraded", "combat desertification", "national forest", "preservation biodiversity", "protect specie", "biodiversity ecosystem", "native specie", "management plan"]
+    },
+    {
+      "id": 16,
+      "importance": 0.525,
+      "category": "Medium",
+      "features": ["public policy", "local government", "participatory process", "citizen participation", "public administration", "promote transparency", "international instrument", "legal framework", "access information", "fight corruption", "civil society", "public access", "public access information", "vulnerable group", "information public", "policy ensure", "work age", "public awareness", "human right", "effort combat", "general public", "woman child", "financial resource"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0577,
+      "category": "Low",
+      "features": ["international cooperation", "strengthen partnership", "mean implementation", "develop country", "sustainable development", "technology transfer"]
+    }
+  ]
+}

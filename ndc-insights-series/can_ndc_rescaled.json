@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0276,
+      "category": "Low",
+      "features": ["energy poverty", "high rate", "economic development", "poverty reduction", "poverty eradication", "low income", "development poverty", "rural urban", "reduction effort", "good practice", "poverty risk", "cost living", "root cause"]
+    },
+    {
+      "id": 2,
+      "importance": 0.026,
+      "category": "Low",
+      "features": ["food security", "food production", "food product", "support agricultural", "agricultural research", "small scale", "impact food", "improve food", "carbon sequestration"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0314,
+      "category": "Low",
+      "features": ["mental health", "achieve target", "national level", "premature death", "community health", "health social", "health outcome", "care provider", "air quality", "service delivery", "care provide"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0056,
+      "category": "Low",
+      "features": "education culture"
+    },
+    {
+      "id": 5,
+      "importance": 0.0347,
+      "category": "Low",
+      "features": ["gender equality", "gender base", "impact woman", "woman experience", "exercise right"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0019,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["clean energy", "renewable energy", "fossil fuel", "energy transition", "energy efficiency", "carbon dioxide", "clean technology", "climate target", "electric vehicle", "target set", "energy source", "natural gas", "energy infrastructure", "energy project", "heat pump", "support clean", "emission vehicle", "electricity grid", "carbon capture", "climate plan", "cost effective", "power generation", "meet climate", "energy poverty", "energy sector", "source energy", "power grid", "renewable electricity", "sustainable energy", "measure reduce", "low carbon energy", "energy use", "energy technology", "electricity generation", "renewable energy source", "energy cost", "energy need", "electricity generate", "energy security", "reliable affordable", "improve energy", "energy supply", "reduce energy", "green energy", "improve energy efficiency", "fuel energy", "energy resource", "charge station", "new energy", "renewable resource"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1583,
+      "category": "Low",
+      "features": ["economic growth", "economic development", "sustainable economic", "sustainable economic growth", "job opportunity", "economic diversification", "cost live", "private sector", "long term", "pay job", "global effort", "job creation", "sector investment", "youth woman", "create job", "economic activity", "small business", "skill development", "economy sector", "work target", "promote sustain", "job future", "sector growth", "target achieve", "resilient economy", "equality work", "market contribute", "promote sustainable", "growth target", "gdp growth", "trade relate", "economic performance", "attract new", "target government"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1755,
+      "category": "Low",
+      "features": ["gas emission", "greenhouse gas", "research development", "new technology", "long term", "policy support", "financial support", "public private", "national regional", "heat pump", "research innovation", "foster innovation", "development innovation", "create new", "infrastructure investment", "measure reduce", "public transport", "market access", "development new", "small medium", "innovative solution", "medium sized", "infrastructure increase", "development sustainable", "infrastructure plan", "value chain", "support program", "investment new", "small medium sized", "government industry", "support need", "road rail", "electricity grid", "training research", "resilient infrastructure", "industrial development", "small business", "encourage innovation", "industrial project", "business sector", "high tech", "support industrial", "incentive program", "support economic", "new industrial", "infrastructure develop", "public investment", "industrial policy", "affordable equitable", "family business"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0557,
+      "category": "Low",
+      "features": ["provide opportunity", "economic growth", "protect right", "income household", "people disability", "social inequality", "person disability", "urban rural", "community people", "service include", "rate household", "income people", "small business"]
+    },
+    {
+      "id": 11,
+      "importance": 0.3859,
+      "category": "Medium",
+      "features": ["low income", "local government", "income household", "low income household", "building code", "air quality", "public transit", "land use", "people disability", "air water", "urban rural", "pollution air", "critical infrastructure", "policy plan", "planning process", "local regional", "adapt climate change", "adapt climate", "public transport", "resilient sustainable", "waste management", "public transportation", "urban area", "social housing", "solid waste", "living condition", "international community", "sustainable transport", "person disability", "housing sector", "economic social", "community include", "adequate housing", "improve living", "population live", "metropolitan area", "pose significant", "real estate", "people live", "sustainable transportation", "urban centre", "affordable sustainable", "government building", "infrastructure development", "manage waste", "municipal waste", "year old", "provide safe", "economic loss", "mitigate adapt climate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0621,
+      "category": "Low",
+      "features": ["natural resource", "fossil fuel", "use resource", "circular economy", "air water", "waste management", "solid waste", "solid waste management", "ensure sustainable", "management chemical", "use natural resource", "use natural", "protect environment", "chemical waste", "sound management", "increase consumption", "energy generation", "management chemical waste", "resource use", "environmental social", "municipal waste", "life cycle", "environmental economic", "reduce reuse", "reuse recycle", "reduce reuse recycle", "procurement policy", "include climate", "aim reduce"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "emission reduction", "climate action", "greenhouse gas", "reduce emission", "reduction target", "gas emission", "emission reduction target", "greenhouse gas emission", "low carbon", "net emission", "climate policy", "renewable energy", "address climate", "impact climate", "reduce greenhouse", "climate target", "impact climate change", "address climate change", "carbon economy", "carbon dioxide", "reduce greenhouse gas", "future generation", "transition low", "climate change action", "low carbon economy", "change action", "determine contribution", "mitigation adaptation", "transition low carbon", "climate crisis", "climate relate", "approach climate", "national climate", "electric vehicle", "energy efficiency", "relate climate", "climate change mitigation", "change mitigation", "climate mitigation", "global warming", "relate climate change", "change climate", "carbon emission", "change impact", "adaptation action", "climate impact", "international climate", "climate energy", "reduction emission"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0062,
+      "category": "Low",
+      "features": ["coastal ecosystem", "carbon capture"]
+    },
+    {
+      "id": 15,
+      "importance": 0.1464,
+      "category": "Low",
+      "features": ["climate change", "land use", "manage forest", "forest land", "land water", "natural resource", "use land", "land resource", "biodiversity loss", "include forest", "ecosystem biodiversity", "plant tree", "forest management", "forest degradation", "impact biodiversity", "sustainable land", "sustainable management", "deforestation forest", "forest inventory", "conserve biodiversity", "loss biodiversity", "terrestrial marine", "deforestation forest degradation", "protect restore", "human activity", "use practice", "land use practice", "halt reverse", "sustainable land use", "plant animal", "improve biodiversity", "use policy", "environmental management", "natural environment", "environmental protection", "nature base", "conservation protection", "strategy action plan", "strategy action", "animal plant", "action plan", "management include", "tree cover", "conservation effort", "agricultural land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.165,
+      "category": "Low",
+      "features": ["human right", "decision making", "civil society", "root cause", "access justice", "good governance", "protect human", "protect human right", "private sector civil", "sector civil", "sector civil society", "social justice", "national regional", "group people", "government citizen", "increase transparency", "public access", "training employment", "right people", "right freedom", "government policy"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0106,
+      "category": "Low",
+      "features": ["international partner", "global cooperation", "climate change mitigation", "change mitigation"]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0475,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 2,
+      "importance": 0.043,
+      "category": "Low",
+      "features": ["food security", "level food", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0396,
+      "category": "Low",
+      "features": ["public health", "healthy lifestyle", "healthy life", "child adolescent", "air quality", "improve air quality", "improve air"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0597,
+      "category": "Low",
+      "features": ["child young people", "teacher training", "child adolescent"]
+    },
+    {
+      "id": 5,
+      "importance": 0.03,
+      "category": "Low",
+      "features": ["gender equality", "achieve gender equality", "achieve gender", "promote woman", "promote gender", "woman include", "promote gender equality"]
+    },
+    {
+      "id": 6,
+      "importance": 0.002,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon dioxide", "dioxide equivalent", "carbon dioxide equivalent", "measure reduce", "energy efficiency", "target set", "energy conservation", "goal reduce", "energy source", "carbon technology", "renewable energy", "energy sector", "energy intensity", "country transition", "reduce carbon", "continue grow", "good practice", "international cooperation", "improve energy", "fossil fuel", "reduce energy", "energy renewable", "energy security", "energy development", "nuclear energy", "improve energy efficiency", "increase share", "energy renewable energy", "increase energy", "efficiency renewable", "energy efficiency renewable", "climate goal", "efficiency renewable energy", "carbon neutral", "renewable energy development", "development economy", "project implement", "improvement energy", "energy resource"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1411,
+      "category": "Low",
+      "features": ["economic growth", "growth rate", "gdp growth", "gdp capita", "economic diversification", "great potential", "national economy"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1291,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "technology innovation", "member state", "transport infrastructure", "innovative development", "transport network", "measure reduce", "achieve goal", "good available", "reduction greenhouse gas", "reduction greenhouse", "industrial production", "technical support", "development transport"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0551,
+      "category": "Low",
+      "features": ["provide service", "development activity"]
+    },
+    {
+      "id": 11,
+      "importance": 0.1443,
+      "category": "Low",
+      "features": ["public participation", "urban planning", "human settlement", "urban plan", "housing construction", "local authority", "international community", "economic social", "air quality", "quality public", "early warning", "environmental impact", "social impact", "planning process", "waste promote", "adapt climate change", "improve air quality", "improve air", "adapt climate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0506,
+      "category": "Low",
+      "features": ["waste management", "natural resource", "use natural resource", "use natural", "fossil fuel", "recycle waste", "country transition"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "greenhouse gas emission", "climate change", "reduce greenhouse", "reduce greenhouse gas", "carbon dioxide", "reduce emission", "emission reduction", "climate change mitigation", "change mitigation", "reduction greenhouse", "mitigation adaptation", "change mitigation adaptation", "determine contribution", "energy efficiency", "emission increase", "adaptation climate", "adaptation climate change", "adaptation measure", "climate impact", "emission source", "emission sector", "food security", "climate policy", "result climate change", "result climate", "climate risk", "effect climate", "effect climate change", "adapt climate", "renewable energy", "adapt climate change", "good practice", "local community", "reduction target", "carbon market", "emission reduction target", "national communication", "increase climate", "development climate", "climate action", "global climate", "impact climate", "support climate", "carbon neutrality", "relate climate change", "climate change adaptation", "change adaptation", "change climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.1691,
+      "category": "Low",
+      "features": ["sustainable forest", "forest cover", "climate change", "sustainable use", "natural area", "forest management", "sustainable forest management", "country territory", "protect natural", "increase forest", "aim preserve", "land use", "water coastal"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0487,
+      "category": "Low",
+      "features": ["government agency", "city report"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0065,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

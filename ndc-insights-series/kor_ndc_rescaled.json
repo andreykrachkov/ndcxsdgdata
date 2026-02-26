@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0851,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "provide support"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0026,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0.0012,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.001,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0032,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon neutral", "power generation", "renewable energy", "improve energy", "energy efficiency", "electric vehicle", "improve energy efficiency", "solar power", "heat pump", "fossil fuel", "power grid", "share renewable", "offshore wind", "passenger car", "energy building", "energy source", "reduce energy", "power plant", "increase share", "energy cost", "target set", "transport sector", "energy capacity", "carbon dioxide", "energy ensure", "cost effective", "reduce energy cost", "renewable energy capacity", "building sector", "power sector", "continue grow", "good practice", "measure ensure"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2188,
+      "category": "Low",
+      "features": ["economic growth", "growth rate", "new growth", "gdp growth", "real gdp", "rate real gdp", "rate real", "increase economic", "growth rate real", "government support", "development investment", "implement policy"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1782,
+      "category": "Low",
+      "features": ["heat pump", "infrastructure support", "industrial sector", "industry infrastructure", "technological development", "national infrastructure", "financial support"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0162,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.2977,
+      "category": "Low",
+      "features": ["planning process", "public transport", "international community", "plan include", "urban planning", "human settlement", "urban plan", "early warning", "promote use", "economic social", "public participation", "local government", "reduce adverse", "total area", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1301,
+      "category": "Low",
+      "features": ["raw material", "eco friendly", "reduce waste", "fossil fuel", "financial resource"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["carbon neutral", "carbon neutrality", "net emission", "climate crisis", "achieve carbon", "achieve carbon neutrality", "low carbon", "greenhouse gas", "renewable energy", "electric vehicle", "determine contribution", "energy efficiency", "gas emission", "carbon sink", "emission compare", "reduction target", "climate change", "emission reduction", "greenhouse gas emission", "reduce emission", "mitigation measure", "response climate", "national climate", "impact climate", "adaptation measure", "climate adaptation", "adaptation plan", "adaptation action", "building standard", "use public", "emission source", "emission sector", "climate risk", "public transport", "technological development", "future generation", "support climate", "impact climate change", "climate change adaptation", "change adaptation", "emission decrease", "adaptive capacity", "create new", "climate resilient", "emission promote", "transport sector", "emission ton", "global warming", "mitigation plan", "good practice"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0042,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.0673,
+      "category": "Low",
+      "features": ["manage forest", "forest carbon", "forest forest", "climate change"]
+    },
+    {
+      "id": 16,
+      "importance": 0.096,
+      "category": "Low",
+      "features": ["civil society", "member international", "public institution", "local government", "vulnerable group", "risk base"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0024,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

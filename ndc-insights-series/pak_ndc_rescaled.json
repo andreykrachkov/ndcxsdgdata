@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2605,
+      "category": "Low",
+      "features": ["poverty eradication", "good practice", "build resilience", "reduce poverty", "development poverty", "economic development", "extreme event", "climate relate", "adaptation planning", "poor household", "digital transformation", "resilient development"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2421,
+      "category": "Low",
+      "features": ["food security", "agriculture food", "ensure food", "ensure food security", "large scale", "young people", "food insecurity", "agriculture sector", "national food", "strengthen food", "key sector", "pest disease", "public health", "food market"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1451,
+      "category": "Low",
+      "features": ["health risk", "public health", "national health", "support health", "public private", "healthcare facility"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0442,
+      "category": "Low",
+      "features": ["vocational training", "teacher training", "education vocational"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1126,
+      "category": "Low",
+      "features": ["gender equality", "opportunity woman", "empower woman", "woman leadership", "equality woman", "young woman", "point woman", "child elderly", "national policy", "disaggregate datum", "action plan"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1956,
+      "category": "Low",
+      "features": ["wastewater treatment", "water treatment", "water treat", "water supply", "water scarcity", "water sanitation", "drinking water", "water management", "water source", "safe drinking water", "safe drinking", "access safe", "urban drainage", "ground water", "community water", "waterborne disease", "access safe drinking", "management water", "rainwater harvesting"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "clean energy", "fossil fuel", "power generation", "electricity generation", "energy security", "clean cooking", "solar pv", "solar power", "accelerate transition", "energy source", "energy efficiency", "net metering", "sustainable energy", "energy sector", "energy consumption", "energy technology", "access affordable", "energy transition", "natural gas", "access clean", "instal capacity", "solar panel", "charge station", "energy investment", "energy include", "increase energy", "fuel technology", "diversify energy", "energy climate", "climate goal", "generation capacity", "energy green", "health safety", "clean technology", "good practice", "cost effective", "measure ensure", "measure reduce", "building sector", "waste energy", "solar wind", "wind turbine", "international cooperation", "efficiency improvement", "electric vehicle", "energy access", "energy share", "energy water", "climate target"]
+    },
+    {
+      "id": 8,
+      "importance": 0.3724,
+      "category": "Medium",
+      "features": ["private sector", "economic growth", "decent work", "job creation", "human capital", "economic diversification", "sustainable growth", "inclusive sustainable", "youth unemployment", "young people", "growth rate", "young people work", "trade union", "people work", "creation decent", "employment opportunity", "resilient economy", "sustain economic growth", "sustain economic", "social dialogue", "age group", "economic development"]
+    },
+    {
+      "id": 9,
+      "importance": 0.4763,
+      "category": "Medium",
+      "features": ["capacity building", "inclusive sustainable", "financial support", "economic social", "greenhouse gas", "foster innovation", "sustainable infrastructure", "manufacturing industry", "achieve goal", "public private", "private sector develop", "sector develop", "development infrastructure", "upgrade infrastructure", "road rail", "technical support", "industry manufacturing", "knowledge base", "cut emission", "measure reduce", "digital transformation", "innovation entrepreneurship", "sustainable transport", "investment renewable", "sustainable mobility", "industrial activity", "global average", "national road"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0627,
+      "category": "Low",
+      "features": ["discrimination base", "good practice", "people center", "process ensure"]
+    },
+    {
+      "id": 11,
+      "importance": 0.7813,
+      "category": "High",
+      "features": ["early warning", "disaster risk", "waste management", "heritage site", "municipal waste", "sustainable transport", "target sustainable", "development plan", "urban green", "land use", "plan include", "cultural heritage", "human settlement", "solid waste", "resilience disaster", "critical infrastructure", "risk management", "access safe", "urban center", "green space", "informal settlement", "disaster response", "public participation", "natural cultural", "cultural heritage site", "natural cultural heritage", "planning process", "disaster risk management", "land use plan", "universal access", "use plan", "building code", "urban planning", "urban plan", "planning management", "economic loss", "action address", "environmental quality", "activity include", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1924,
+      "category": "Low",
+      "features": ["waste management", "municipal waste", "solid waste", "national development", "treatment facility", "solid waste management", "capacity building", "aim reduce"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate finance", "climate change", "low carbon", "national climate", "climate action", "determine contribution", "capacity building", "climate resilient", "international climate", "technology transfer", "renewable energy", "emission reduction", "mitigation adaptation", "integrate climate", "greenhouse gas", "impact climate", "reduce emission", "adaptation measure", "adaptation action", "carbon climate resilient", "carbon climate", "low carbon climate", "climate resilience", "climate impact", "food security", "global climate", "impact climate change", "disaster risk", "gas emission", "climate risk", "good practice", "climate policy", "adaptation plan", "build resilience", "climate smart", "ensure climate", "greenhouse gas emission", "national adaptation", "sea level", "aim reduce", "climate adaptation", "local community", "early warning", "nature base", "support climate", "low emission", "carbon sink", "response climate", "sea level rise", "extreme weather"]
+    },
+    {
+      "id": 14,
+      "importance": 0.032,
+      "category": "Low",
+      "features": "sea level"
+    },
+    {
+      "id": 15,
+      "importance": 0.3371,
+      "category": "Medium",
+      "features": ["protect area", "forest management", "eco tourism", "land use", "climate change", "sustainable forest", "sustainable forest management", "forest cover", "land management", "land forest", "biodiversity target", "restore degraded", "biodiversity protection", "create green", "land ecosystem", "forestry sector", "environmental protection", "global biodiversity", "degraded forest", "nature base", "afforestation reforestation", "soil erosion", "terrestrial marine", "human activity", "management protect", "land use plan", "use plan", "land use planning", "use planning", "vulnerability climate change", "action plan", "local community", "national land", "water reservoir", "vulnerability climate", "green job", "urban forest", "contribute global", "protect natural", "protect forest"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2943,
+      "category": "Low",
+      "features": ["woman child", "guarantee right", "city report", "fundamental right", "policy ensure", "public awareness", "monitoring evaluation", "social justice"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0944,
+      "category": "Low",
+      "features": ["capacity building", "technology transfer", "private sector", "mean implementation", "technical assistance", "innovative approach", "domestic resource", "public private", "sector investment", "national budget", "private sector investment", "global level", "new international", "debt burden", "build exist"]
+    }
+  ]
+}

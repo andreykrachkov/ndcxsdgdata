@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0494,
+      "category": "Low",
+      "features": ["social protection", "poverty eradication", "development poverty", "good practice", "climate relate", "poverty reduction", "goal poverty", "challenge poverty", "water sanitation", "economic development", "improve social", "rural area"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0743,
+      "category": "Low",
+      "features": ["agricultural product", "agricultural production", "agricultural land", "agricultural productivity", "climate smart", "food security", "agriculture sector", "agri food", "fruit vegetable", "crop livestock", "agricultural activity", "initiative line", "agricultural sector", "agriculture food", "livestock production", "promote sustainable", "value add", "increase agricultural", "value chain", "soil erosion", "soil degradation", "labor productivity", "effect climate"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0495,
+      "category": "Low",
+      "features": ["public health", "health outcome", "health increase", "achieve target", "health risk", "air quality", "training session", "improve air quality", "improve air"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0667,
+      "category": "Low",
+      "features": ["education school", "high education", "child youth", "education training", "develop education", "education initiative", "virtual reality", "problem solve", "sustainable development", "vocational education", "general education", "investment education", "include school", "necessary skill"]
+    },
+    {
+      "id": 5,
+      "importance": 0.0328,
+      "category": "Low",
+      "features": ["gender equality", "promote gender", "promote gender equality", "decision make", "national policy", "include woman", "raise awareness", "woman girl", "advance gender", "advance gender equality"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1243,
+      "category": "Low",
+      "features": ["water supply", "water resource", "water management", "drinking water", "water availability", "water loss", "potable water", "reduce water", "water use", "water source", "water treat", "water relate", "increase water", "water scarcity", "water supply sanitation", "supply sanitation", "clean drinking water", "clean drinking", "water demand", "wastewater treatment", "improve water", "water treatment", "urban area", "water sanitation", "water sector", "national water", "sanitation service", "sustainable water", "treatment plant", "wastewater treatment plant", "treat wastewater", "water efficiency", "water shortage", "safe drinking water", "safe drinking", "water conservation", "access clean", "water policy", "water stress", "drinking water sanitation", "change water", "sustainable water management", "access safe", "access clean drinking", "relate water", "ensure water", "demand water", "improve access", "enhance water", "provide clean"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "natural gas", "power sector", "green energy", "electric vehicle", "heat pump", "energy consumption", "energy source", "energy project", "improve energy", "power plant", "power generation", "building sector", "electricity demand", "renewable energy project", "increase energy", "energy capacity", "renewable energy capacity", "climate goal", "energy security", "improve energy efficiency", "use renewable", "solar wind", "energy use", "measure reduce", "clean energy", "energy sector", "electricity generation", "renewable source", "residential building", "use renewable energy", "generation capacity", "energy generation", "emission energy", "energy transition", "energy mix", "increase share", "solar power", "industry transport", "passenger car", "carbon capture", "renewable electricity", "increase renewable", "energy resource", "energy solution", "electric vehicle charge", "vehicle charge", "transition green", "energy management"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1527,
+      "category": "Low",
+      "features": ["economic growth", "economic diversification", "private sector", "young people", "economic development", "long term", "sector investment", "tourism sector", "job creation", "gdp growth", "work opportunity", "government support", "high value", "growth tourism", "access financial", "sustainable growth", "sustainable economy", "strong commitment", "promote sustain", "enhance economic", "create high", "sustainable tourism", "promote sustainable tourism", "human capital", "national economy", "education technical", "promote sustainable", "develop skill"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3653,
+      "category": "Medium",
+      "features": ["public transport", "financial support", "long term", "environmental impact", "measure reduce", "achieve goal", "technological capability", "greenhouse gas", "digital technology", "research development", "digital inclusion", "transport infrastructure", "infrastructure development", "sustainable infrastructure", "new technology", "infrastructure investment", "encourage innovation", "infrastructure include", "education institution", "public private", "innovation sustainable", "air transport", "investment renewable", "promote digital", "infrastructure develop", "reduce carbon footprint", "development infrastructure", "infrastructure initiative", "upgrade infrastructure", "infrastructure government", "industrial park", "investment new", "gas emission", "creation development", "promote innovation", "social environmental", "technology innovation", "global average", "capacity building", "policy regulation", "innovation key", "policy support", "export market", "government agency", "high tech", "sustainable transportation", "incentive program", "sustainable transport", "small scale", "railway network"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0535,
+      "category": "Low",
+      "features": ["person disability", "poverty inequality", "economic growth", "inclusive economic growth", "inclusive economic", "social protection", "meet need", "develop skill", "agricultural practice"]
+    },
+    {
+      "id": 11,
+      "importance": 0.4002,
+      "category": "Medium",
+      "features": ["waste management", "urban area", "public transport", "solid waste", "early warning", "public transportation", "air quality", "sustainable waste", "urban planning", "human settlement", "urban plan", "risk management", "promote use", "population growth", "residential building", "waste collect", "quality life", "total waste", "air pollution", "green area", "sustainable urban", "manage waste", "urban rural", "public transit", "person disability", "environmental impact", "urban green", "green space", "land use", "exist infrastructure", "urban mobility", "public participation", "population live", "pose significant", "waste generate", "real estate", "planning process", "reduce environmental", "solid waste disposal", "improve air quality", "improve air", "plan include", "goal sustainable", "municipal waste", "solid waste collect", "access safe", "waste collection", "year old", "community include", "waste generation"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3326,
+      "category": "Medium",
+      "features": ["waste management", "solid waste", "sustainable waste", "sustainable waste management", "waste incineration", "solid waste management", "reduce waste", "waste disposal", "sustainable practice", "industrial waste", "awareness program", "public awareness", "rate waste", "use natural", "efficient use", "circular economy", "hazardous waste", "waste generate", "sustainable tourism", "raw material", "environmental impact", "waste generation", "waste treat", "waste treatment", "value chain", "health environment", "implement circular", "awareness sustainable", "waste waste", "reduction recycling", "waste collection", "management program", "environmental economic", "waste send", "waste food", "air water", "progress reduce", "waste disposal site", "production electricity", "consumption pattern", "generate capita", "waste generate capita", "energy waste", "waste landfill", "disposal site", "encourage use", "waste household", "gas production", "financial resource", "social environmental"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "reduce emission", "renewable energy", "energy efficiency", "climate action", "emission reduction", "low carbon", "global climate", "emission sector", "climate relate", "climate resilience", "net emission", "early warning", "adaptation measure", "greenhouse gas", "gas emission", "national climate", "mitigation measure", "public transport", "change impact", "climate change impact", "climate policy", "climate finance", "climate risk", "global warming", "ambitious climate", "waste sector", "mitigation plan", "combat climate", "combat climate change", "greenhouse gas emission", "integrate climate", "address climate", "effect climate", "effect climate change", "technology transfer", "electric vehicle", "good practice", "sea level", "reduction emission", "low emission", "temperature increase", "determine contribution", "capacity building", "climate impact", "adapt climate", "aim reduce", "adaptation action", "awareness raise", "low carbon economy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0066,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.2184,
+      "category": "Low",
+      "features": ["climate change", "forest land", "land use", "sustainable use", "soil erosion", "agricultural land", "forest cover", "biodiversity conservation", "total forest", "land water", "forest management", "land degradation", "sustainable forest", "forest area", "sustainable forest management", "soil protection", "land area", "total land", "afforestation reforestation", "management practice", "green area", "adaptation mitigation", "management forest", "raise awareness", "increase forest", "hectare land", "threat biodiversity", "environmental conservation", "land cover", "environmental protection", "mitigation climate change", "mitigation climate", "inland water", "human activity", "natural habitat", "successful implementation", "water reservoir", "water increase", "country area"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1358,
+      "category": "Low",
+      "features": ["civil society", "make process", "decision making", "international financial", "national global", "evidence base", "ensure effective", "informed decision", "build trust", "strategic plan", "public awareness", "inclusive society", "government agency", "aim ensure", "financial resource"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0346,
+      "category": "Low",
+      "features": ["civil society", "private sector", "sustainable development", "international financial", "international cooperation", "society private", "civil society private", "society private sector", "strengthen international", "local community", "public private", "global challenge", "address global", "economic growth", "include sustainable"]
+    }
+  ]
+}

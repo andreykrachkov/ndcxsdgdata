@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2993,
+      "category": "Low",
+      "features": ["social protection", "reduce poverty", "climate relate", "poverty reduction", "poverty eradication", "development poverty", "reduce exposure", "empowerment programme", "social protection measure", "expenditure social", "people disability", "essential service", "rural poverty", "resilient development"]
+    },
+    {
+      "id": 2,
+      "importance": 0.3264,
+      "category": "Medium",
+      "features": ["food security", "agriculture sector", "climate smart", "key sector", "sustainable agriculture", "food insecurity", "food nutrition", "agricultural production", "food supply", "agricultural product", "crop livestock", "rural community", "adequate food", "weather condition", "value chain", "increase productivity", "reduction food", "smallholder farmer", "soil water", "young people", "sustainable agricultural", "agricultural practice", "value add", "include agriculture", "agriculture livestock", "gdp percent", "measure ensure", "carbon sequestration", "development process"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1289,
+      "category": "Low",
+      "features": ["air pollution", "population health", "health service", "health facility", "health increase", "disease cancer", "health wellbee"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.1248,
+      "category": "Low",
+      "features": ["gender equality", "achieve gender equality", "achieve gender", "ensure woman", "rate gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1535,
+      "category": "Low",
+      "features": ["water supply", "water quality", "water management", "water availability", "water relate", "potable water", "water security", "water scarcity", "water quality monitoring", "rainwater harvesting", "access safe", "ground water", "quality monitoring", "community water", "regional cooperation", "enhance water", "water flow", "transboundary cooperation", "project expect", "water resource", "source water", "resource water", "equitable access", "access adequate", "energy infrastructure"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9531,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "transport sector", "energy waste", "generation capacity", "energy sector", "energy energy", "clean cooking", "capacity mw", "renewable energy energy", "industry transport", "climate goal", "energy energy efficiency", "sustainable energy", "energy project", "improve energy", "fossil fuel", "energy mix", "electricity generation", "share renewable", "access clean", "solar energy", "improve energy efficiency", "residential building", "solar pv", "base energy", "building energy", "affordable energy", "power generation", "reliable affordable", "increase energy", "increase electricity", "share renewable energy", "mw solar", "energy infrastructure", "energy power", "carbon capture", "energy initiative", "energy building", "universal access", "emission energy", "waste energy", "power sector", "mw mw", "promote energy", "energy capacity", "energy water", "measure ensure", "renewable energy capacity", "inclusive growth"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2471,
+      "category": "Low",
+      "features": ["economic diversification", "economic growth", "gdp growth", "real gdp", "sector key", "construction sector", "job creation", "private sector", "long term", "global effort"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2926,
+      "category": "Low",
+      "features": ["infrastructure sustainable", "long term", "manufacturing industry", "railway line", "climate proof", "access road", "public infrastructure", "city develop", "capacity building", "green building", "infrastructure national", "transport infrastructure", "sustainable infrastructure", "public transport", "enhance competitiveness", "sustainable transport", "infrastructure plan", "local community", "upgrade infrastructure"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0618,
+      "category": "Low",
+      "features": ["people disability", "good practice", "reduce cost", "development partner"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["waste management", "human settlement", "air pollution", "land use", "early warning", "development plan", "resilient sustainable", "public participation", "activity include", "sustainable transport", "waste management sector", "cultural heritage", "urban planning", "public transport", "urban plan", "people disability", "solid waste", "safe affordable", "access safe", "promote use", "clean air", "pose significant", "natural cultural", "building material", "real estate", "sustainable building", "access safe affordable", "sustainable waste", "access adequate", "heritage site", "residential building", "spatial planning", "economic social", "total number", "programme aim", "solid waste disposal"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3264,
+      "category": "Medium",
+      "features": ["waste management", "solid waste", "waste disposal", "management sustainable", "human health", "circular economy", "solid waste management", "social environmental", "waste generation", "sustainable waste", "health environment", "human health environment", "sustainable waste management", "energy waste", "rate waste", "fossil fuel", "reduction food"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "mitigation adaptation", "greenhouse gas emission", "gas emission", "determine contribution", "climate resilient", "adaptation action", "climate action", "global climate", "climate resilience", "climate smart", "low carbon", "renewable energy", "nature base", "impact climate", "impact climate change", "reduce emission", "adaptation measure", "climate risk", "emission reduction", "transport sector", "good practice", "capacity building", "nature base solution", "integrate climate", "climate finance", "local community", "energy efficiency", "climate adaptation", "net emission", "reduce greenhouse gas", "technology transfer", "reduce greenhouse", "reduction target", "climate vulnerability", "vulnerability assessment", "address climate change", "address climate", "mitigation action", "national policy", "policy strategy", "national policy strategy", "national climate", "national adaptation", "climate initiative", "low emission", "carbon sink", "climate mitigation", "climate impact"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0098,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.562,
+      "category": "Medium",
+      "features": ["sustainable forest", "forest management", "land use", "sustainable forest management", "restore degraded", "nature base", "forest product", "climate change", "land ecosystem", "management forest", "improve biodiversity", "contribute global", "ecosystem service", "land management", "forest land", "sustainable land", "sustainable land management", "degraded forest", "conservation protection", "forest inventory", "management practice", "illegal logging", "land water", "inland water", "use practice", "land use practice", "adaptation mitigation", "manage forest", "use land", "local community", "forest reserve", "protect area", "national park", "national report", "protection biodiversity", "area strengthen", "eco tourism", "agricultural land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1105,
+      "category": "Low",
+      "features": ["civil society", "child woman", "private sector civil", "sector civil", "sector civil society", "evidence base"]
+    },
+    {
+      "id": 17,
+      "importance": 0.015,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

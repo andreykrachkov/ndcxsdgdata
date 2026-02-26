@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0936,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.0167,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0592,
+      "category": "Low",
+      "features": ["gender equality", "achieve gender", "gender balance", "gender responsive", "decision making", "commitment gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0421,
+      "category": "Low",
+      "features": ["water resource", "freshwater resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy efficiency", "power plant", "implementation energy", "energy policy", "net greenhouse gas", "net greenhouse", "good practice", "energy sector", "energy supply", "national energy", "electric vehicle", "electric power", "public building", "transmission distribution", "capacity mw", "new renewable", "efficiency energy", "energy efficiency energy", "increase energy", "energy climate", "generation capacity", "carbon dioxide", "energy efficiency measure", "efficiency measure", "district heating", "power sector", "national energy climate", "transmission distribution network", "energy resource", "policy legislation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2256,
+      "category": "Low",
+      "features": ["economic growth", "economic recovery", "economic development", "economic diversification"]
+    },
+    {
+      "id": 9,
+      "importance": 0.029,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 10,
+      "importance": 0.1644,
+      "category": "Low",
+      "features": ["good practice", "non discrimination", "promote inclusion"]
+    },
+    {
+      "id": 11,
+      "importance": 0.2323,
+      "category": "Low",
+      "features": ["urban planning", "human settlement", "urban plan", "municipal waste", "sustainable transport", "public participation", "real estate", "planning process", "waste management", "economic social", "plan include"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1434,
+      "category": "Low",
+      "features": ["waste management", "green building", "municipal waste", "develop national"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "determine contribution", "greenhouse gas emission", "gas emission", "climate change", "emission reduction", "good practice", "mitigation adaptation", "reduction greenhouse", "low carbon", "reduction emission", "energy efficiency", "net emission", "adaptation action", "climate energy", "mitigation measure", "reduction target", "climate relate", "adaptation measure", "climate policy", "awareness climate", "low emission", "effect climate", "effect climate change", "reduce greenhouse gas", "emission greenhouse gas", "emission greenhouse", "reduce greenhouse", "framework climate", "implementation climate", "trading scheme", "carbon market", "emission reduction target", "low carbon economy", "carbon economy", "climate change mitigation", "change mitigation", "carbon dioxide", "low carbon development", "carbon development", "emission source", "aim reduce", "line ministry", "work climate", "climate action", "awareness raise", "local community", "plan strategy", "national policy", "green building"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0149,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.2779,
+      "category": "Low",
+      "features": ["land use", "forest cover", "forest land", "land area", "forestry sector", "use land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.213,
+      "category": "Low",
+      "features": ["human right", "decision making", "local governance", "public awareness", "civil society", "awareness raise"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0063,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

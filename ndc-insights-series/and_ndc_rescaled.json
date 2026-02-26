@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1534,
+      "category": "Low",
+      "features": ["social protection", "social assistance", "poverty eradication", "poverty social", "development poverty", "people live", "vulnerable family", "management model", "integrate social", "number household", "economic development"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0251,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0.0313,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.007,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.021,
+      "category": "Low",
+      "features": ["water resource", "water management", "national water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon neutral", "energy sector", "energy efficiency", "renewable energy", "energy consumption", "building sector", "energy production", "wind farm", "electricity production", "efficiency building", "energy efficiency building", "energy include", "electrical energy", "primary energy", "energy building", "net greenhouse gas", "net greenhouse", "national energy", "goal reduce", "energy intensity", "fossil fuel", "promote energy", "energy transition", "electric vehicle", "energy demand", "base energy", "building energy", "transport sector", "country energy", "annual growth", "renewable electricity", "energy save", "emission energy", "save measure", "improve energy", "energy use", "improve energy efficiency", "public building", "energy resource", "climate goal", "increase demand", "sustainable energy", "energy source", "energy service", "energy supply", "reduce energy", "electricity generation", "renewable energy source", "energy security", "renewable source"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1109,
+      "category": "Low",
+      "features": ["economic diversification", "economic development", "sustainable growth"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0646,
+      "category": "Low",
+      "features": ["research innovation", "plan future"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0398,
+      "category": "Low",
+      "features": ["social protection", "financial service", "equality inclusion", "country development"]
+    },
+    {
+      "id": 11,
+      "importance": 0.2685,
+      "category": "Low",
+      "features": ["population growth", "urban development", "affordable housing", "urban planning", "human settlement", "urban area", "urban plan", "access housing", "local government", "development plan", "environmental impact", "land use", "exist infrastructure", "public participation", "infrastructure urban", "real estate", "cultural activity", "public transport", "public transportation"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1562,
+      "category": "Low",
+      "features": ["waste management", "circular economy", "city country", "heat production", "country energy", "resource ensure", "fossil fuel", "private vehicle"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "determine contribution", "climate action", "net emission", "greenhouse gas", "greenhouse gas emission", "gas emission", "emission reduction", "adaptation measure", "carbon neutrality", "carbon neutral", "heat wave", "global climate", "reduction target", "temperature increase", "achieve carbon neutrality", "achieve carbon", "effect climate", "effect climate change", "public transport", "renewable energy", "commitment climate", "reduce emission", "relate climate change", "relate climate", "global warming", "emission reduction target", "energy efficiency", "impact climate", "impact climate change", "adaptation climate", "emission compare", "adaptation climate change", "national climate", "climate crisis", "adaptation plan", "transport sector", "new climate", "reduction emission", "increase temperature", "building energy", "change impact", "climate change impact", "climate emergency", "mitigation adaptation", "climate policy", "awareness climate", "change climate", "raise awareness climate", "address climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0123,
+      "category": "Low",
+      "features": "coastal resource"
+    },
+    {
+      "id": 15,
+      "importance": 0.1778,
+      "category": "Low",
+      "features": ["ecosystem service", "land management", "relate biodiversity", "natural environment", "area particular", "climate change", "rich biodiversity", "land use", "land area", "country territory", "raise awareness", "local community"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0655,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0088,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0142,
+      "category": "Low",
+      "features": ["poverty eradication", "low income", "development poverty"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0684,
+      "category": "Low",
+      "features": ["climate smart", "agricultural product", "agricultural productivity", "fruit vegetable", "food waste", "agricultural practice", "strengthen food", "support farmer", "increase demand", "carbon sequestration", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0749,
+      "category": "Low",
+      "features": ["public health", "target reduce", "improve health", "air pollution", "premature death", "health sector", "improve public health", "reduce harmful"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0175,
+      "category": "Low",
+      "features": ["high education", "institution high"]
+    },
+    {
+      "id": 5,
+      "importance": 0.0325,
+      "category": "Low",
+      "features": ["woman girl", "decision make", "girl gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.005,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["clean energy", "net greenhouse gas", "net greenhouse", "energy efficiency", "electric vehicle", "power plant", "power sector", "energy source", "fossil fuel", "carbon dioxide", "good practice", "efficiency improvement", "energy technology", "clean technology", "carbon capture", "wind solar", "energy production", "clean fuel", "energy mix", "electricity generation", "electric power", "energy cost", "target set", "electric vehicle charge", "support clean", "vehicle charge", "power grid", "energy generation", "heat pump", "building sector", "emission energy", "renewable energy", "energy sector", "energy consumption", "affordable clean energy", "affordable clean", "energy intensity", "energy supply", "energy security", "energy transition", "electricity sector", "access clean", "improvement energy", "energy support", "fuel energy", "fuel increase", "energy resource", "new energy", "dioxide equivalent", "carbon dioxide equivalent"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2234,
+      "category": "Low",
+      "features": ["economic growth", "private sector", "job creation", "pay job", "global effort", "create high", "entrepreneurship innovation", "economic diversification", "level increase"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2618,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "new technology", "support innovation", "research development", "public transport", "public investment", "heat pump", "walk cycling", "public private", "infrastructure increase", "sector develop", "transportation infrastructure", "cut emission", "research innovation", "build resilient", "industrial sector", "create new", "measure reduce", "affordable access", "investment research development", "investment research", "support economic", "quality life", "development government", "invest research", "global average", "member state"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0187,
+      "category": "Low",
+      "features": "social inequality"
+    },
+    {
+      "id": 11,
+      "importance": 0.2647,
+      "category": "Low",
+      "features": ["land use", "local government", "community include", "plan include", "urban area", "sustainable housing", "economic social", "public participation", "population growth", "area include", "planning process", "land use plan", "affordable sustainable", "new housing", "use plan", "construction material", "building code", "urban planning", "public transport", "human settlement", "public transportation", "urban plan", "improve safety", "mode transport", "area country", "activity include", "real estate", "affordable accessible", "low income"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0829,
+      "category": "Low",
+      "features": ["fossil fuel", "production consumption", "circular economy", "food waste", "supply chain", "contribution achieve", "energy waste"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "greenhouse gas emission", "gas emission", "emission reduction", "net emission", "determine contribution", "climate change", "reduce emission", "global warming", "climate smart", "energy efficiency", "low carbon", "electric vehicle", "good practice", "low emission", "climate action", "carbon dioxide", "impact climate", "reduction target", "new construction", "emission reduction target", "sector economy", "emission greenhouse gas", "emission greenhouse", "temperature increase", "emission transport", "climate crisis", "emission reduce", "impact climate change", "address climate", "public transport", "adaptation action", "carbon market", "change impact", "climate change impact", "action global", "change climate", "address climate change", "adaptation plan", "create new", "climate energy", "climate change relate", "change relate", "adapt climate", "renewable energy", "emission compare", "adapt climate change", "climate strategy", "extreme weather", "local community"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0021,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.2521,
+      "category": "Low",
+      "features": ["land use", "forest land", "forest management", "land management", "national forest", "land water", "area ha", "forest area", "protect area", "national park", "forest degradation", "tree planting", "area forest", "terrestrial ecosystem", "deforestation forest", "management practice", "deforestation forest degradation", "use practice", "land use practice", "area country", "tree plant", "use land", "agriculture practice", "halt reverse", "tree cover", "protect forest", "forest forest", "natural resource", "environment climate change", "land use plan", "use plan", "land use planning", "use planning", "environment climate", "climate change"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0978,
+      "category": "Low",
+      "features": ["local government", "institution high", "education special", "improve public", "management city"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0102,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

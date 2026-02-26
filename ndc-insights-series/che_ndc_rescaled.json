@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0613,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0435,
+      "category": "Low",
+      "features": ["agricultural production", "agricultural product", "life cycle", "agriculture sector"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0291,
+      "category": "Low",
+      "features": "target reduce"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0075,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0131,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["net greenhouse gas", "net greenhouse", "carbon dioxide", "fossil fuel", "building sector", "renewable energy", "energy source", "renewable energy source", "fuel increase", "solar panel", "transport sector", "passenger car", "carbon capture", "good practice", "share total", "emission energy", "international cooperation", "energy resource", "power generation", "climate target"]
+    },
+    {
+      "id": 8,
+      "importance": 0.0736,
+      "category": "Low",
+      "features": ["economic growth", "work condition"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0424,
+      "category": "Low",
+      "features": ["financial support", "long term", "capacity building"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0502,
+      "category": "Low",
+      "features": ["vulnerable group", "good practice"]
+    },
+    {
+      "id": 11,
+      "importance": 0.2619,
+      "category": "Low",
+      "features": ["land use", "planning process", "plan include", "urban planning", "human settlement", "urban plan", "public participation", "population growth", "real estate", "people live", "economic social", "partner country"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0675,
+      "category": "Low",
+      "features": ["consumption production", "life cycle"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "greenhouse gas emission", "emission reduction", "climate change", "reduction target", "emission reduction target", "determine contribution", "net emission", "climate policy", "global warming", "reduction greenhouse", "climate action", "climate finance", "reduce greenhouse gas", "reduce greenhouse", "emission capita", "national climate", "climate resilient", "emission ton", "international climate", "temperature increase", "carbon dioxide", "adaptation action", "reduce emission", "address climate change", "address climate", "low emission", "emission compare", "good practice", "emission sector", "climate target", "low carbon", "global climate", "impact climate", "impact climate change", "action climate", "global climate change", "mitigation measure", "action global", "country climate", "climate impact", "transport sector", "technology transfer", "renewable energy", "financial sector", "local community", "carbon climate resilient", "carbon climate", "low carbon climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0043,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.1813,
+      "category": "Low",
+      "features": ["land use", "use land", "local community", "climate change"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0821,
+      "category": "Low",
+      "features": ["vulnerable group", "human right"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0047,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

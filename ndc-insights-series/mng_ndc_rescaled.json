@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.5759,
+      "category": "Medium",
+      "features": ["social protection", "climate relate", "poverty eradication", "development poverty", "good practice", "social sector", "low income", "people live", "vulnerable population", "percentage point", "poverty level", "development programme", "live poverty", "population live", "plan national", "ensure man woman", "ensure man", "population live poverty"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1489,
+      "category": "Low",
+      "features": ["agriculture sector", "food security", "food agriculture", "production facility", "agricultural land", "livestock production", "increase production"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1981,
+      "category": "Low",
+      "features": ["health care", "cardiovascular disease", "early detection", "public health", "mental health", "strengthen health", "health promote", "promote health", "access health", "physical mental health", "health threat", "health risk", "physical mental", "quality life", "health social", "worker health", "disease control"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0816,
+      "category": "Low",
+      "features": ["secondary education", "education training", "tertiary education", "sustainable development", "high education", "education sustainable", "education sustainable development", "non formal", "high school", "formal non formal", "formal non", "ensure equal", "knowledge skill", "ensure equal access", "child adolescent", "equal access"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1385,
+      "category": "Low",
+      "features": ["man woman", "decision making", "rate gender", "gender responsive", "gender equality", "woman man", "woman right", "gender balance", "equal opportunity", "guarantee equal", "equality woman", "woman vulnerable", "woman support", "equal access", "tertiary education", "city implement", "plan implementation", "address gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.4479,
+      "category": "Medium",
+      "features": ["water resource", "water use", "water management", "surface water", "water scarcity", "groundwater resource", "water availability", "water supply", "water sector", "water resource management", "improve water", "resource management", "water source", "water water", "water security", "river basin", "integrate water", "integrate water resource", "river lake", "fresh water", "river water", "ensure water", "water access", "area national", "urban area", "increase recycling", "address water", "groundwater surface water", "groundwater surface", "water groundwater", "drinking water", "safe drinking water", "safe drinking", "rainwater harvesting", "area water", "safe water", "master plan", "city water", "area include", "water food", "protection water"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9551,
+      "category": "High",
+      "features": ["energy sector", "renewable energy", "energy source", "energy consumption", "energy supply", "electricity heat", "efficiency improvement", "energy production", "fossil fuel", "sustainable energy", "energy efficiency", "fuel energy", "target set", "fossil fuel energy", "energy generation", "clean fuel", "reliable sustainable", "renewable energy source", "energy transition", "green energy", "energy support", "transmission distribution", "energy electricity", "use renewable energy", "new energy", "solar power", "use renewable", "energy capacity", "consumption electricity", "primary energy", "cost effective", "coal power", "renewable energy capacity", "consumption energy", "wind solar", "generation renewable", "energy use", "source energy", "energy resource", "include energy", "accelerate transition", "wind energy", "measure reduce", "solar wind"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2583,
+      "category": "Low",
+      "features": ["economic sector", "growth rate", "gdp growth", "economic growth", "sustainable economic", "sustainable economic growth", "real gdp", "gdp capita", "economic diversification", "public debt", "investment plan", "gdp growth rate", "environmental social", "environmental social economic"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3991,
+      "category": "Medium",
+      "features": ["technology innovation", "ensure timely", "develop sustainable", "resilient infrastructure", "sustainable resilient", "public private", "small scale", "master plan", "long term", "technological solution", "machinery equipment"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1174,
+      "category": "Low",
+      "features": ["people disability", "social inclusion", "good practice", "income growth", "community people", "policy measure", "production sustainable"]
+    },
+    {
+      "id": 11,
+      "importance": 0.9393,
+      "category": "High",
+      "features": ["disaster risk", "early warning", "natural disaster", "disaster risk reduction", "risk reduction", "local government", "policy plan", "urban area", "land use", "public participation", "population growth", "economic social", "urban planning", "human settlement", "air pollution", "resilient sustainable", "waste management", "urban plan", "public transit", "adequate housing", "protection management", "clean air", "real estate", "area include", "planning process", "master plan", "cultural heritage", "person disability", "population live", "pose significant", "people live", "previous year", "adapt climate change", "low income", "plan implementation", "rich cultural", "non formal", "plan include", "aim build", "adapt climate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1826,
+      "category": "Low",
+      "features": ["consumption production", "sustainable lifestyle", "pattern consumption production", "pattern consumption", "sustainable pattern", "fossil fuel", "energy generation"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "natural disaster", "greenhouse gas", "mitigation adaptation", "emission reduction", "climate change adaptation", "change adaptation", "determine contribution", "impact climate", "impact climate change", "reduce emission", "net emission", "greenhouse gas emission", "gas emission", "risk climate", "disaster risk", "reduction target", "emission reduction target", "risk reduction", "change impact", "climate change impact", "climate resilient", "renewable energy", "low carbon", "disaster risk reduction", "increase frequency", "global climate", "change climate", "adaptation action", "temperature increase", "climate relate", "global warming", "adapt climate", "adapt climate change", "measure climate", "weather condition", "aim reduce", "global climate change", "low emission", "climate action", "national climate", "disaster management", "urgent action", "adaptation measure", "climate policy", "adaptation climate", "country climate", "adaptation climate change", "climate change relate", "change relate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0098,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 1,
+      "category": "High",
+      "features": ["climate change", "forest resource", "protect area", "land forest", "sustainable use", "agricultural land", "negative impact", "forest sector", "forest management", "land use", "land degradation", "sustainable forest", "sustainable forest management", "forested area", "nature base", "land water", "management protect", "management practice", "ecosystem service", "forest area", "biodiversity loss", "land management", "biodiversity conservation", "national park", "conservation sustainable", "area forest", "nature reserve", "forestry sector", "conservation sustainable use", "sustainable management", "promote sustainable use", "area protect", "management plan", "flora fauna", "soil erosion", "protection water", "environmental economic", "environment climate change", "area cover", "ecosystem biodiversity", "environment climate", "action plan", "base result", "land resource", "forest product", "protect natural", "water reservoir", "protect forest", "total area", "conservation effort"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1914,
+      "category": "Low",
+      "features": ["decision making", "vulnerable group", "digital platform", "ensure social", "local government"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0698,
+      "category": "Low",
+      "features": ["public private", "international partner", "climate change mitigation", "change mitigation", "priority sector"]
+    }
+  ]
+}

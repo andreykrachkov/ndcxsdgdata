@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0984,
+      "category": "Low",
+      "features": ["elderly people disability", "people disability"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0668,
+      "category": "Low",
+      "features": ["public health", "food security", "food production", "food product", "develop sustainable", "effect climate"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0898,
+      "category": "Low",
+      "features": "public health"
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.038,
+      "category": "Low",
+      "features": ["gender equality", "rate gender", "equal participation"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1125,
+      "category": "Low",
+      "features": ["water supply", "water resource", "change water", "ensure water", "climate change water", "sanitation water", "access water", "river basin", "basin management", "management plan", "river basin management"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "fossil fuel", "energy efficiency", "development energy", "energy sector", "energy security", "energy transition", "development renewable", "development renewable energy", "climate goal", "energy efficiency measure", "efficiency measure", "power plant", "include energy", "renewable source", "transport sector", "power generation", "increase energy", "electricity generate", "energy capacity", "energy climate", "energy water", "support energy", "country energy", "share total", "implementation energy", "renewable energy capacity", "energy produce", "increase renewable energy", "increase renewable", "energy source", "renewable energy source", "electric power", "carbon dioxide", "heat power", "climate target"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1104,
+      "category": "Low",
+      "features": ["real gdp", "gdp growth", "economic growth", "economic development"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2416,
+      "category": "Low",
+      "features": ["transport infrastructure", "national regional"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0484,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.3104,
+      "category": "Medium",
+      "features": ["urban planning", "human settlement", "urban plan", "real estate", "planning process", "plan implementation", "goal sustainable", "urban area", "people disability", "plan include", "infrastructure development", "infrastructure facility"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0359,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "emission source", "emission reduction", "greenhouse gas", "climate policy", "reduce emission", "determine contribution", "adaptation measure", "climate neutral", "renewable energy", "climate neutrality", "reduction target", "emission reduction target", "implementation climate", "increase frequency", "climate change mitigation", "change mitigation", "sector economy", "goal climate", "greenhouse gas emission", "gas emission", "climate change adaptation", "change adaptation", "emission compare", "frequency intensity", "increase frequency intensity", "reduction emission", "energy efficiency", "include climate", "carbon development", "impact climate", "impact climate change", "climate resilience", "mitigation adaptation", "adaptation climate", "adaptation plan", "low emission", "implement climate", "effect climate", "effect climate change", "adaptation climate change", "reduce greenhouse gas", "climate energy", "adapt climate", "reduce greenhouse", "adapt climate change", "extreme weather", "plan strategy", "measure climate", "temperature increase"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.2733,
+      "category": "Low",
+      "features": ["climate change", "land use", "biodiversity conservation", "forestry sector", "use land", "country territory", "water increase", "nature reserve", "natural ecosystem", "agricultural land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0509,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0027,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

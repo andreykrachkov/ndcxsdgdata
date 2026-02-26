@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3456,
+      "category": "Medium",
+      "features": ["poverty eradication", "social protection", "vulnerable population", "poverty reduction", "reduce poverty", "development poverty", "social inclusion", "link social", "integrate social", "social protection measure", "access basic", "access basic service", "basic service", "plan national", "adaptation planning", "rural area", "sustainable land use"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2192,
+      "category": "Low",
+      "features": ["food security", "agricultural production", "agricultural product", "effect climate", "food supply", "production food", "adverse effect", "public health", "agricultural sector", "food production", "food product", "sustainable agricultural", "provide food", "agricultural practice", "rural community", "agricultural food", "sustainable agricultural production", "food service", "impact food", "soil degradation", "resource food", "agriculture development", "promote sustainable", "development include", "improve food", "agricultural use", "fishery aquaculture"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1664,
+      "category": "Low",
+      "features": ["public health", "health service", "health facility", "promote health", "promote healthy", "improve public health", "city health", "health personnel", "health prevention", "health prevent", "disease control", "national health", "national level", "total case"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.1418,
+      "category": "Low",
+      "features": ["woman man", "man woman", "woman woman", "female representation", "commitment gender", "public sector", "gender equality", "representation woman", "cent woman"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2255,
+      "category": "Low",
+      "features": ["water sanitation", "drinking water", "sanitation service", "drinking water sanitation", "water sanitation service", "use water", "drink water", "water resource", "water use", "water management", "water security", "domestic water", "water scarcity", "country water", "use water resource", "area water", "rural community", "sanitation sector", "management plan", "energy infrastructure", "surface water", "source water", "sustainable management", "water stress", "area national", "water flow", "water energy"]
+    },
+    {
+      "id": 7,
+      "importance": 0.9517,
+      "category": "High",
+      "features": ["energy transition", "sustainable energy", "carbon neutral", "energy sector", "energy efficiency", "improve energy", "energy mix", "renewable source", "improve energy efficiency", "diversify energy", "climate goal", "carbon dioxide", "clean technology", "reduce energy", "energy renewable", "fuel energy", "dioxide equivalent", "carbon dioxide equivalent", "transport sector", "generate electricity", "energy infrastructure", "emission energy", "energy renewable source", "goal reduce", "electricity supply", "industry commerce", "energy use", "energy security", "energy resource", "energy water", "good practice", "tourist destination", "investment project", "international cooperation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2966,
+      "category": "Low",
+      "features": ["economic growth", "economic development", "competitiveness productivity", "business sector", "growth environmental", "great potential", "employment opportunity", "private sector", "sector great", "decent employment", "financial institution", "economy sector", "promote sustain", "target achieve", "promote sustainable"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2274,
+      "category": "Low",
+      "features": ["capacity building", "investment infrastructure", "public private", "resilient infrastructure", "manufacturing industry", "infrastructure service", "achieve goal", "infrastructure increase", "greenhouse gas", "sustainable competitive", "gas emission", "freight transport", "promote innovation", "national road"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0942,
+      "category": "Low",
+      "features": ["social economic", "social inequality", "meet need", "country development", "contribute reduce"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["public transport", "waste management", "human settlement", "local government", "sustainable waste", "risk management", "population live", "risk reduction", "early warning", "urban development", "cultural heritage", "urban planning", "resilient sustainable", "urban plan", "solid waste", "management waste", "management include", "preservation cultural", "accessible sustainable", "environmental impact", "promote use", "public participation", "reduce adverse", "special attention", "inclusive accessible", "infrastructure development", "disaster risk", "municipal waste", "planning management", "real estate", "development social", "local regional", "solid waste disposal", "adapt climate change", "aim build", "adapt climate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3004,
+      "category": "Medium",
+      "features": ["waste management", "circular economy", "sustainable waste", "sustainable waste management", "aim reduce", "solid waste", "reduce consumption", "natural resource", "sustainable consumption", "reduce waste", "raw material", "use natural resource", "waste disposal", "use natural", "municipal waste", "waste reduce", "focus sustainable", "national level", "promote sustainable consumption", "consumption pattern", "contribution achieve", "transition circular", "transition circular economy", "material consumption", "capacity building", "financial resource"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate action", "effect climate", "adaptation measure", "effect climate change", "mitigation measure", "greenhouse gas", "national climate", "determine contribution", "strengthen resilience", "reduce emission", "greenhouse gas emission", "gas emission", "climate change adaptation", "change adaptation", "management climate", "climate risk", "carbon neutrality", "climate finance", "carbon neutral", "reduction emission", "impact climate", "mitigation adaptation", "emission sector", "integrate climate", "adaptation action", "aim reduce", "impact climate change", "risk management", "capacity building", "carbon market", "global climate", "climate change mitigation", "change mitigation", "food security", "emission reduction", "integrate climate change", "adaptation plan", "international climate", "early warning", "public transport", "mitigation action", "national policy", "change climate", "technology transfer", "resilience climate", "change mitigation adaptation", "promote climate", "climate resilience", "climate policy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.091,
+      "category": "Low",
+      "features": ["fishery aquaculture", "marine ecosystem", "sustainable management", "protect area", "management plan", "sustainable practice", "sustainable use", "water agriculture"]
+    },
+    {
+      "id": 15,
+      "importance": 0.8386,
+      "category": "High",
+      "features": ["climate change", "land degradation", "sustainable management", "sustainable use", "adaptation mitigation", "land use", "area forest", "forestry sector", "management forest", "use land", "protect natural", "forest management", "ecosystem service", "conservation sustainable", "conservation sustainable use", "conserve biodiversity", "natural resource", "natural area", "green job", "management plan", "sustainable forest", "protect area", "biodiversity loss", "sustainable forest management", "biodiversity conservation", "land forest", "forest land", "terrestrial ecosystem", "impact biodiversity", "biological diversity", "sustainable land", "forest resource", "combat desertification", "terrestrial marine", "degradation neutrality", "land degradation neutrality", "country biodiversity", "ecosystem biodiversity", "source food", "conservation restoration", "vulnerability climate change", "base result", "degradation loss", "increase forest", "vulnerability climate", "sustainable land use", "integrate action", "biological resource", "conservation restoration sustainable", "restoration sustainable use"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3915,
+      "category": "Medium",
+      "features": ["civil society", "public policy", "legal framework", "local government", "participatory process", "sector civil", "sector civil society", "inclusive participatory", "competent authority", "public sector", "ensure effective", "policy end", "national regional"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0296,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

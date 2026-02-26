@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1521,
+      "category": "Low",
+      "features": ["vulnerable population", "rural area", "people disability", "social protection", "people live", "access basic", "social service", "poverty high", "service education", "level poverty", "measure social", "access electricity", "income support", "water sanitation", "economic development", "program coverage", "good practice", "group need", "climate relate"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2447,
+      "category": "Low",
+      "features": ["agricultural practice", "food security", "effect climate", "agricultural product", "sustainable food", "food waste", "agricultural sector", "sustainable agricultural", "food industry", "relate food", "nutritional security", "food nutrition", "agricultural production", "add value", "value chain", "food nutritional", "food nutritional security", "agricultural land", "agricultural productivity", "food product", "provide food", "soil conservation", "support food", "increase production", "agriculture fishery", "rural community", "production food", "adverse effect", "soil erosion", "food program", "nutrition education", "improve food", "agriculture livestock", "sustainable agriculture", "agriculture sector", "promote sustainable agriculture", "promote food security", "strengthen food", "promote food", "promote sustainable", "hunger ensure", "sector promote", "hunger ensure access", "key sector", "national level", "fishery aquaculture", "young people", "development process"]
+    },
+    {
+      "id": 3,
+      "importance": 0.3541,
+      "category": "Medium",
+      "features": ["reproductive health", "life expectancy", "family planning", "public health", "mortality rate", "health need", "health problem", "maternal health", "population health", "health population", "mental health", "health care", "improve health", "live birth", "number death", "health policy", "care service", "infectious disease", "health care service", "old people", "health include", "medical care", "year old", "prevention treatment", "people life", "national level", "air pollution", "age group", "health medical", "improve public health", "protection access", "health country", "healthcare sector", "pregnant woman", "disease prevention", "fertility rate", "implement action", "public private", "age age", "health sector", "health issue", "incidence rate", "rate child", "mental health issue", "malaria incidence", "quality life", "training session", "healthcare facility", "healthcare worker", "total case"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0496,
+      "category": "Low",
+      "features": ["access education", "violence school", "live disability", "activity education", "provide educational"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1669,
+      "category": "Low",
+      "features": ["woman girl", "reproductive health", "base violence", "sexual reproductive", "man woman", "sexual reproductive health", "domestic violence", "participation woman", "economic empowerment", "sexual violence", "health right", "girl child", "term gender", "action plan", "woman domestic", "national policy", "include woman", "woman empowerment", "woman economic", "area woman", "woman vulnerable", "implement gender", "raise awareness", "relate gender", "woman economic empowerment"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2191,
+      "category": "Low",
+      "features": ["water resource", "water sanitation", "water management", "resource management", "water resource management", "water source", "rainwater harvesting", "drink water", "drinking water", "integrate water", "water increase", "protection water", "water quality", "sanitation hygiene", "access water", "sustainable management", "integrate water resource", "water pollution", "clean water", "clean water sanitation", "wastewater treatment", "water availability", "sustainable water", "water infrastructure", "increase water", "source water", "access clean", "water reuse", "water demand", "resource water", "water treatment", "adequate sanitation", "transboundary water", "relate water", "access clean water", "ensure water", "access water sanitation", "average annual", "city water", "integrate management", "urban area", "water energy", "water treat", "partnership public", "management water", "water security", "water stress", "state water", "area water", "monitoring assessment"]
+    },
+    {
+      "id": 7,
+      "importance": 0.5632,
+      "category": "Medium",
+      "features": ["power plant", "energy sector", "renewable energy", "electric power", "clean energy", "energy consumption", "reliable affordable", "energy efficiency", "clean cooking", "energy production", "emission energy", "energy policy", "energy service", "energy mix", "solar energy", "solar panel", "transport sector", "alternative energy", "good practice", "sustainable energy", "energy transition", "access clean", "solar photovoltaic", "household business", "improve energy", "modern energy", "fossil fuel", "reduce energy", "promote energy", "national energy", "source energy", "green energy", "improve energy efficiency", "instal capacity", "energy support", "energy cost", "transmission distribution", "energy demand", "promote energy efficiency", "support development", "new energy", "form energy", "energy solution", "energy improve", "efficiency building", "energy efficiency building", "improve access", "clean renewable", "annual growth", "modern energy service"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1071,
+      "category": "Low",
+      "features": ["economic growth", "economic recovery", "resilient economy", "growth rate", "gdp growth", "economic development", "human capital", "international trade", "economic sector", "country economic", "gdp growth rate", "government encourage", "service provide", "long term", "national economy", "rate country"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3007,
+      "category": "Medium",
+      "features": ["capacity building", "research development", "resilient infrastructure", "public infrastructure", "gas emission", "industrial production", "new technology", "rural area", "research innovation", "transport infrastructure", "industrial sector", "transport network", "infrastructure support", "road infrastructure", "public private", "greenhouse gas", "development research", "long term", "emission decrease", "foster innovation", "innovation research", "public transport", "market access", "food industry", "innovative solution", "private sector develop", "sector develop", "access credit", "value chain", "issue policy", "industry service"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0877,
+      "category": "Low",
+      "features": ["person disability", "social protection", "host community", "person live", "basic service", "displace person", "social inclusion", "people center", "development plan", "economic growth", "national local"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["disaster risk", "early warning", "risk reduction", "population growth", "people live", "urban planning", "disaster risk reduction", "urban plan", "people disability", "waste management", "support sustainable", "public transport", "urban area", "solid waste", "risk management", "municipal waste", "development plan", "person disability", "total waste", "population live", "public facility", "promote use", "area include", "disaster risk management", "adapt climate change", "air water", "risk disaster", "adapt climate", "urban development", "sustainable urban", "manage waste", "waste collect", "sustainable urban development", "living condition", "urban rural", "pollution control", "waste collection", "year old", "sustainable housing", "provide safe", "quality life", "exist infrastructure", "public participation", "social cohesion", "affordable sustainable", "use plan", "rural development", "local authority", "land use", "protection management"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2917,
+      "category": "Low",
+      "features": ["solid waste", "waste management", "natural resource", "food waste", "circular economy", "waste recycling", "good service", "capacity building", "human health", "waste reduce", "hazardous waste", "reduce waste", "plastic waste", "food loss", "waste disposal", "sustainable practice", "waste treat", "waste treatment", "health environment", "awareness sustainable", "waste source", "waste waste", "negative impact", "human health environment", "adopt sustainable", "municipal waste", "waste recycle", "sustainable food", "soil pollution", "development planning", "gas production"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "adaptation measure", "mitigation adaptation", "impact climate", "impact climate change", "effect climate", "effect climate change", "greenhouse gas", "capacity building", "gas emission", "climate adaptation", "climate risk", "greenhouse gas emission", "climate action", "disaster risk", "integrate climate", "net emission", "technology transfer", "climate change mitigation", "change mitigation", "early warning", "climate disaster", "raise awareness", "relate climate", "transition low", "community resilience", "mitigation measure", "change adaptation", "risk reduction", "strengthen resilience", "change mitigation adaptation", "emission reduction", "relate climate change", "climate change adaptation", "adaptation climate", "integrate climate change", "adaptation climate change", "reduce greenhouse gas", "reduce greenhouse", "extreme weather", "carbon economy", "reduction emission", "management climate", "disaster management", "reduce emission", "disaster risk reduction", "national policy", "change impact", "climate change impact", "disaster risk management"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0148,
+      "category": "Low",
+      "features": ["fishery aquaculture", "fishing industry"]
+    },
+    {
+      "id": 15,
+      "importance": 0.4001,
+      "category": "Medium",
+      "features": ["climate change", "natural resource", "sustainable management", "forest management", "sustainable forest", "forest cover", "protect area", "sustainable forest management", "land management", "soil erosion", "increase forest", "agricultural land", "land use", "land cover", "forest area", "sustainable land", "sustainable land management", "forestry sector", "management forest", "national economy", "forest resource", "adaptation mitigation", "use plan", "use planning", "ecosystem service", "forest land", "soil protection", "land area", "degraded land", "combat illegal", "biological diversity", "biodiversity protection", "nature conservation", "land ecosystem", "management practice", "illegal logging", "loss biodiversity", "mitigation climate change", "mitigation climate", "management protect", "land use plan", "ecosystem biodiversity", "land use planning", "raise awareness", "action plan", "degradation loss", "surface area", "protect forest", "plant animal", "natural resource management"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1841,
+      "category": "Low",
+      "features": ["legal framework", "monitor implementation", "sexual violence", "risk management", "violence sexual", "sexual exploitation", "quality service", "local governance", "health social", "public policy", "monitoring evaluation", "ensure effective", "fundamental right", "digital platform", "public awareness", "awareness raise"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0438,
+      "category": "Low",
+      "features": ["capacity building", "international agency", "partnership international", "financial resource", "multilateral cooperation", "climate change mitigation", "change mitigation"]
+    }
+  ]
+}

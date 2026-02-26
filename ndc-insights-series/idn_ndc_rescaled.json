@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2376,
+      "category": "Low",
+      "features": ["live poverty", "poverty line", "poverty reduction", "population live", "economic development", "population live poverty", "resilient development", "social protection", "people live", "people live poverty", "number people", "vulnerable population", "target poverty", "people poverty", "energy price", "good practice", "elderly population", "poverty economic", "reduce poverty", "poverty rate", "development poverty", "poverty alleviation", "climate relate"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2304,
+      "category": "Low",
+      "features": ["agricultural sector", "food security", "sustainable agriculture", "agricultural land", "agriculture food", "ensure food", "ensure food security", "improve agricultural", "development include", "reduce food", "increase productivity", "agricultural use", "pest disease", "promote food security", "promote food", "key sector"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0548,
+      "category": "Low",
+      "features": ["mental health", "health service", "health outcome", "service health", "health protection"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0382,
+      "category": "Low",
+      "features": ["vocational education", "education training", "education focus"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1385,
+      "category": "Low",
+      "features": ["gender equality", "gender issue", "role woman", "achieve gender", "gender equality empower", "equality empower", "gender balance", "empowerment woman", "equality empowerment", "gender equality empowerment", "equality gender", "support implementation", "include gender", "address challenge face", "relate gender", "health right", "public sector"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0427,
+      "category": "Low",
+      "features": ["water resource", "management plan", "water management", "water use", "septic tank", "water treatment", "treatment facility", "water use efficiency", "use efficiency", "water treat"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy management", "efficiency energy", "energy sector", "fossil fuel", "energy efficiency", "energy conservation", "implementation energy", "climate target", "energy source", "energy production", "energy use", "energy transition", "natural gas", "source energy", "new renewable energy", "new renewable", "good practice", "waste energy", "climate goal", "clean energy", "sustainable energy", "energy project", "renewable energy project", "energy technology", "energy supply", "affordable reliable", "energy mix", "national energy", "energy performance", "electric vehicle", "power plant", "energy development", "energy resource", "energy demand", "solar pv", "include energy", "energy usage", "energy share", "renewable energy share", "private public", "primary energy", "increase use", "renewable energy development", "measure reduce", "emission energy", "gas production", "power sector", "population increase", "electricity supply"]
+    },
+    {
+      "id": 8,
+      "importance": 0.4215,
+      "category": "Medium",
+      "features": ["economic growth", "growth rate", "economic development", "sustainable economic", "decent work", "employment rate", "increase average", "private sector", "unemployment rate", "gdp growth", "gdp growth rate", "increase economic", "international trade", "investment climate", "improve productivity", "enhance economic", "include protect", "resilient economy", "long term", "promote economic", "rate high", "economic activity", "financial institution", "access financial", "target achieve"]
+    },
+    {
+      "id": 9,
+      "importance": 0.296,
+      "category": "Low",
+      "features": ["capacity building", "science technology", "public transport", "research development", "transport infrastructure", "development innovation", "infrastructure support", "support economic", "infrastructure support economic", "science innovation", "support economic development", "industrial development", "infrastructure include", "financial support", "public private", "quality life", "greenhouse gas", "regional international", "development sustainability", "gas emission", "long term", "technology innovation", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.148,
+      "category": "Low",
+      "features": ["human resource", "address inequality", "child youth", "improve quality life", "people vulnerable", "people vulnerable situation", "quality life", "basic service", "economic growth"]
+    },
+    {
+      "id": 11,
+      "importance": 0.9673,
+      "category": "High",
+      "features": ["natural disaster", "development plan", "waste management", "risk reduction", "disaster risk", "disaster risk reduction", "land use", "disaster preparedness", "planning process", "spatial planning", "regional development", "municipal waste", "infrastructure development", "solid waste", "early warning", "risk management", "policy plan", "basic service", "soil water", "sustainable city", "public transport", "human settlement", "public transportation", "sustainable urban", "pollution control", "sustainable transport", "local government", "city local", "quality life", "city region", "population growth", "land use plan", "sustainable transportation", "support sustainable", "urban solid waste", "urban solid", "waste promote", "use plan", "local plan", "management waste", "energy plant", "economic social", "population live", "green open", "green open space", "total area", "programme aim", "people live", "settlement development", "area green"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3296,
+      "category": "Medium",
+      "features": ["waste management", "solid waste", "natural resource", "raw material", "circular economy", "municipal waste", "consumption production", "sustainable consumption", "sustainable consumption production", "production pattern", "consumption production pattern", "solid waste management", "waste reduction", "promote circular", "promote circular economy", "recycle material", "waste recycle", "reuse recycle", "fossil fuel", "develop implement", "material use", "treatment facility", "use resource", "develop green", "consumption pattern", "production consumption", "sustainable production", "food loss", "reduce food", "reduce food loss", "capacity building", "management sustainable", "day day", "economic incentive", "development planning", "gas production"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "capacity building", "mitigation adaptation", "climate resilience", "low carbon", "emission reduction", "climate change adaptation", "change adaptation", "change impact", "natural disaster", "climate change impact", "good practice", "greenhouse gas", "gas emission", "climate resilient", "renewable energy", "greenhouse gas emission", "reduce emission", "carbon climate", "climate relate", "low carbon climate", "mitigation action", "adaptation action", "risk reduction", "energy management", "adaptation effort", "disaster risk", "net emission", "adaptive capacity", "disaster risk reduction", "climate target", "impact climate", "climate finance", "climate change mitigation", "change mitigation", "local community", "energy efficiency", "climate action", "support climate", "impact climate change", "integrate climate", "technology transfer", "implementation climate", "transition low", "early warning", "change mitigation adaptation", "relate climate change", "integrate climate change", "relate climate", "reduction target"]
+    },
+    {
+      "id": 14,
+      "importance": 0.2021,
+      "category": "Low",
+      "features": ["coastal zone", "coastal marine", "conservation area", "marine ecosystem", "coastal area", "marine protect", "management marine", "marine protect area", "protect area", "marine conservation", "marine coastal", "coastal ecosystem", "coral reef", "marine area", "marine litter", "include marine", "coastal marine area", "sea level", "management coastal", "conservation marine", "marine conservation area", "improve livelihood", "environment ecosystem", "integrated management", "sustainable use", "marine resource", "use ocean", "ocean sea", "sea marine", "sea marine resource", "ocean sea marine", "conservation sustainable", "use ocean sea", "management plan", "marine coastal ecosystem", "ecosystem management", "sustainable management"]
+    },
+    {
+      "id": 15,
+      "importance": 0.624,
+      "category": "Medium",
+      "features": ["climate change", "land use", "degraded land", "forest degradation", "deforestation forest", "deforestation forest degradation", "forest management", "ecosystem service", "forest land", "conservation area", "local community", "land soil", "sustainable management", "strategy action", "land degradation", "sustainable use", "land forest", "combat desertification", "management plan", "forest area", "biodiversity loss", "protect area", "planning development", "land management", "conservation sustainable", "terrestrial ecosystem", "restore degraded", "forest resource", "alien specie", "invasive alien", "invasive alien specie", "biodiversity ecosystem", "use terrestrial", "conservation sustainable use", "sustainable use terrestrial", "promote sustainable use", "restore degraded land", "management practice", "ecosystem function", "protect restore promote", "restore promote", "restore promote sustainable", "protect restore", "reverse land", "reverse land degradation", "marine conservation area", "management forest", "manage forest", "use land", "implement sustainable"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2785,
+      "category": "Low",
+      "features": ["civil society", "private sector civil", "sector civil", "sector civil society", "human right", "public service", "good governance", "information act", "national global", "public access", "management city", "receive support", "national security", "public awareness", "service health", "legal framework", "monitor implementation"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0294,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

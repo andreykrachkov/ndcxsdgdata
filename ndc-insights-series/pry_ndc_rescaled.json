@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3251,
+      "category": "Medium",
+      "features": ["social protection", "vulnerable population", "monetary poverty", "income distribution", "health education", "extreme event", "poverty form", "extreme poverty", "eradicate poverty", "inequality protect", "integrate social", "social protection measure", "resilient development", "poverty reduction", "social inclusion", "essential service", "adaptation planning", "rural area", "good practice", "provide healthy"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2374,
+      "category": "Low",
+      "features": ["food security", "strengthen food", "promote sustainable", "improve food", "family farmer", "access market", "food waste", "good agricultural", "food production", "food product", "national level", "agricultural sector", "food nutrition", "agricultural production", "food supply", "agricultural product", "ensure food", "fruit vegetable", "food security improve", "security improve", "livestock production", "production food", "improve resilience", "adequate food", "family farming", "sector promote", "aim reduce", "market information", "adverse effect", "effect climate", "carbon sequestration"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1398,
+      "category": "Low",
+      "features": ["strengthen health", "national level", "health facility", "health personnel", "health sector", "health service", "mortality rate", "city health", "health emergency", "population health", "health promotion", "child adolescent", "economic cultural", "disease prevention"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0799,
+      "category": "Low",
+      "features": ["educational institution", "educational community", "education education", "formal education", "teaching staff", "education act", "school infrastructure", "access education", "education level", "participate education", "teacher student", "sustainable lifestyle"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1327,
+      "category": "Low",
+      "features": ["man woman", "gender equality", "national policy", "woman girl", "equal opportunity", "empowerment woman", "opportunity man woman", "opportunity man", "woman local", "participation woman", "woman leadership", "impact woman"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2492,
+      "category": "Low",
+      "features": ["water resource", "water supply", "access safe", "wastewater treatment", "water treatment", "water treat", "safe water", "use water", "resource management", "transboundary river", "management plan", "drinking water", "drink water", "water quality", "water resource management", "treatment plant", "wastewater treatment plant", "water treatment plant", "water sanitation", "river basin", "rainwater harvesting", "adequate sanitation", "relate water", "equitable access", "water adequate", "drink water supply", "water management", "water availability", "water scarcity", "human consumption", "integrate water", "integrate water resource", "use water resource", "management water", "access sanitation", "sustainable management", "water supply sanitation", "supply sanitation", "reduce water", "water quality monitoring", "water human", "area water", "quality monitoring", "demand water", "improve access", "improve sanitation", "drinking water supply", "basin management", "safe affordable drinking", "affordable drinking"]
+    },
+    {
+      "id": 7,
+      "importance": 0.6601,
+      "category": "Medium",
+      "features": ["fossil fuel", "renewable energy", "electric power", "power generation", "net greenhouse gas", "net greenhouse", "energy source", "energy security", "solar wind", "improve energy", "renewable energy source", "electricity grid", "energy sector", "access energy", "electricity generation", "use renewable energy", "use renewable", "diversify energy", "dependence fossil", "dependence fossil fuel", "renewable electricity", "electric vehicle", "clean energy", "energy consumption", "energy supply", "energy mix", "renewable source", "building construct", "energy include", "electrical energy", "solar power", "alternative energy", "ensure energy", "generation capacity", "carbon dioxide", "improve access", "energy generation", "electric car", "implementation energy", "electricity tariff", "national grid", "energy waste", "energy promote", "goal reduce", "project aim", "climate goal", "good practice", "government institution", "sustainable inclusive", "measure reduce"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2415,
+      "category": "Low",
+      "features": ["economic growth", "economic diversification", "international trade", "private sector", "sector participation", "strategic sector", "gdp growth", "economic development", "country economic", "economic performance", "formal employment", "private sector participation", "national economic", "sustain economic growth", "sustain economic", "eradication poverty", "inclusive sustainable", "environmental social", "green hydrogen", "decent work", "tourism sector", "growth rate", "job creation", "decent job", "national economy", "environmental social economic", "decent employment"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2519,
+      "category": "Low",
+      "features": ["capacity building", "resilient infrastructure", "sustainable resilient", "transport infrastructure", "public private", "promote inclusive", "innovation key", "inclusive sustainable", "infrastructure sustainable", "institution private", "infrastructure increase", "greenhouse gas", "scientific research", "gas emission", "technology adoption", "technology innovation", "policy regulation", "development transport", "research innovation", "foster innovation", "build resilient infrastructure", "build resilient", "science technology", "aim build", "national research", "challenge climate", "regional international", "local community", "city develop", "research institution", "support need", "infrastructure project"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1746,
+      "category": "Low",
+      "features": ["social protection", "income distribution", "reduce inequality", "access health", "social inclusion", "community people", "social inequality", "development plan", "economic growth", "process ensure", "protect right", "development progress", "right work", "education climate", "country accordance"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["risk management", "early warning", "green area", "city community", "access safe", "human settlement", "land use", "cultural heritage", "local government", "promote use", "economic social", "area country", "mean transport", "adapt climate change", "adapt climate", "international community", "economic loss", "air quality", "urban planning", "disaster risk", "resilient sustainable", "urban plan", "heritage site", "safe affordable", "year old", "development plan", "environmental impact", "urban green", "green space", "waste generation", "area development", "public participation", "emergency response", "reduce adverse", "social impact", "metropolitan area", "environmental quality", "resilient urban", "waste generate", "real estate", "area include", "planning process", "disaster risk management", "affordable accessible", "access safe affordable", "use plan", "local plan", "improve air quality", "improve air", "city set"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2486,
+      "category": "Low",
+      "features": ["fossil fuel", "circular economy", "natural resource", "national level", "food waste", "waste prevention", "raw material", "sustainable practice", "waste generate", "use natural resource", "use natural", "waste generation", "waste send", "prevention reduction", "circular economy strategy", "economy strategy", "mean transport", "waste management", "sustainable production", "sustainable tourism", "promotion sustainable", "health environment", "environmental management", "management efficient use", "human health", "efficient use", "management efficient", "sustainable inclusive", "production practice", "energy waste", "aim reduce"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate action", "mitigation measure", "emission reduction", "greenhouse gas", "impact climate", "impact climate change", "gas emission", "climate change adaptation", "change adaptation", "climate finance", "greenhouse gas emission", "net emission", "adaptation action", "mitigation adaptation", "determine contribution", "risk management", "food security", "effect climate", "extreme weather", "adaptation climate", "adaptation climate change", "capacity building", "climate risk", "effect climate change", "early warning", "national climate", "weather event", "global climate", "good practice", "extreme weather event", "change mitigation", "global warming", "vulnerable community", "integrate climate", "strengthen resilience", "climate change mitigation", "climate resilience", "technology transfer", "climate emergency", "climate policy", "adaptive capacity", "adapt climate", "adapt climate change", "national policy", "environmental education", "territorial planning", "commitment climate", "reduce emission", "adaptation measure"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0121,
+      "category": "Low",
+      "features": ["marine coastal", "coastal ecosystem", "marine coastal ecosystem", "cultural heritage"]
+    },
+    {
+      "id": 15,
+      "importance": 0.6554,
+      "category": "Medium",
+      "features": ["climate change", "land use", "ecosystem biodiversity", "ecosystem service", "forest area", "biodiversity conservation", "conservation restoration", "forest management", "threaten specie", "sustainable use", "conservation sustainable", "conservation sustainable use", "protect area", "forest land", "area forest", "biodiversity protection", "negative impact", "forest cover", "combat desertification", "biodiversity framework", "natural resource", "protect restore", "land degradation", "forestry sector", "economic cultural", "environmental education", "fair equitable", "action plan", "local community", "sustainable forest", "sustainable forest management", "preservation biodiversity", "forested area", "area protect", "management strategy", "area country", "adaptation mitigation", "management forest", "institutional capacity", "importance biodiversity", "use plan", "use land", "use planning", "implement sustainable", "include strengthen", "fair equitable sharing", "equitable sharing", "forest product", "surface area", "total area"]
+    },
+    {
+      "id": 16,
+      "importance": 0.6106,
+      "category": "Medium",
+      "features": ["public policy", "civil society", "public institution", "risk management", "human right", "rule law", "social justice", "legal framework", "participatory process", "access information", "public trust", "conflict resolution", "information public", "monitoring evaluation", "citizen participation", "aim ensure", "local government", "woman child", "international instrument", "digital platform", "resilient inclusive"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0464,
+      "category": "Low",
+      "features": ["private sector", "sector participation", "private sector participation", "civil society", "sustainable development", "public private"]
+    }
+  ]
+}

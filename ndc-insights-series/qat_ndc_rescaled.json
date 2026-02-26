@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1081,
+      "category": "Low",
+      "features": ["development poverty", "climate relate", "vulnerable population", "quality reduce", "extreme event"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1757,
+      "category": "Low",
+      "features": ["food security", "self sufficiency", "local production", "agricultural product", "agriculture livestock", "agricultural sector", "food production", "agricultural production", "agricultural land", "food supply", "food safety", "food agriculture", "food product", "ensure food", "sustainable food", "local food", "develop food", "agricultural technology", "arable land", "crop livestock", "enhance agricultural", "support farmer", "food waste", "increase local", "reduce food", "development food", "promote healthy", "increase demand", "reduce food waste", "reduction food", "production reduce", "climate smart", "increase production", "include agriculture", "research development", "soil water", "public health"]
+    },
+    {
+      "id": 3,
+      "importance": 0.143,
+      "category": "Low",
+      "features": ["public health", "health risk", "health sector", "strengthen health", "air quality", "health service", "healthcare service", "care service", "health research", "health issue", "health professional", "respiratory disease", "real time", "evidence base", "service delivery", "healthcare worker", "training session", "knowledge skill"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0031,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0511,
+      "category": "Low",
+      "features": ["woman man", "woman empowerment", "empowerment woman", "woman support", "strengthen family"]
+    },
+    {
+      "id": 6,
+      "importance": 0.2183,
+      "category": "Low",
+      "features": ["water management", "water security", "water use", "drinking water", "water storage", "water supply", "water sector", "sustainable water", "water source", "water resource", "improve water", "reduce water", "change water", "water treat", "water scarcity", "sustainable water management", "urban area", "climate change water", "water quality", "wastewater treatment", "management water", "water availability", "water consumption", "water loss", "water infrastructure", "potable water", "source water", "water wastewater", "water reduce", "groundwater resource", "water reuse", "water treatment", "freshwater supply", "enhance water", "green infrastructure", "water increase", "revenue water", "flood risk", "wastewater management", "increase recycling", "efficiency sector", "national water", "water efficiency", "water demand", "management tool", "water desalination"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy efficiency", "electric vehicle", "climate goal", "energy security", "power plant", "carbon capture", "natural gas", "energy capacity", "low carbon energy", "energy water", "improve energy", "solar power", "reduce carbon", "waste energy", "small scale", "sustainable energy", "energy sector", "fossil fuel", "energy mix", "generate electricity", "efficiency improvement", "improve energy efficiency", "energy solution", "global energy", "energy source", "energy use", "energy transition", "solar energy", "energy access", "increase energy", "ensure energy", "reduce carbon emission", "fuel technology", "diversify energy", "carbon dioxide", "effort increase", "renewable energy capacity", "private public", "energy climate", "emission vehicle", "international cooperation", "carbon technology", "low carbon technology", "clean energy", "energy consumption", "energy project", "clean fuel", "energy technology", "energy supply"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2821,
+      "category": "Low",
+      "features": ["economic growth", "sustainable economy", "private sector", "economic diversification", "economic sector", "business environment", "economic development", "supply chain", "government support", "development investment", "sustainable growth", "human capital", "business friendly", "public infrastructure", "sector key", "investment climate", "growth environmental", "long term", "market develop"]
+    },
+    {
+      "id": 9,
+      "importance": 0.5626,
+      "category": "Medium",
+      "features": ["public transport", "knowledge base", "public private", "long term", "capacity building", "transport infrastructure", "high tech", "public infrastructure", "use technology", "research development", "industry infrastructure", "investment research", "greenhouse gas", "small scale", "good available", "value chain", "social impact", "resilient infrastructure", "infrastructure promote", "industrial sector", "investment infrastructure", "infrastructure industry", "infrastructure include", "promote growth", "investment research development", "sustainable transportation", "sustainable transport", "city project", "development company", "support economic", "quality life", "development sustainable", "invest research", "support program", "gas emission", "promote innovation", "green building", "member state", "research innovation", "manufacturing sector", "measure reduce", "industry develop", "development new", "environmental impact", "support industrial", "infrastructure increase", "foreign investment", "reduce environmental impact", "increase number", "industrial area"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0749,
+      "category": "Low",
+      "features": ["sustainable growth", "social inclusion"]
+    },
+    {
+      "id": 11,
+      "importance": 0.6664,
+      "category": "Medium",
+      "features": ["public transport", "waste management", "air quality", "urban area", "urban development", "sustainable urban", "solid waste", "critical infrastructure", "quality life", "grow population", "mode transport", "emergency response", "reduce environmental", "environmental impact", "economic social", "infrastructure urban", "recycling rate", "aim build", "cultural heritage", "disaster risk", "sustainable urban development", "municipal waste", "international community", "early warning", "sustainable transport", "risk management", "development plan", "natural disaster", "community include", "economic loss", "resilience strategy", "social impact", "population growth", "waste generate", "area include", "social cohesion", "sustainable building", "sustainable transportation", "bus route", "water heater", "waste promote", "public private partnership", "private partnership", "sustainable waste", "strategy climate", "urban planning", "public transportation", "urban plan", "green space", "environmental quality"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3526,
+      "category": "Medium",
+      "features": ["circular economy", "waste management", "energy water", "supply chain", "solid waste", "school curriculum", "public awareness", "rate waste", "environmental impact", "resource efficiency", "improve resource", "aim reduce", "public procurement", "food waste", "waste generate", "reduce waste", "sustainable procurement", "food loss", "reduce food", "municipal waste", "waste management plan", "waste treat", "waste treatment", "value chain", "sustainable waste", "awareness sustainable", "waste waste", "recycle material", "reduce food waste", "production supply", "national solid waste", "national solid", "sustainable food", "waste reduce", "food loss production", "loss production", "procurement policy", "sustainable waste management", "awareness program", "reuse waste", "organic product", "behavioral change", "production supply chain", "reduction food", "resource use", "natural resource", "sustainable practice", "green building", "medical waste", "human resource"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "low carbon", "gas emission", "greenhouse gas emission", "renewable energy", "sea level", "reduce emission", "climate action", "global climate", "energy efficiency", "impact climate", "capacity building", "impact climate change", "climate relate", "increase climate", "climate resilience", "sea level rise", "level rise", "raise awareness", "climate resilient", "electric vehicle", "climate smart", "food security", "change impact", "strengthen resilience", "resilience climate", "air quality", "aim reduce", "climate change impact", "climate risk", "early warning", "rise sea level", "rise sea", "support climate", "climate policy", "climate finance", "focus climate", "technology transfer", "emission intensity", "socio economic", "development climate", "commitment climate", "emission reduction", "change climate", "project include", "goal climate", "mitigation adaptation", "mitigation measure", "relate climate change"]
+    },
+    {
+      "id": 14,
+      "importance": 0.1372,
+      "category": "Low",
+      "features": ["sea level", "marine biodiversity", "coastal ecosystem", "protect area", "marine resource", "marine ecosystem", "coral reef", "raise awareness", "marine specie", "land base", "manage protect", "marine life", "water quality", "fish stock", "adverse impact", "fishing industry"]
+    },
+    {
+      "id": 15,
+      "importance": 0.2706,
+      "category": "Low",
+      "features": ["climate change", "biodiversity loss", "protect area", "natural capital", "habitat specie", "flora fauna", "terrestrial marine", "natural habitat", "plant specie", "invasive specie", "land area", "raise awareness", "ecosystem service", "biodiversity conservation", "protect biodiversity", "biodiversity ecosystem", "project aim", "management strategy", "management protect", "agriculture practice", "bird specie", "animal plant", "equitable sharing", "threaten specie", "plant animal", "water increase", "competent authority", "sustainable use", "natural resource", "reduce impact", "adopt climate", "environment biodiversity", "agricultural land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0552,
+      "category": "Low",
+      "features": ["public safety", "legal framework"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0492,
+      "category": "Low",
+      "features": ["private sector", "sustainable development", "public private", "economic growth", "international cooperation", "develop country", "improve business", "capacity building", "private investment", "sector participation", "private sector participation", "improve business environment", "country include", "technology transfer", "socio economic"]
+    }
+  ]
+}

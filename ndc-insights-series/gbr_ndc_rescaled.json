@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0563,
+      "category": "Low",
+      "features": ["poverty eradication", "low income", "development poverty", "support vulnerable", "support low income", "people affect", "support low", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1545,
+      "category": "Low",
+      "features": ["food security", "food production", "food product", "support farmer", "carbon sequestration", "food supply", "healthy food", "food policy", "sustainable agriculture", "agriculture sector", "agricultural land", "end hunger", "sustainable food", "local food", "support food", "improve resilience", "access nutritious", "farming practice", "increase productivity", "national level", "practice increase", "develop food", "term food", "food waste"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0602,
+      "category": "Low",
+      "features": ["air quality", "quality monitoring", "air pollution", "public health", "air quality monitoring", "improve public health", "long term", "improve air quality", "improve air", "improve health", "people health", "prevent reduce"]
+    },
+    {
+      "id": 4,
+      "importance": 0.1201,
+      "category": "Low",
+      "features": ["education child", "knowledge skill", "importance education", "primary education", "secondary school", "school education", "learning environment", "child young people", "child learn", "education policy", "programme school", "sustainable development", "programme provide"]
+    },
+    {
+      "id": 5,
+      "importance": 0.0544,
+      "category": "Low",
+      "features": ["gender equality", "equal opportunity", "participation woman", "opportunity woman", "woman participation", "include woman", "woman empowerment", "girl woman", "equal participation", "work gender", "decision maker", "empowerment gender", "decision make", "develop gender", "gender mainstreaming", "equal opportunity woman", "mainstream gender", "empowerment gender equality", "woman girl", "decision making"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0197,
+      "category": "Low",
+      "features": ["quality monitoring", "water resource", "source water", "resource water"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["fossil fuel", "clean energy", "energy efficiency", "renewable energy", "energy transition", "target set", "coal power", "net greenhouse gas", "net greenhouse", "carbon capture", "heat pump", "cost effective", "climate target", "improve energy", "energy security", "electric vehicle", "fuel energy", "fossil fuel energy", "emission energy", "power sector", "efficiency improvement", "energy include", "energy capacity", "carbon dioxide", "renewable energy capacity", "energy project", "energy policy", "renewable energy project", "energy strategy", "electricity sector", "improve energy efficiency", "energy support", "energy cost", "affordable energy", "energy investment", "transport sector", "climate plan", "energy solution", "generate renewable", "support clean", "increase energy", "electricity generate", "climate goal", "offshore wind", "carbon neutral", "reduce carbon", "energy generation", "fuel poverty", "household energy", "support energy"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2974,
+      "category": "Low",
+      "features": ["private sector", "supply chain", "economic growth", "long term", "develop skill", "create job", "economic development", "people work", "small medium", "sustainable economy", "economic diversification", "year old", "target government", "young people", "investment plan", "include climate", "working condition", "implement policy"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0539,
+      "category": "Low",
+      "features": ["measure reduce", "development research"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0677,
+      "category": "Low",
+      "features": ["equal opportunity", "social inclusion", "promote equality", "equality inclusion"]
+    },
+    {
+      "id": 11,
+      "importance": 0.3409,
+      "category": "Medium",
+      "features": ["air quality", "air pollution", "public participation", "planning process", "plan include", "sustainable city", "urban planning", "human settlement", "urban plan", "social housing", "municipal waste", "local authority", "year old", "land use", "nitrogen dioxide", "real estate", "strategy climate change", "improve air quality", "low income", "improve air", "air water", "strategy climate", "public transport", "air pollutant", "local government", "economic social", "action address", "packaging waste", "programme provide"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1641,
+      "category": "Low",
+      "features": ["circular economy", "waste recycle", "circular economy strategy", "economy strategy", "food waste", "reduce waste", "fossil fuel", "consumption production", "production consumption", "waste recycling", "waste reduction", "natural resource", "municipal waste", "resource efficiency", "sustainable lifestyle", "sustainable pattern", "responsible production", "production supply", "waste send", "responsible production consumption", "provide free", "resource use", "encourage business", "aim reduce", "chemical waste", "pattern consumption production", "pattern consumption", "supply chain", "waste prevention", "term strategy", "packaging waste", "long term strategy"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "emission reduction", "reduction target", "emission reduction target", "low carbon", "greenhouse gas emission", "reduce emission", "gas emission", "net emission", "determine contribution", "impact climate", "food security", "climate action", "impact climate change", "climate finance", "energy efficiency", "air quality", "mitigation adaptation", "adaptation action", "renewable energy", "climate change biodiversity", "change biodiversity", "nature base", "interim target", "climate policy", "reduce greenhouse gas", "adapt climate", "reduce greenhouse", "local community", "develop climate", "include climate", "climate target", "tackle climate", "tackle climate change", "transition low", "transition low carbon", "national climate", "climate relate", "climate change adaptation", "change adaptation", "change climate", "climate change policy", "address climate change", "address climate", "change policy", "climate risk", "approach climate", "international climate", "electric vehicle"]
+    },
+    {
+      "id": 14,
+      "importance": 0.085,
+      "category": "Low",
+      "features": ["marine environment", "marine habitat", "marine protect", "coastal marine", "marine protect area", "ocean sea", "fishery management", "protect area", "coastal community", "marine specie", "sustainable fishing", "healthy productive", "fishing industry", "marine ecosystem", "marine litter", "sea marine", "reduce marine", "management plan", "management measure", "sustainable management"]
+    },
+    {
+      "id": 15,
+      "importance": 0.3047,
+      "category": "Medium",
+      "features": ["climate change", "land use", "protect restore", "natural environment", "halt reverse", "land degradation", "deforestation forest", "nature base", "use policy", "ecosystem service", "protect area", "biodiversity loss", "land management", "forest land", "forest degradation", "tree planting", "land area", "biodiversity action", "global biodiversity", "area protect", "project aim", "management practice", "management plan", "global biodiversity framework", "biodiversity framework", "terrestrial marine", "specie habitat", "deforestation forest degradation", "tree plant", "manage forest", "use land", "action plan", "forest carbon", "natural area", "loss biodiversity", "biodiversity national", "packaging waste", "local community", "restore forest"]
+    },
+    {
+      "id": 16,
+      "importance": 0.2068,
+      "category": "Low",
+      "features": ["decision making", "policy ensure", "national regional", "access justice", "access information", "civil society", "make process", "local government", "ensure public", "information public", "provide child", "government policy", "group people"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0225,
+      "category": "Low",
+      "features": ["support develop", "develop country", "development assistance", "international partner"]
+    }
+  ]
+}

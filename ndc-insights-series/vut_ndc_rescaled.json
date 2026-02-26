@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2028,
+      "category": "Low",
+      "features": ["social protection", "cash transfer", "poverty eradication", "climate relate", "development poverty", "access basic", "poverty reduction", "low income", "essential service", "transfer program", "affect poverty", "housing cost", "social support", "protection policy", "cash transfer program", "social protection measure", "include national", "family live", "people disability", "low access", "people live", "support vulnerable", "technical support", "good service", "people include", "vulnerable include", "good practice", "variety source", "short term", "resilient development", "right base"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2347,
+      "category": "Low",
+      "features": ["food security", "traditional knowledge", "food nutrition", "nutrition security", "climate smart", "food production", "food safety", "food nutrition security", "food product", "agricultural practice", "farming practice", "pest disease", "ensure food", "fruit vegetable", "small scale", "support farmer", "provide support", "effect climate", "agriculture sector", "agricultural production", "access food", "agriculture food", "agricultural product", "healthy food", "sustainable agricultural", "genetic resource", "sustainable food", "local food", "food market", "food industry", "agricultural activity", "term food", "adequate food", "value chain", "adverse effect", "soil erosion", "balanced diet", "cost production", "food supply", "agriculture livestock", "livestock sector", "research development", "carbon sequestration"]
+    },
+    {
+      "id": 3,
+      "importance": 0.2939,
+      "category": "Low",
+      "features": ["public health", "mental health", "health care", "health facility", "health service", "long term", "health risk", "cold chain", "communicable disease", "health worker", "non communicable", "health work", "reproductive health", "non communicable disease", "primary health", "primary health care", "health emergency", "child adolescent", "service include", "health status", "risk factor", "public health emergency", "mental illness", "good health", "national health", "global health", "health sector", "healthy lifestyle", "improve health", "healthy life", "community health", "care service", "health care service", "health outcome", "child health", "medical care", "health health", "early intervention", "support health", "resource health", "ensure health", "health medical", "food need", "health people", "human resource", "strategic plan", "early detection", "prevent detect", "care health", "heart disease"]
+    },
+    {
+      "id": 4,
+      "importance": 0.1072,
+      "category": "Low",
+      "features": ["teacher training", "special need", "inclusive education", "education policy", "access education", "social support", "primary school", "child youth", "provide school", "level education", "education include", "school child", "education plan", "education child", "school access", "junior secondary", "senior secondary", "educational level", "educational institution", "girl boy", "quality education", "educational infrastructure", "new school", "school school", "child young people", "school infrastructure", "school country"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1764,
+      "category": "Low",
+      "features": ["woman girl", "gender equality", "gender responsive", "participation woman", "gender equity", "action plan", "disaggregate datum", "woman man", "man woman", "woman access", "include woman", "equality woman", "decision make", "girl gender", "support gender", "gender base", "gender base violence", "base violence", "woman right", "gender policy", "gender inequality", "woman woman", "equal right", "promote woman", "woman empowerment", "woman represent", "right woman", "empowerment woman", "protection woman", "ensure woman", "young woman", "equality gender", "situation woman", "role woman", "access control", "health right", "decision making", "rate gender", "girl child", "include gender", "support service", "age woman", "girl experience", "target woman", "eliminate gender", "woman local", "child elderly", "national policy", "right woman girl", "woman member"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1408,
+      "category": "Low",
+      "features": ["water resource", "water supply", "water sanitation", "improve water", "sanitation hygiene", "water sanitation hygiene", "access safe", "management plan", "water sector", "rural community", "water management", "drinking water", "water source", "water infrastructure", "source water", "safe drinking water", "safe drinking", "access safe drinking", "water quality", "quality water", "sanitation service", "sustainable water", "access water", "surface water", "access improved", "water service", "freshwater resource", "water supply sanitation", "urban water", "supply sanitation", "drinking water sanitation", "groundwater resource", "change water", "agriculture industry", "safe water", "access water sanitation", "water project", "improve access", "community water", "water increase", "protect water", "water resource include", "provide people", "water groundwater", "water scarce", "protection water", "water relate", "potable water", "water scarcity", "country water"]
+    },
+    {
+      "id": 7,
+      "importance": 0.5572,
+      "category": "Medium",
+      "features": ["renewable energy", "fossil fuel", "energy efficiency", "electricity generation", "energy sector", "energy source", "transport sector", "energy capacity", "fuel source", "renewable energy capacity", "electricity access", "energy supply", "energy technology", "electric vehicle", "energy access", "solar pv", "energy electricity", "renewable energy technology", "renewable electricity", "renewable energy electricity", "emission energy", "waste energy", "increase demand", "carbon dioxide", "small scale", "access energy", "renewable energy source", "energy security", "electricity sector", "clean cooking", "energy performance", "energy poverty", "residential building", "fuel energy", "energy demand", "overall energy", "base energy", "new energy", "energy include", "electric vehicle charge", "increase energy", "fuel oil", "vehicle charge", "fossil fuel energy", "electricity generate", "total electricity", "ensure protection", "efficiency building", "clean renewable", "carbon capture"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2538,
+      "category": "Low",
+      "features": ["private sector", "commercial bank", "long term", "economic growth", "sustainable tourism", "economic development", "economic diversification", "decent work", "youth employment", "supply chain", "long term economic", "disaster risk", "social dialogue", "tourism industry", "economic sector", "trade relate", "include climate", "service provide", "protection worker", "public infrastructure", "trade facilitation", "vulnerable people"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1955,
+      "category": "Low",
+      "features": ["climate proof", "public private", "rural area", "infrastructure plan", "broadband internet", "value chain", "long term", "technical support", "capacity building", "transport infrastructure", "information technology", "international airport", "road infrastructure", "greenhouse gas", "small scale", "development infrastructure", "infrastructure project", "improve connectivity", "international market", "research development", "resilient infrastructure", "internet access", "sustainable infrastructure", "sustainable resilient", "infrastructure support", "walk cycling", "end user", "development project", "digital technology", "climate change natural", "local community", "change natural", "public infrastructure", "industrial policy", "upgrade infrastructure", "gas emission", "strategy development", "global average", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1535,
+      "category": "Low",
+      "features": ["person disability", "people disability", "disaggregate datum", "development partner", "development plan", "vulnerable group", "child protection", "social economic", "equality inclusion", "education employment", "people vulnerable", "people vulnerable situation", "vulnerable child", "old person", "equal opportunity", "good practice", "support service", "child youth", "inclusive education", "service include", "household income", "right people"]
+    },
+    {
+      "id": 11,
+      "importance": 1,
+      "category": "High",
+      "features": ["disaster risk", "risk reduction", "disaster risk reduction", "person disability", "natural disaster", "policy plan", "land use", "plan include", "waste management", "population growth", "early warning", "informal settlement", "disaster preparedness", "waste generation", "risk management", "emergency response", "human settlement", "urban area", "solid waste", "urban rural", "management include", "disaster response", "planning process", "people live", "preparedness response", "building code", "cultural heritage", "community service", "service delivery", "national disaster", "public participation", "area include", "tropical cyclone", "adapt climate change", "infrastructure development", "adapt climate", "urban planning", "public transport", "urban plan", "people disability", "local authority", "management waste", "access safe", "development plan", "planning management", "economic social", "economic loss", "improve living", "resilience strategy", "waste produce"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1846,
+      "category": "Low",
+      "features": ["waste management", "fossil fuel", "circular economy", "solid waste", "waste generation", "waste disposal", "single use", "develop implement", "hazardous waste", "reduce waste", "material use", "waste waste", "single use plastic", "use plastic", "consumption production", "solid waste management", "natural resource", "waste stream", "fossil fuel subsidy", "fuel subsidy", "green building", "waste treat", "waste treatment", "sustainable lifestyle", "pattern consumption production", "pattern consumption", "sustainable pattern", "waste food", "waste production", "national development", "circular economy action", "economy action", "waste disposal site", "recycle waste", "disposal site", "resource efficient", "production consumption", "production supply", "ban single", "ban single use", "human resource", "education awareness"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "disaster risk", "climate action", "climate resilient", "impact climate", "climate finance", "impact climate change", "risk reduction", "reduce emission", "disaster risk reduction", "greenhouse gas", "emission reduction", "climate resilience", "renewable energy", "change adaptation", "climate change adaptation", "climate relate", "gas emission", "adaptation action", "low carbon", "greenhouse gas emission", "mitigation adaptation", "address climate", "climate adaptation", "climate risk", "carbon market", "change climate", "natural disaster", "national climate", "climate smart", "global warming", "sea level", "capacity building", "climate impact", "include climate", "energy efficiency", "low emission", "level rise", "climate fund", "sea level rise", "address climate change", "net emission", "effect climate", "food security", "effect climate change", "change include", "extreme weather", "good practice", "resilience climate", "future generation"]
+    },
+    {
+      "id": 14,
+      "importance": 0.139,
+      "category": "Low",
+      "features": ["marine ecosystem", "coral reef", "coastal zone", "fishery management", "fishing gear", "management plan", "fishery marine", "land base", "base management", "exclusive economic zone", "exclusive economic", "coastal resource", "coastal community", "economic zone", "management coastal", "fishing activity", "marine environment", "marine coastal", "marine protect", "management marine", "fishery sector", "marine protect area", "protection marine", "coastal ecosystem", "sea water", "coastal management", "protect area", "fishing practice", "ocean governance", "marine specie", "scale artisanal", "conservation area", "base good", "sustainable management", "sustainable management marine", "base activity", "use traditional", "adverse impact", "land base activity", "marine pollution", "marine area", "coastal marine", "small scale", "fishing vessel", "sea level", "threat marine", "small scale artisanal", "management measure", "area km2"]
+    },
+    {
+      "id": 15,
+      "importance": 0.3589,
+      "category": "Medium",
+      "features": ["climate change", "land use", "forest area", "nature base", "ecosystem service", "protect area", "land area", "adaptation mitigation", "forest degradation", "forest land", "natural resource", "sustainable forest", "forest management", "sustainable forest management", "land forest", "total land", "conservation protection", "afforestation reforestation", "management practice", "forest sector", "forestry sector", "deforestation forest", "deforestation forest degradation", "conservation area", "local community", "natural resource management", "invasive specie", "sustainable use", "biodiversity loss", "forest cover", "environmental management", "conservation sustainable", "area forest", "sustainable land", "forest resource", "biodiversity ecosystem", "land ecosystem", "sustainable management", "management plan", "total land area", "area increase", "soil erosion", "loss biodiversity", "protection biodiversity", "protect restore", "use practice", "negative impact", "land use practice", "area cover", "land use plan"]
+    },
+    {
+      "id": 16,
+      "importance": 0.4959,
+      "category": "Medium",
+      "features": ["human right", "civil society", "child protection", "decision making", "violence child", "government agency", "aim ensure", "private sector civil", "sector civil", "sector civil society", "national human", "social justice", "access information", "make process", "access justice", "public service", "protection child", "good governance", "inclusive participatory", "violence prevention", "protect human", "protect human right", "special need", "participatory process", "receive support", "right violation", "vulnerable group", "ensure effective", "guarantee right", "right people", "policy ensure", "group people", "child sexual", "child right", "risk management", "national global", "woman child", "evidence base", "monitoring evaluation", "development child", "financial resource", "fundamental right", "monitoring accountability"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0551,
+      "category": "Low",
+      "features": ["civil society", "public private", "private sector", "development partner", "budget support", "sustainable development", "international organisation", "international organization", "development goal", "capacity building"]
+    }
+  ]
+}

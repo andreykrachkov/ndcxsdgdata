@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0515,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0117,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.006,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0312,
+      "category": "Low",
+      "features": ["water supply", "drinking water", "water source", "flood risk"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy use", "energy efficiency", "electric vehicle", "residential building", "heat pump", "building sector", "renewable energy", "energy sector", "energy resource", "target set", "increase energy", "target increase", "district heating", "measure reduce", "increase renewable energy", "increase renewable", "international cooperation", "good practice"]
+    },
+    {
+      "id": 8,
+      "importance": 0.183,
+      "category": "Low",
+      "features": ["economic growth", "economic development", "economic sector", "national economic", "gdp capita"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0829,
+      "category": "Low",
+      "features": ["public private", "medium enterprise", "achieve goal", "heat pump"]
+    },
+    {
+      "id": 10,
+      "importance": 0.023,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.3097,
+      "category": "Medium",
+      "features": ["residential building", "plan include", "urban planning", "human settlement", "urban plan", "public participation", "motor vehicle", "planning process", "economic social", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0342,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["emission reduction", "greenhouse gas", "reduction target", "determine contribution", "emission reduction target", "net emission", "climate change", "reduce emission", "gas emission", "greenhouse gas emission", "climate action", "climate policy", "climate crisis", "adaptation action", "electric vehicle", "reduction emission", "energy efficiency", "low carbon", "impact climate", "mitigation measure", "address climate change", "emission decrease", "address climate", "adaptation plan", "climate resilient", "global warming", "renewable energy", "emission compare", "good practice", "local community", "trading scheme", "carbon climate resilient", "carbon climate", "low carbon climate", "commit reduce", "flood risk", "emission reduce", "waste sector", "aim reduce", "emission sector", "nature base solution", "reduction greenhouse", "nature base"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0015,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.3071,
+      "category": "Medium",
+      "features": ["land use", "use land", "nature base", "climate change", "improve biodiversity"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0459,
+      "category": "Low",
+      "features": ["human right", "protection human"]
+    },
+    {
+      "id": 17,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

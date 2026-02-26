@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1894,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0756,
+      "category": "Low",
+      "features": ["gender responsive", "equal participation", "gender perspective", "rate gender", "decision making"]
+    },
+    {
+      "id": 6,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["net greenhouse gas", "net greenhouse", "renewable energy", "carbon dioxide", "energy efficiency", "energy transition", "green energy", "energy policy", "fossil fuel", "energy energy", "include energy", "renewable energy energy", "energy capacity", "energy green", "investment energy", "energy energy efficiency", "clean renewable", "carbon capture", "coal power", "climate target", "renewable energy capacity", "efficiency improvement", "energy source", "power plant", "industry transport", "climate goal", "good practice"]
+    },
+    {
+      "id": 8,
+      "importance": 0.137,
+      "category": "Low",
+      "features": ["job creation", "sustainable growth", "economic diversification", "private sector", "long term", "sector key"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1223,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission"]
+    },
+    {
+      "id": 10,
+      "importance": 0.021,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.1978,
+      "category": "Low",
+      "features": ["public participation", "plan include", "urban planning", "human settlement", "urban plan", "planning process", "environmental impact", "economic social", "community include", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0758,
+      "category": "Low",
+      "features": ["consumption production", "sustainable lifestyle", "pattern consumption production", "pattern consumption", "sustainable pattern", "fossil fuel", "financial resource"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["net emission", "greenhouse gas", "emission reduction", "greenhouse gas emission", "gas emission", "reduction target", "emission reduction target", "determine contribution", "climate change", "aim reduce", "climate action", "global climate", "adaptation action", "renewable energy", "local community", "carbon dioxide", "low carbon", "energy efficiency", "climate target", "emission source", "combat climate", "mitigation adaptation", "adaptation measure", "integrate climate", "relate climate change", "climate crisis", "address climate change", "address climate", "relate climate", "adaptation plan", "low emission", "climate finance", "climate impact", "reduce greenhouse gas", "reduce greenhouse", "strengthen resilience", "good practice", "temperature increase", "transition low", "resilience climate", "low carbon economy", "transport industry", "base result", "carbon economy", "transition low carbon", "ambitious climate", "emission sector", "base decision", "establish national"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0114,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.0619,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 16,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0408,
+      "category": "Low",
+      "features": ["sustainable development", "development goal"]
+    }
+  ]
+}

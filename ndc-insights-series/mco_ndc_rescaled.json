@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0259,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0007,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0.0744,
+      "category": "Low",
+      "features": ["public health", "health threat", "health risk"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0044,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.002,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0486,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["fossil fuel", "energy consumption", "renewable energy", "energy efficiency", "carbon neutral", "energy consume", "energy sector", "energy intensity", "natural gas", "fuel oil", "final energy", "final energy consumption", "improve energy", "energy production", "energy energy", "energy climate", "emission energy", "reduce energy", "renewable source", "electric vehicle", "improve energy efficiency", "supply electricity", "carbon dioxide", "total energy", "energy renovation", "energy policy", "indicator energy", "energy mix", "energy indicator", "energy poverty", "building stock", "public building", "energy support", "fuel energy", "building energy", "transport sector", "produce energy", "energy include", "increase energy", "renewable energy production", "fossil fuel energy", "private public", "electricity production", "efficiency building", "energy efficiency building", "consumption reduce", "emission vehicle", "proportion renewable", "production renewable", "energy building"]
+    },
+    {
+      "id": 8,
+      "importance": 0.0996,
+      "category": "Low",
+      "features": ["economic diversification", "gdp capita", "productivity level", "employ people"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0971,
+      "category": "Low",
+      "features": ["greenhouse gas", "gas emission", "infrastructure development", "infrastructure develop", "heat pump", "environmental performance"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0261,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.3072,
+      "category": "Medium",
+      "features": ["early warning", "adapt climate", "environmental impact", "economic social", "air quality", "urban planning", "public transport", "human settlement", "public space", "urban plan", "waste collect", "new urban", "level air", "waste collection", "green space", "quality life", "improve living", "waste produce", "city world", "adapt climate change", "promote use", "public participation", "population reside", "quality life resident", "life resident", "waste source", "mean transport", "air water", "infrastructure development"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2252,
+      "category": "Low",
+      "features": ["fossil fuel", "waste incineration", "environmental impact", "aim reduce", "waste include", "household waste", "waste source", "waste collection", "waste production", "relate waste", "plastic waste", "fossil fuel subsidy", "fuel subsidy", "protect environment", "use plastic", "implementation plan", "energy produce"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["gas emission", "greenhouse gas", "greenhouse gas emission", "determine contribution", "emission sector", "climate change", "reduce greenhouse gas", "reduce greenhouse", "global warming", "reduce emission", "sea level", "carbon neutrality", "carbon neutral", "renewable energy", "energy efficiency", "emission reduction", "climate policy", "effect climate", "effect climate change", "adapt climate", "reduction target", "achieve carbon neutrality", "achieve carbon", "level rise", "early warning", "emission reduction target", "low emission", "heat wave", "adapt climate change", "temperature increase", "commit reduce", "emission industry", "carbon dioxide", "sea level rise", "national climate", "change impact", "adaptation measure", "climate change include", "change include", "net emission", "climate finance", "public transport", "action reduce", "international climate", "emission greenhouse gas", "emission greenhouse", "electric vehicle", "climate change increase", "good practice", "green space"]
+    },
+    {
+      "id": 14,
+      "importance": 0.1262,
+      "category": "Low",
+      "features": ["sea level", "marine ecosystem", "marine biodiversity", "sea water", "surface area", "coastal area", "current state"]
+    },
+    {
+      "id": 15,
+      "importance": 0.2682,
+      "category": "Low",
+      "features": ["invasive specie", "land use", "climate change", "ecosystem service", "bird specie", "forest land", "favorable condition", "use land", "fauna flora", "environment climate", "green blue", "natural area", "surface area", "environment biodiversity", "plant animal"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0878,
+      "category": "Low",
+      "features": ["public policy", "meeting hold", "monitor implementation"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0018,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.2505,
+      "category": "Low",
+      "features": ["short term", "good practice", "poverty rate", "poverty line", "post pandemic", "poverty eradication", "development poverty", "multidimensional poverty", "economic development", "social inclusion", "build resilience"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0751,
+      "category": "Low",
+      "features": ["pest disease", "agricultural sector"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0139,
+      "category": "Low",
+      "features": ["reproductive health", "public private"]
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.209,
+      "category": "Low",
+      "features": ["gender equality", "gender base", "gender base violence", "base violence", "sexual reproductive", "gender responsive", "equality gender", "include gender", "reproductive health", "sexual reproductive health", "ensure woman", "health right", "meeting hold", "disaggregate datum"]
+    },
+    {
+      "id": 6,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["solar pv", "energy sector", "renewable energy", "good practice", "transport sector", "rooftop solar", "energy efficiency", "offshore wind", "emission energy", "waste energy", "energy waste", "climate goal", "energy energy", "energy energy efficiency", "annual growth", "cost effective", "energy efficiency target", "efficiency target", "renewable energy energy", "carbon dioxide", "target energy", "target set", "power sector", "small scale", "international cooperation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2603,
+      "category": "Low",
+      "features": ["economic diversification", "resilient economy", "long term", "gdp growth", "real gdp", "economic development", "public debt", "global effort"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0443,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 10,
+      "importance": 0.3545,
+      "category": "Medium",
+      "features": ["social inclusion", "process ensure", "country development", "development partner", "disaggregate datum", "et al", "good practice", "woman young people"]
+    },
+    {
+      "id": 11,
+      "importance": 0.1858,
+      "category": "Low",
+      "features": ["public participation", "planning process", "plan include", "land use", "goal sustainable"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3038,
+      "category": "Medium",
+      "features": ["waste management", "solid waste", "energy waste", "implementation plan", "tool monitor"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "good practice", "determine contribution", "greenhouse gas", "net emission", "renewable energy", "emission reduction", "greenhouse gas emission", "gas emission", "waste sector", "reduction target", "mitigation action", "climate action", "low carbon", "change impact", "climate change impact", "sea level rise", "level rise", "sea level", "energy efficiency", "national climate", "adaptation action", "transport sector", "mitigation measure", "emission waste", "global climate", "climate resilience", "climate policy", "climate resilient", "global warming", "climate change relate", "change relate", "national policy", "transition low", "resilience climate", "carbon climate resilient", "carbon climate", "low carbon climate", "transition low carbon", "weather event", "carbon dioxide", "technical capacity", "climate vulnerability", "ensure climate", "reduce emission", "climate adaptation", "emission transport", "adaptation plan", "strengthen resilience", "extreme weather"]
+    },
+    {
+      "id": 14,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.146,
+      "category": "Low",
+      "features": ["land use", "use land", "value national", "local community", "action plan"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1277,
+      "category": "Low",
+      "features": ["civil society", "meeting hold"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0371,
+      "category": "Low",
+      "features": ["disaggregate datum", "public private"]
+    }
+  ]
+}

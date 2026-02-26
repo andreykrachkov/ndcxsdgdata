@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0628,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "provide healthy"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0656,
+      "category": "Low",
+      "features": ["food security", "country food", "agricultural activity", "relate food", "soil water"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0511,
+      "category": "Low",
+      "features": "human animal"
+    },
+    {
+      "id": 4,
+      "importance": 0.026,
+      "category": "Low",
+      "features": ["level education", "vocational education", "education include", "primary secondary", "educational level"]
+    },
+    {
+      "id": 5,
+      "importance": 0.02,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0565,
+      "category": "Low",
+      "features": ["water treat", "water quality", "treat wastewater", "water ensure", "restore water", "wastewater treatment", "use water", "water efficiency", "ensure availability", "water treatment", "industrial wastewater"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["electricity generation", "electric vehicle", "energy efficiency", "increase energy", "energy consumption", "renewable energy", "fossil fuel", "energy sector", "energy source", "renewable energy source", "renewable source", "electricity grid", "emission energy", "oil equivalent", "energy mix", "energy transition", "source energy", "energy electricity", "dioxide equivalent", "carbon dioxide equivalent", "transport sector", "increase electricity", "carbon dioxide", "energy consume", "consumption electricity", "country energy", "wind energy", "investment project", "consumption energy", "generation renewable", "share renewable", "solar photovoltaic", "share renewable energy", "renewable energy electricity", "building develop"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1029,
+      "category": "Low",
+      "features": ["growth rate", "country economic"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1193,
+      "category": "Low",
+      "features": ["training research", "industrial sector", "capacity building", "economic social"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0786,
+      "category": "Low",
+      "features": ["country development", "child youth", "social economic"]
+    },
+    {
+      "id": 11,
+      "importance": 0.1625,
+      "category": "Low",
+      "features": ["housing construction", "new housing", "urban planning", "urban plan", "early warning", "local government", "land use", "action address", "cultural activity"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2996,
+      "category": "Low",
+      "features": ["waste treat", "waste treatment", "fossil fuel", "industrial waste", "industrial wastewater", "waste management", "solid waste", "waste generate", "waste generation", "negative impact", "reduce consumption", "program implementation", "raw material", "climate neutral"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "gas emission", "adaptation measure", "greenhouse gas emission", "emission reduction", "reduction emission", "combat climate", "combat climate change", "impact climate", "impact climate change", "mitigation measure", "electric vehicle", "determine contribution", "address climate change", "address climate", "weather event", "capacity building", "energy efficiency", "reduce emission", "climate change adaptation", "change adaptation", "change climate", "net emission", "effect climate", "adaptation action", "effect climate change", "technology transfer", "extreme weather", "level rise", "sea level", "extreme weather event", "carbon economy", "food security", "climate action", "support climate", "climate resilience", "mitigation adaptation", "climate change include", "change include", "climate finance", "adaptive capacity", "climate risk", "implement climate", "carbon sink", "climate neutral", "climate impact", "mitigation plan", "sector economy", "climate change increase"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0258,
+      "category": "Low",
+      "features": ["coastal ecosystem", "marine coastal", "sea level", "marine coastal ecosystem"]
+    },
+    {
+      "id": 15,
+      "importance": 0.4263,
+      "category": "Medium",
+      "features": ["forest cover", "forest degradation", "forest area", "land use", "forest land", "forested area", "climate change", "area forest", "forest management", "forest resource", "land cover", "deforestation forest", "deforestation forest degradation", "protect restore", "negative impact", "institutional capacity", "use land", "animal plant", "ensure protection", "increase forest"]
+    },
+    {
+      "id": 16,
+      "importance": 0.07,
+      "category": "Low",
+      "features": ["citizen participation", "public policy", "skill training"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0008,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

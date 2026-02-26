@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.7644,
+      "category": "High",
+      "features": ["poverty eradication", "eradicate poverty", "development poverty", "social protection", "social inclusion", "live poverty", "food poverty", "level poverty", "water sanitation", "adaptation planning", "good practice", "extreme event", "climate relate", "international assistance", "reduce poverty", "people live", "address poverty", "provide support", "base national", "economic development", "energy price", "line national"]
+    },
+    {
+      "id": 2,
+      "importance": 0.3912,
+      "category": "Medium",
+      "features": ["food security", "food production", "food product", "agriculture fishery", "reduce food", "food insecurity", "access food", "food agriculture", "crop livestock", "level food", "measure ensure", "nutritious food", "support agricultural", "small scale", "value chain", "rate increase", "food access", "production reduce", "local government"]
+    },
+    {
+      "id": 3,
+      "importance": 0.2893,
+      "category": "Low",
+      "features": ["mental health", "health service", "infectious disease", "pregnant woman", "service include", "implement action", "safety plan", "access quality", "animal health", "prevent reduce"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0444,
+      "category": "Low",
+      "features": "school attendance"
+    },
+    {
+      "id": 5,
+      "importance": 0.0977,
+      "category": "Low",
+      "features": ["include woman", "support gender", "include gender", "gender mainstreaming", "disaggregate datum", "mainstreame gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.3359,
+      "category": "Medium",
+      "features": ["water stress", "water supply", "water loss", "water reuse", "water sanitation", "water management", "transboundary water", "access safe", "high level", "sanitation service", "water source", "increase water", "water security", "water conservation", "reduce water", "treat water", "plan water", "area water", "water access", "enhance water", "revenue water", "demand management", "water monitoring", "clean water", "access water", "access clean", "water treatment", "safe water", "access clean water", "access water sanitation", "urban area", "water energy", "safe sanitation", "water treat"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable energy", "energy source", "energy transition", "electricity sector", "carbon dioxide", "sustainable energy", "energy service", "fossil fuel", "access energy", "green energy", "new renewable energy", "new renewable", "transport sector", "dependence fossil", "energy capacity", "dependence fossil fuel", "emission vehicle", "renewable energy capacity", "net greenhouse gas", "net greenhouse", "building develop", "clean energy", "affordable clean energy", "affordable clean", "energy resource", "dioxide equivalent", "carbon dioxide equivalent", "climate goal", "share total", "government climate", "goal reduce", "energy price"]
+    },
+    {
+      "id": 8,
+      "importance": 0.7219,
+      "category": "High",
+      "features": ["economic diversification", "private sector", "economic growth", "global effort", "social protection vulnerable", "increase employment", "resilient economy", "long term", "protection vulnerable", "economic development", "work hour", "public infrastructure", "gdp capita", "green hydrogen"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2925,
+      "category": "Low",
+      "features": ["market access", "capacity building", "financial support", "affordable access", "small medium", "south africa", "public private", "medium sized", "small scale", "value chain", "technology policy", "small medium sized", "support need", "long term", "african country", "transport infrastructure", "achieve goal", "good available", "regional international", "local community", "road rail"]
+    },
+    {
+      "id": 10,
+      "importance": 0.4874,
+      "category": "Medium",
+      "features": ["poverty inequality", "social inclusion", "structural transformation", "social protection", "address inequality", "goal reduce", "mainstreame gender", "reduce inequality", "sustainable livelihood", "promote social", "disaggregate datum", "reduce poverty inequality", "policy measure", "gini coefficient"]
+    },
+    {
+      "id": 11,
+      "importance": 0.946,
+      "category": "High",
+      "features": ["informal settlement", "early warning", "planning process", "human settlement", "local authority", "total area", "people live", "natural heritage", "cultural natural", "urban area", "access safe", "plan include", "cultural heritage", "urban planning", "disaster risk", "cultural natural heritage", "urban plan", "heritage site", "risk management", "economic loss", "public participation", "population growth", "cultural heritage site", "real estate", "social cohesion", "disaster risk management", "strengthen disaster", "preparedness response", "risk disaster", "adapt climate", "risk reduction", "solid waste", "international community", "local government", "spatial planning", "economic social", "access green", "support sustainable", "low income"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0455,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "global warming", "climate finance", "mitigation adaptation", "climate action", "national climate", "greenhouse gas", "international climate", "adaptation action", "climate impact", "climate resilient", "impact climate", "determine contribution", "low emission", "net emission", "impact climate change", "greenhouse gas emission", "gas emission", "capacity building", "emission reduction", "approach climate", "change impact", "adaptive capacity", "extreme weather", "adaptation plan", "local community", "climate change impact", "reduce emission", "national adaptation", "carbon emission", "temperature increase", "early warning", "extreme weather event", "socio economic", "weather event", "food security", "adaptation measure", "climate risk", "reduction target", "climate relate", "mitigation measure", "renewable energy", "response climate", "mitigation action", "sea level", "carbon dioxide", "ambitious climate", "vulnerability assessment", "level rise", "emission reduction target"]
+    },
+    {
+      "id": 14,
+      "importance": 0.058,
+      "category": "Low",
+      "features": ["small scale", "sea level", "sustainable fishing", "market access", "water treatment"]
+    },
+    {
+      "id": 15,
+      "importance": 0.3472,
+      "category": "Medium",
+      "features": ["protect area", "land area", "land management", "natural heritage", "ecosystem service", "biodiversity loss", "total land", "invasive alien", "land ecosystem", "network protect", "ecosystem function", "total land area", "land water", "ecosystem biodiversity", "protect natural", "biodiversity area", "plant specie", "national park", "sustainable land", "sustainable land management", "flora fauna", "contribute global", "climate change"]
+    },
+    {
+      "id": 16,
+      "importance": 0.4819,
+      "category": "Medium",
+      "features": ["monitoring evaluation", "provide information", "government agency", "international financial"]
+    },
+    {
+      "id": 17,
+      "importance": 0.1169,
+      "category": "Low",
+      "features": ["international cooperation", "private sector", "develop country", "development bank", "sustainable development", "financial resource", "global community"]
+    }
+  ]
+}

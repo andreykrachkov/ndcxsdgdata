@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1032,
+      "category": "Low",
+      "features": ["support vulnerable", "energy poverty", "poverty eradication", "development poverty", "financial assistance", "social exclusion", "single parent", "good practice", "build resilience", "low income", "project aim", "support need", "energy price", "climate relate"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0413,
+      "category": "Low",
+      "features": ["value chain", "food security", "sustainable food", "sustainable agriculture", "agriculture fishery", "weather condition", "measure ensure", "carbon sequestration"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0233,
+      "category": "Low",
+      "features": ["health social", "old people"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0249,
+      "category": "Low",
+      "features": ["lifelong learning", "vocational training", "formal education", "skilled workforce", "education vocational", "sustainable development", "education training"]
+    },
+    {
+      "id": 5,
+      "importance": 0.0544,
+      "category": "Low",
+      "features": ["woman girl", "decision making", "gender equality", "achieve gender", "man woman", "man boy", "need woman", "decision make", "commitment gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0251,
+      "category": "Low",
+      "features": ["water management", "water resource"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["fossil fuel", "renewable energy", "energy efficiency", "climate target", "renewable source", "energy transition", "final energy", "energy source", "clean energy", "energy security", "energy capacity", "energy saving", "coal power", "electricity production", "energy sector", "energy consumption", "energy mix", "energy poverty", "final energy consumption", "efficiency energy", "solar power", "energy efficiency energy", "clean technology", "increase energy", "climate goal", "carbon dioxide", "energy energy", "electricity generation", "renewable energy source", "energy renewable", "share renewable", "natural gas", "source energy", "increase share", "fuel energy", "target set", "transport sector", "generate renewable", "fossil fuel energy", "electricity generate", "renewable energy energy", "total electricity", "target increase", "energy energy efficiency", "production capacity", "cost effective", "wind energy", "renewable energy capacity", "consumption energy", "building sector"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1896,
+      "category": "Low",
+      "features": ["economic diversification", "economic growth", "create job", "business environment", "economic sector", "small medium", "private sector", "implement policy"]
+    },
+    {
+      "id": 9,
+      "importance": 0.1827,
+      "category": "Low",
+      "features": ["research innovation", "innovation research", "market access", "infrastructure support", "environmental impact", "reduce environmental impact", "value chain", "support innovation", "vulnerable household", "industry manufacturing", "reduce environmental", "green transition", "manufacturing industry", "public transport", "quality life", "greenhouse gas", "sector develop", "development infrastructure", "gas emission", "sustainable mobility", "business environment"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0545,
+      "category": "Low",
+      "features": ["good practice", "person disability", "social exclusion"]
+    },
+    {
+      "id": 11,
+      "importance": 0.2991,
+      "category": "Low",
+      "features": ["planning process", "local regional", "policy plan", "plan include", "urban planning", "disaster risk", "human settlement", "urban area", "urban plan", "local authority", "city local", "urban space", "public participation", "real estate", "adapt climate change", "adapt climate", "public transport", "critical infrastructure", "economic social", "mode transport", "inclusive accessible"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2137,
+      "category": "Low",
+      "features": ["fossil fuel", "production consumption", "consumption production", "circular economy", "raw material", "pattern consumption production", "pattern consumption", "sustainable pattern", "sustainable consumption", "health environment", "sustainable lifestyle", "life cycle", "secondary raw", "human health", "secondary raw material", "end life", "packaging waste", "quality job", "food sustainable", "climate neutral", "public procurement", "value chain", "national plan"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate target", "climate neutral", "climate neutrality", "emission reduction", "net emission", "climate action", "reduce emission", "energy efficiency", "reduction target", "renewable energy", "emission compare", "target climate", "emission reduction target", "determine contribution", "greenhouse gas", "climate risk", "greenhouse gas emission", "gas emission", "low emission", "adaptation action", "reduction emission", "climate resilience", "adaptation measure", "climate policy", "climate crisis", "carbon sink", "climate resilient", "climate energy", "build resilience", "impact climate", "low carbon", "global climate", "impact climate change", "climate change adaptation", "change adaptation", "address climate", "adaptation plan", "climate impact", "increase carbon", "carbon dioxide", "ambitious climate", "national climate", "support climate", "tackle climate", "national adaptation", "address climate change", "relate climate", "climate finance", "adaptive capacity"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0167,
+      "category": "Low",
+      "features": ["land sea", "marine habitat", "measure ensure"]
+    },
+    {
+      "id": 15,
+      "importance": 0.2675,
+      "category": "Low",
+      "features": ["biodiversity loss", "forest degradation", "halt reverse", "climate change", "deforestation forest", "deforestation forest degradation", "protect restore", "land area", "terrestrial marine", "environment climate", "forest management", "land degradation", "ecosystem service", "sustainable forest", "sustainable forest management", "forest land", "natural capital", "soil protection", "biodiversity target", "impact biodiversity", "national biodiversity", "protect biodiversity", "nature base", "conserve biodiversity", "land water", "contribute global", "negative impact", "successful implementation", "biodiversity sustainable", "environment energy", "adopt climate"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1721,
+      "category": "Low",
+      "features": ["human right", "decision making", "rule law", "aim ensure", "make process", "public policy", "social justice", "public awareness", "vulnerable people", "prevent respond", "health social"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0245,
+      "category": "Low",
+      "features": ["international cooperation", "goal strengthen", "develop country", "private investment", "public private", "multilateral cooperation", "global community"]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1212,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "people live"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0669,
+      "category": "Low",
+      "features": ["agriculture sector", "agricultural sector"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0019,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0044,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon dioxide", "electricity generation", "renewable electricity", "net greenhouse gas", "net greenhouse", "energy resource", "renewable energy", "energy sector", "renewable source", "energy development", "dioxide equivalent", "carbon dioxide equivalent", "electricity generate", "come renewable source", "come renewable", "relate energy", "renewable energy development", "accelerate development", "effort increase", "meet climate", "international cooperation", "fossil fuel", "dependence fossil", "dependence fossil fuel", "emission energy"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1664,
+      "category": "Low",
+      "features": ["economic growth", "growth economy", "global effort"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0227,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 10,
+      "importance": 0.073,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.1649,
+      "category": "Low",
+      "features": ["planning process", "plan include", "urban planning", "human settlement", "urban plan", "public participation", "economic social", "population growth", "real estate"]
+    },
+    {
+      "id": 12,
+      "importance": 0.0102,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["emission reduction", "greenhouse gas", "climate change", "greenhouse gas emission", "gas emission", "reduce emission", "global warming", "carbon dioxide", "reduction target", "emission reduction target", "net emission", "national climate", "climate change policy", "change policy", "adaptation action", "international climate", "determine contribution", "low emission", "emission greenhouse gas", "emission greenhouse", "response climate", "temperature increase", "mitigate impact", "emission reduce", "reduction greenhouse", "renewable energy", "change impact", "climate change impact", "impact climate", "impact climate change", "mitigation adaptation", "national climate change", "tackle climate", "climate policy", "change climate", "adaptation plan", "tackle climate change", "climate finance", "carbon sink", "effect climate", "effect climate change", "climate impact", "relate hazard", "sector economy", "climate change relate", "change relate", "good practice", "local community", "impact reduction", "mitigation action"]
+    },
+    {
+      "id": 14,
+      "importance": 0.002,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.1921,
+      "category": "Low",
+      "features": ["land use", "use land", "forest management", "sustainable forest", "sustainable forest management", "forest cover", "climate change", "vulnerability climate"]
+    },
+    {
+      "id": 16,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0056,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

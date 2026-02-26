@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0173,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "good practice"]
+    },
+    {
+      "id": 2,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.0135,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy efficiency", "fossil fuel", "renewable energy", "power generation", "natural gas", "alternative energy", "power sector", "international cooperation", "clean energy", "measure reduce", "carbon dioxide", "energy intensity", "energy technology", "power plant", "nuclear energy", "solar power", "fuel oil", "reduce carbon emission", "carbon capture", "reduce carbon", "low carbon energy", "good practice", "energy consumption", "energy source", "energy project", "improve energy", "renewable energy project", "energy supply", "reduce energy", "electricity generation", "energy transition", "solar energy", "electric vehicle", "improve energy efficiency", "improvement energy", "fuel energy", "target set", "energy investment", "renewable energy technology", "increase energy", "fossil fuel energy", "private public", "energy capacity", "energy improve", "city energy", "emission vehicle", "high energy", "solar installation", "energy efficiency measure", "coal power"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2155,
+      "category": "Low",
+      "features": ["economic diversification", "economic growth", "financial institution", "growth rate", "job creation", "supply chain", "international trade", "growth environmental", "long term"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2912,
+      "category": "Low",
+      "features": ["long term", "public transport", "transport infrastructure", "science technology", "infrastructure investment", "measure reduce", "innovative solution", "greenhouse gas", "support regional", "policy regulation", "international cooperation development"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0041,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 11,
+      "importance": 0.3858,
+      "category": "Medium",
+      "features": ["public transport", "urban planning", "human settlement", "urban plan", "policy plan", "economic social", "mode transport", "public participation", "pose significant", "partnership model", "real estate", "platform public", "planning process", "plan include"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1166,
+      "category": "Low",
+      "features": ["natural resource", "waste waste", "protect environment", "supply chain", "fossil fuel", "rate waste"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["determine contribution", "low carbon", "climate change", "emission reduction", "energy efficiency", "adaptation action", "reduce emission", "reduction target", "emission reduction target", "greenhouse gas", "renewable energy", "climate action", "greenhouse gas emission", "gas emission", "good practice", "low emission", "carbon dioxide", "adaptation plan", "net emission", "carbon emission", "mitigation action", "carbon market", "climate vulnerability", "adaptation effort", "tackle climate", "reduction emission", "global climate", "impact climate", "impact climate change", "mitigation adaptation", "adaptation measure", "mitigation measure", "climate crisis", "climate change policy", "address climate change", "address climate", "change policy", "public transport", "action reduce", "mitigation plan", "sector economy", "electric vehicle", "local community", "new public", "national policy", "transition low", "low carbon economy", "include climate", "change mitigation adaptation", "carbon economy"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0018,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.1121,
+      "category": "Low",
+      "features": "land use"
+    },
+    {
+      "id": 16,
+      "importance": 0.0242,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0112,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

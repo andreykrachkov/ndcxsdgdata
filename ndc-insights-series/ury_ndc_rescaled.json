@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.1549,
+      "category": "Low",
+      "features": ["reduce poverty", "poverty social", "vulnerable population", "adaptation planning", "build resilience", "social sector", "strengthen social", "social policy", "living condition", "resilient development"]
+    },
+    {
+      "id": 2,
+      "importance": 0.1835,
+      "category": "Low",
+      "features": ["food production", "food product", "agricultural sector", "food security", "ensure food", "ensure food security", "crop livestock", "sustainable agricultural", "fruit vegetable", "livestock production", "agricultural practice", "agriculture include", "food industry", "production food", "sector promote", "agriculture livestock", "reduction food", "research development"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0591,
+      "category": "Low",
+      "features": ["improve health", "public health", "mortality rate", "animal health"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0434,
+      "category": "Low",
+      "features": ["education training", "plan education", "child young people", "rate child", "sustainable development"]
+    },
+    {
+      "id": 5,
+      "importance": 0.0756,
+      "category": "Low",
+      "features": ["gender equality", "gender perspective", "gender policy", "gender inequality", "reduce gender", "situation woman", "rate gender", "rural woman", "gender mainstreaming", "commitment gender"]
+    },
+    {
+      "id": 6,
+      "importance": 0.229,
+      "category": "Low",
+      "features": ["water resource", "drink water", "agricultural sector", "drinking water", "water quality", "water management", "water service", "industrial wastewater", "water resource management", "sanitation service", "resource management", "water source", "sustainable management", "urban water", "integrate water", "water supply", "wastewater treatment", "management water", "sustainable water", "human consumption", "population access", "source water", "groundwater resource", "resource water", "water human", "water treatment", "water pollution", "average annual", "number water", "drink water supply", "water treat", "water use", "quality water", "improve water", "water security", "integrate water resource", "city consider", "integrate management", "project implement", "urban area"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["fossil fuel", "electricity generation", "energy sector", "renewable source", "fuel oil", "energy source", "energy efficiency", "energy demand", "renewable energy", "target set", "clean energy", "energy transition", "natural gas", "emission energy", "improve energy", "share renewable", "improve energy efficiency", "electric power", "energy production", "energy supply", "reduce energy", "security supply", "electric vehicle", "power plant", "energy development", "building stock", "fuel energy", "transmission distribution", "energy electricity", "new energy", "transition energy", "transport sector", "generate renewable", "use renewable", "fossil fuel energy", "electricity consumption", "fuel technology", "total electricity", "climate goal", "energy green", "carbon dioxide", "clean technology", "sector action", "energy generation", "primary energy", "good practice", "heat pump", "business model", "production capacity", "energy waste"]
+    },
+    {
+      "id": 8,
+      "importance": 0.2442,
+      "category": "Low",
+      "features": ["economic growth", "young people", "gdp growth", "work time", "job creation", "economic sector", "work underway", "business model", "international trade", "business sector", "investment climate", "private sector", "strategic sector", "experience increase", "green hydrogen"]
+    },
+    {
+      "id": 9,
+      "importance": 0.2847,
+      "category": "Low",
+      "features": ["capacity building", "information technology", "environmental impact", "walk cycling", "public private", "support program", "innovation activity", "technical support", "social environmental", "increase productivity", "work underway", "industrial sector", "public transport", "infrastructure service", "service sector", "greenhouse gas", "gas emission", "impact assessment", "business model", "promote innovation", "sustainable mobility", "long term", "technology adoption", "new business"]
+    },
+    {
+      "id": 10,
+      "importance": 0.1397,
+      "category": "Low",
+      "features": ["social inequality", "reduce gender", "aim reduce"]
+    },
+    {
+      "id": 11,
+      "importance": 0.7778,
+      "category": "High",
+      "features": ["urban area", "public space", "risk management", "land use", "risk reduction", "local government", "use plan", "activity include", "waste management", "development plan", "environmental impact", "city region", "land use plan", "urban water", "adapt climate", "early warning", "quality life", "urban planning", "urban plan", "green area", "living condition", "critical infrastructure", "access safe", "city local", "planning management", "urban green", "green space", "city base", "area country", "area development", "emergency response", "reduce adverse", "adequate safe", "infrastructure urban", "urban planning management", "area include", "planning process", "master plan", "adapt climate change", "territorial development", "private partnership", "need improve", "disaster risk", "policy plan", "economic social", "waste generation", "mobility plan", "waste source", "disaster risk management", "development social"]
+    },
+    {
+      "id": 12,
+      "importance": 0.383,
+      "category": "Medium",
+      "features": ["waste management", "natural resource", "circular economy", "reduce consumption", "sustainable production", "solid waste", "environmental impact", "fossil fuel", "waste resource", "industrial waste", "industrial wastewater", "resource conservation", "disposal site", "production consumption", "waste reduction", "waste disposal", "sustainable practice", "promote circular", "waste generation", "waste treat", "waste treatment", "value chain", "household waste", "waste source", "promote circular economy", "environmental economic", "environmental climate", "environmental management", "capacity building", "efficient use", "material use", "national level", "consumption material", "energy waste", "rate waste", "promotion sustainable", "awareness importance"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "change adaptation", "climate change adaptation", "adaptation measure", "climate risk", "emission intensity", "good practice", "gas emission", "adaptation action", "greenhouse gas", "reduce emission", "adaptation climate", "impact climate", "adaptation climate change", "impact climate change", "greenhouse gas emission", "adaptive capacity", "effect climate", "effect climate change", "determine contribution", "climate action", "climate change mitigation", "change mitigation", "climate policy", "capacity building", "risk management", "adapt climate", "adapt climate change", "mitigation adaptation", "adaptation plan", "strengthen resilience", "adaptation effort", "address climate", "risk reduction", "change mitigation adaptation", "climate impact", "global warming", "technology transfer", "reduction emission", "emission reduction", "relate climate", "net emission", "reduce greenhouse gas", "financial sector", "reduce greenhouse", "response climate", "mitigation action", "early warning", "territorial planning", "implement climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0184,
+      "category": "Low",
+      "features": ["coastal area", "coastal zone", "management plan", "sustainable fishery", "surface area", "industrial waste"]
+    },
+    {
+      "id": 15,
+      "importance": 0.5519,
+      "category": "Medium",
+      "features": ["climate change", "management practice", "land use", "forest area", "area forest", "forest land", "native specie", "management plan", "biodiversity ecosystem", "conservation restoration", "forest policy", "conservation status", "biodiversity conservation", "land area", "sustainable management", "agricultural land", "conservation restoration sustainable", "ecosystem service", "environmental management", "biological diversity", "biodiversity protection", "land cover", "forested area", "conserve biodiversity", "negative impact", "area country", "adaptation mitigation", "surface area", "increase forest", "forest cover", "environmental conservation", "environmental protection", "change adaptation strategy", "institutional capacity", "land use plan", "ecosystem biodiversity", "use plan", "land use planning", "use planning", "biodiversity area", "international regional"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3133,
+      "category": "Medium",
+      "features": ["risk management", "civil society", "human right", "public policy", "open government", "access information", "public access", "public access information", "government policy", "open datum", "public institution", "local government", "participatory process", "public sector", "training session", "information public", "monitoring evaluation", "national regional international", "social justice", "national regional", "strategic plan", "public awareness", "legal framework", "monitor implementation"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0201,
+      "category": "Low",
+      "features": ["international level", "strengthen capacity"]
+    }
+  ]
+}

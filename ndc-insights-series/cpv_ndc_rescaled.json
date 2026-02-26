@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.3956,
+      "category": "Medium",
+      "features": ["social protection", "social inclusion", "adaptation planning", "climate relate", "poverty increase", "enhance social", "live poverty", "low income", "basic service", "provide support", "vulnerable population", "essential service", "growth job creation", "water sanitation", "percentage point", "protection policy", "health education", "integrate social", "income individual", "resilient development", "extreme event", "poverty eradication", "financial assistance", "reduce exposure", "support need", "rural urban", "service water", "economic development", "right base"]
+    },
+    {
+      "id": 2,
+      "importance": 0.2416,
+      "category": "Low",
+      "features": ["food security", "agriculture fishery", "food production", "food supply", "food product", "national food", "production food", "add value", "agricultural food", "pest disease", "public health", "agriculture food", "soil conservation", "aim reduce", "health promote", "food insecurity", "extension service", "small scale", "fishing activity", "carbon sequestration"]
+    },
+    {
+      "id": 3,
+      "importance": 0.1404,
+      "category": "Low",
+      "features": ["public health", "health risk", "health service", "health promote", "respiratory disease", "population health", "management health", "people health", "long term"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0626,
+      "category": "Low",
+      "features": ["high education", "literacy rate", "rate year", "education remain", "secondary education", "basic education", "enrolment rate", "education level", "adult literacy", "participation education", "adult literacy rate", "school enrolment", "sustainable development"]
+    },
+    {
+      "id": 5,
+      "importance": 0.1489,
+      "category": "Low",
+      "features": ["gender equality", "form discrimination", "support gender", "age year", "female participation", "address gender", "woman represent", "area woman", "woman remain", "leadership role", "land ownership", "decision make"]
+    },
+    {
+      "id": 6,
+      "importance": 0.1821,
+      "category": "Low",
+      "features": ["water sanitation", "water supply", "sanitation hygiene", "reduce water", "water scarcity", "treat wastewater", "water resource", "drinking water", "water quality", "water availability", "water loss", "water relate", "increase water", "water supply sanitation", "supply sanitation", "drinking water sanitation", "water sanitation hygiene", "safe water", "water storage", "desalination plant", "level water", "water treat", "water use", "resource management", "access water", "water source", "new water", "water stress", "access water sanitation"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy efficiency", "renewable energy", "carbon neutral", "energy transition", "solar photovoltaic", "reduce carbon", "energy sector", "energy intensity", "reduce energy", "energy target", "small scale", "increase renewable energy", "increase renewable", "renewable energy target", "transmission distribution", "include energy", "renewable electricity", "clean energy", "electricity generation", "electric vehicle", "energy demand", "target set", "electricity production", "climate goal", "energy new", "emission energy", "wind energy", "solar wind", "improve energy", "energy service", "fossil fuel", "solar energy", "import fossil fuel", "import fossil", "improve energy efficiency", "residential building", "increase share", "improvement energy", "fuel energy", "fuel increase", "energy resource", "wind farm", "solar pv", "overall energy", "transport sector", "energy include", "climate plan", "energy improve", "energy saving", "energy green"]
+    },
+    {
+      "id": 8,
+      "importance": 0.4263,
+      "category": "Medium",
+      "features": ["decent work", "skill development", "youth woman", "sustainable growth", "economic growth", "job creation", "country economic", "economic activity", "employ people", "financial institution", "economy sector", "formal employment", "work study", "percentage point", "employment opportunity", "public debt", "disaster risk", "job training", "economic development", "human capital", "inclusive growth", "strong commitment", "gdp ratio", "economic diversification", "promote sustain", "investment climate", "rate year", "debt gdp", "promote sustainable", "debt gdp ratio", "rate high"]
+    },
+    {
+      "id": 9,
+      "importance": 0.087,
+      "category": "Low",
+      "features": ["support need", "capacity building"]
+    },
+    {
+      "id": 10,
+      "importance": 0.2589,
+      "category": "Low",
+      "features": ["social protection", "social inclusion", "vulnerable group", "person disability", "include strengthen", "displace person", "social economic", "regional inequality", "access service", "basic service", "employ people", "commitment ensure", "contribute reduce"]
+    },
+    {
+      "id": 11,
+      "importance": 0.8848,
+      "category": "High",
+      "features": ["waste management", "land use", "disaster risk", "sustainable waste", "disaster risk reduction", "risk reduction", "early warning", "urban area", "risk management", "person disability", "emergency response", "human settlement", "population growth", "spatial planning", "adequate housing", "basic service", "inadequate housing", "public transport", "city community", "green area", "sustainable urban", "resilience disaster", "critical infrastructure", "access safe", "development plan", "service delivery", "provide affordable", "green space", "waste generation", "program implement", "disaster risk management", "land use plan", "inclusive accessible", "universal access", "use plan", "residential building", "international community", "sustainable transport", "disaster response", "social impact", "action address", "social cohesion", "ensure accessibility", "waste waste", "housing solution", "development social", "previous year", "low income"]
+    },
+    {
+      "id": 12,
+      "importance": 0.3236,
+      "category": "Medium",
+      "features": ["waste management", "sustainable waste", "sustainable waste management", "treatment facility", "reuse waste", "natural resource", "aim reduce", "circular economy", "waste disposal", "waste waste", "waste reduce", "fossil fuel", "generation waste", "waste disposal site", "energy generation", "disposal site", "gas production", "sustainable tourism", "promote circular", "water soil", "economy principle", "reuse recycle", "circular economy principle", "rate waste"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "climate action", "climate risk", "climate resilience", "climate resilient", "low carbon", "impact climate", "impact climate change", "mitigation adaptation", "emission reduction", "mitigation measure", "reduction emission", "climate relate", "integrate climate", "carbon neutral", "energy efficiency", "climate finance", "carbon neutrality", "global warming", "early warning", "renewable energy", "greenhouse gas", "disaster risk", "adaptation measure", "climate impact", "climate policy", "reduce emission", "adaptation plan", "extreme weather", "achieve carbon neutrality", "extreme weather event", "weather event", "low carbon development", "carbon development", "achieve carbon", "national climate", "change impact", "climate change impact", "greenhouse gas emission", "gas emission", "net emission", "risk reduction", "strengthen resilience", "disaster risk reduction", "risk management", "temperature increase", "monitoring reporting", "capacity building", "promote climate", "vulnerability assessment"]
+    },
+    {
+      "id": 14,
+      "importance": 0.1755,
+      "category": "Low",
+      "features": ["protect area", "marine ecosystem", "marine protect", "marine protect area", "coastal zone", "marine resource", "sea level", "management plan", "coastal protection", "spatial plan", "coral reef", "coastal marine", "coastal ecosystem", "fishery management", "fishing practice", "fishing activity", "reduce impact", "monitoring control", "fishing community", "protection measure"]
+    },
+    {
+      "id": 15,
+      "importance": 0.4086,
+      "category": "Medium",
+      "features": ["protect area", "climate change", "land use", "ecosystem biodiversity", "management plan", "land area", "nature base", "reduce impact", "land degradation", "ecosystem service", "control invasive", "invasive alien", "control invasive alien", "afforestation reforestation", "specie habitat", "protect restore", "include forest", "action plan", "environment biodiversity", "natural resource", "green area", "adaptation mitigation", "implement sustainable", "local community", "management include", "strategy account"]
+    },
+    {
+      "id": 16,
+      "importance": 0.4292,
+      "category": "Medium",
+      "features": ["human right", "decision making", "civil society", "monitoring evaluation", "inclusive participatory", "institution level", "national human", "participatory process", "evidence base", "vulnerable group", "public policy", "greenhouse gas inventory", "gas inventory", "legal framework", "public institution", "risk management", "local government", "financial resource", "child woman"]
+    },
+    {
+      "id": 17,
+      "importance": 0.0523,
+      "category": "Low",
+      "features": ["civil society", "sustainable development", "partnership develop"]
+    }
+  ]
+}

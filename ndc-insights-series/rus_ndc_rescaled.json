@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0562,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty", "rural area", "good practice", "economic development"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0888,
+      "category": "Low",
+      "features": ["food security", "agricultural product", "food industry", "production food", "reduce food", "agriculture livestock", "sustainable agriculture", "agricultural production", "aim reduce", "enhance international"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0051,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0.0022,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 6,
+      "importance": 0.1106,
+      "category": "Low",
+      "features": ["water resource", "water resource management", "resource management", "drinking water", "water use", "improve water", "access water", "water body", "river basin", "average annual", "project implement", "water energy", "drink water", "impact water", "improve access", "energy infrastructure", "territorial planning"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["power plant", "energy efficiency", "natural gas", "renewable energy", "carbon dioxide", "improve energy", "improve energy efficiency", "reduce carbon", "energy resource", "energy sector", "energy source", "renewable energy source", "fossil fuel", "energy transition", "nuclear energy", "electric power", "solar power", "increase energy", "electric vehicle", "fuel energy", "climate goal", "carbon neutral", "power generation", "carbon technology", "energy consumption", "source energy", "instal capacity", "solar panel", "target set", "support development", "development renewable", "development renewable energy", "reduce carbon emission", "generation capacity", "energy infrastructure", "efficiency building", "energy efficiency building", "gas production", "net greenhouse gas", "net greenhouse", "dioxide equivalent", "carbon dioxide equivalent", "international cooperation", "power supply", "sustainable energy", "energy intensity", "energy technology", "energy strategy", "reduce energy", "electricity generation"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1778,
+      "category": "Low",
+      "features": ["economic development", "economic growth", "sustainable economic", "sustainable economic growth", "national economic", "growth development", "ensure sustainable economic", "economic sector", "country economic", "economic diversification", "international trade", "increase average", "include climate"]
+    },
+    {
+      "id": 9,
+      "importance": 0.3516,
+      "category": "Medium",
+      "features": ["greenhouse gas", "gas emission", "company develop", "good available", "transport infrastructure", "infrastructure development", "information technology", "industry develop", "sector develop", "infrastructure develop", "monitoring control", "reduce carbon footprint", "urban infrastructure", "reduction greenhouse gas", "reduction greenhouse", "international market", "rail transport", "innovative product", "ict development", "food industry", "technological solution", "rural population", "innovative solution", "achieve goal", "rural area", "value chain", "construction new", "heating cool", "product production", "technology government"]
+    },
+    {
+      "id": 10,
+      "importance": 0.0453,
+      "category": "Low",
+      "features": "economic growth"
+    },
+    {
+      "id": 11,
+      "importance": 0.3418,
+      "category": "Medium",
+      "features": ["resilience disaster", "housing stock", "development city", "waste management", "solid waste", "environmental impact", "urban planning", "disaster risk", "public transport", "human settlement", "urban area", "urban plan", "residential building", "housing construction", "municipal waste", "natural disaster", "housing sector", "city base", "urban space", "public participation", "emergency response", "population growth", "planning process", "reduce environmental", "affect disaster", "city set", "city settlement", "residential area", "risk management", "green space", "economic social", "city region", "spatial development", "social impact", "pose significant", "program implement", "project improve"]
+    },
+    {
+      "id": 12,
+      "importance": 0.1666,
+      "category": "Low",
+      "features": ["raw material", "waste management", "solid waste", "production consumption", "environmental impact", "waste disposal", "municipal waste", "household waste", "recycle material", "waste collection", "waste send", "secondary raw", "secondary raw material", "fossil fuel", "develop implement", "national plan", "waste disposal site", "national action plan", "disposal site", "national action", "aim reduce", "production supply", "material use", "soil pollution", "technology industry", "impact environment", "gas production"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "gas emission", "greenhouse gas emission", "adaptation climate", "adaptation climate change", "determine contribution", "combat climate", "combat climate change", "climate policy", "reduction greenhouse", "national climate", "reduce emission", "reduce greenhouse", "carbon dioxide", "reduce greenhouse gas", "renewable energy", "implementation climate", "energy efficiency", "emission reduction", "international climate", "emission increase", "impact climate", "adaptation plan", "carbon neutrality", "climate risk", "climate change measure", "change measure", "carbon neutral", "climate change include", "change include", "adaptation action", "achieve carbon neutrality", "carbon development", "achieve carbon", "global climate", "implement climate", "company implement", "low carbon", "electric vehicle", "reduction target", "carbon market", "emission reduction target", "climate change mitigation", "change mitigation", "reduction emission", "project include", "strengthen resilience", "national policy", "impact climate change"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0021,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.2922,
+      "category": "Low",
+      "features": ["climate change", "forest area", "forest land", "protect forest", "forest management", "project implement", "country territory", "land use", "sustainable forest", "biodiversity loss", "sustainable forest management", "biodiversity conservation", "area forest", "degraded land", "biological diversity", "land ecosystem", "forestry sector", "city urban", "ecosystem function", "manage forest", "ecosystem biodiversity", "conservation restoration", "land degradation", "land area", "terrestrial ecosystem", "forest resource", "illegal logging", "ensure protection"]
+    },
+    {
+      "id": 16,
+      "importance": 0.0229,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0152,
+      "category": "Low",
+      "features": ["develop country", "sustainable development", "exchange experience", "development goal"]
+    }
+  ]
+}

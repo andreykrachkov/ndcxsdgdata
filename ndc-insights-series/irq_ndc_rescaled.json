@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0512,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 2,
+      "importance": 0.2517,
+      "category": "Low",
+      "features": ["sustainable agriculture", "ensure food", "food program"]
+    },
+    {
+      "id": 3,
+      "importance": 0.3928,
+      "category": "Medium",
+      "features": ["year old", "health protection", "old people", "people increase", "decrease rate"]
+    },
+    {
+      "id": 4,
+      "importance": 0.037,
+      "category": "Low",
+      "features": "child youth"
+    },
+    {
+      "id": 5,
+      "importance": 0.1893,
+      "category": "Low",
+      "features": ["woman girl", "man woman", "right woman", "role woman", "female worker", "table woman", "provide opportunity"]
+    },
+    {
+      "id": 6,
+      "importance": 0.3743,
+      "category": "Medium",
+      "features": ["water sector", "quality water", "provide water", "include water", "focal point"]
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["energy use", "energy renewable", "energy sector", "energy production", "source energy", "fuel energy", "efficiency energy", "waste energy", "fuel oil", "energy increase", "gas production"]
+    },
+    {
+      "id": 8,
+      "importance": 0.6135,
+      "category": "Medium",
+      "features": ["long term", "growth rate", "area urban", "youth woman", "worker work", "growth development"]
+    },
+    {
+      "id": 9,
+      "importance": 0.0388,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 10,
+      "importance": 0.057,
+      "category": "Low",
+      "features": "general public"
+    },
+    {
+      "id": 11,
+      "importance": 0.5633,
+      "category": "Medium",
+      "features": ["urban area", "sustainable transport", "civil protection", "urban space", "local area", "natural cultural", "heritage cultural", "culture heritage", "cultural natural", "people disability", "planning process", "rate high", "sustainable waste"]
+    },
+    {
+      "id": 12,
+      "importance": 0.2222,
+      "category": "Low",
+      "features": ["gas production", "sustainable waste"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["change climate", "low emission", "climate adaptation", "low carbon", "result climate", "relate climate", "emission sector", "climate strategy", "work climate", "increase climate", "climate fund", "country climate", "climate finance", "climate impact", "carbon emission", "plan strategy", "measure climate", "implementation climate", "determine contribution", "carbon development", "waste sector", "management climate", "use waste", "goal climate", "focus climate", "effect climate", "change relate", "plan climate", "rise sea"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0019,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.8637,
+      "category": "High",
+      "features": ["land forest", "use land", "sustainable forest", "forest cover", "natural environment", "area country", "environment climate", "forest sector", "local community", "plant animal", "environmental framework", "sustainable land", "area increase", "natural area", "target protect"]
+    },
+    {
+      "id": 16,
+      "importance": 0.1776,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 17,
+      "importance": 0.0154,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

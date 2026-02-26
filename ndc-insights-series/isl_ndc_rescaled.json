@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.0424,
+      "category": "Low",
+      "features": ["poverty eradication", "development poverty"]
+    },
+    {
+      "id": 2,
+      "importance": 0.0272,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 3,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 4,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.094,
+      "category": "Low",
+      "features": ["equal right", "gender equality", "man woman", "gender discrimination", "woman equal", "right opportunity", "woman equal right"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0086,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["carbon capture", "target set", "energy production", "carbon neutral", "climate target", "energy source", "fossil fuel", "renewable source", "power plant", "transition energy", "district heating", "net greenhouse gas", "net greenhouse", "energy resource"]
+    },
+    {
+      "id": 8,
+      "importance": 0.1658,
+      "category": "Low",
+      "features": "economic diversification"
+    },
+    {
+      "id": 9,
+      "importance": 0.1493,
+      "category": "Low",
+      "features": ["new technology", "greenhouse gas", "gas emission", "reduction greenhouse gas", "reduction greenhouse"]
+    },
+    {
+      "id": 10,
+      "importance": 0.095,
+      "category": "Low",
+      "features": "good practice"
+    },
+    {
+      "id": 11,
+      "importance": 0.1836,
+      "category": "Low",
+      "features": ["urban planning", "human settlement", "urban plan", "economic social", "public participation", "planning process", "real estate", "plan include"]
+    },
+    {
+      "id": 12,
+      "importance": 0.067,
+      "category": "Low",
+      "features": ["waste management", "aim reduce"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["greenhouse gas", "greenhouse gas emission", "gas emission", "reduction target", "emission reduction", "emission sector", "determine contribution", "climate change", "emission reduction target", "reduction greenhouse", "climate action", "adaptation action", "emission industry", "carbon neutral", "reduce emission", "carbon neutrality", "net emission", "framework climate", "work climate", "climate target", "impact climate", "impact climate change", "mitigation measure", "adaptation plan", "low emission", "climate mitigation", "global warming", "emission compare", "local community", "aim reduce", "climate policy", "change climate", "adaptation climate", "adaptation climate change", "implementation climate"]
+    },
+    {
+      "id": 14,
+      "importance": 0.002,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 15,
+      "importance": 0.1563,
+      "category": "Low",
+      "features": ["land use", "forest land", "manage forest", "forestry sector", "use land"]
+    },
+    {
+      "id": 16,
+      "importance": 0.095,
+      "category": "Low",
+      "features": "human right"
+    },
+    {
+      "id": 17,
+      "importance": 0,
+      "category": "Low",
+      "features": []
+    }
+  ]
+}

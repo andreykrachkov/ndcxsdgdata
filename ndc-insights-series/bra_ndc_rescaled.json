@@ -1,0 +1,106 @@
+{
+  "sdgs": [
+    {
+      "id": 1,
+      "importance": 0.4218,
+      "category": "Medium",
+      "features": ["extreme poverty", "eradicate poverty", "economic development", "cash transfer", "social program", "people poverty", "poverty line", "population live", "social protection", "poverty form", "live poverty", "support family", "access basic", "poor vulnerable", "low income", "income poverty", "social security", "access electricity", "worth note", "transfer program", "address social", "national income", "poor household", "conditional cash", "digital transformation", "cash transfer program", "social protection measure", "build resilience", "energy poverty", "population live poverty", "poverty country", "poverty eradication", "address poverty", "poverty target", "good practice", "fundamental pillar", "resilient development", "extreme event"]
+    },
+    {
+      "id": 2,
+      "importance": 0.175,
+      "category": "Low",
+      "features": ["food production", "food product", "food security", "agricultural sector", "agricultural production", "agricultural product", "ensure food", "crop livestock", "production food", "large scale", "sustainable agriculture", "healthy food", "sustainable agricultural", "livestock production", "agricultural area", "promote sustainable", "guarantee access", "value chain", "family farming", "traditional knowledge", "national level"]
+    },
+    {
+      "id": 3,
+      "importance": 0.0364,
+      "category": "Low",
+      "features": ["number people", "age group", "people increase", "resource health"]
+    },
+    {
+      "id": 4,
+      "importance": 0.0046,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 5,
+      "importance": 0.0289,
+      "category": "Low",
+      "features": ["man woman", "woman age"]
+    },
+    {
+      "id": 6,
+      "importance": 0.0034,
+      "category": "Low",
+      "features": []
+    },
+    {
+      "id": 7,
+      "importance": 1,
+      "category": "High",
+      "features": ["renewable source", "energy transition", "energy sector", "fossil fuel", "share renewable", "wind solar", "renewable energy", "electricity generation", "carbon dioxide", "carbon capture", "energy efficiency", "energy security", "net greenhouse gas", "net greenhouse", "energy production", "energy use", "clean technology", "increase use", "universal access", "cost effective", "national energy", "natural gas", "solar energy", "power plant", "increase share", "use electricity", "energy market", "global energy", "carbon technology", "low carbon technology", "year energy", "source energy", "fuel energy", "target set", "action environment", "sustainable energy", "energy consumption", "energy policy", "energy service", "energy supply", "access electricity", "energy mix", "promote energy", "access energy", "access clean", "electric vehicle", "nuclear energy", "energy poverty", "poor household", "transport sector"]
+    },
+    {
+      "id": 8,
+      "importance": 0.4142,
+      "category": "Medium",
+      "features": ["economic growth", "economic development", "national economic", "long term", "sustainable economic", "sustainable economic growth", "supply chain", "growth development", "economic sector", "promote sustainable development", "international trade", "promote sustain", "promote economic", "national economy", "promote sustainable", "decent work", "new business", "economic activity", "investment plan", "economy support", "increase economic", "financial institution", "job create", "formal employment", "sustainable economy", "economic diversification", "economic productivity", "strategic sector", "environmental social", "job creation", "competitive advantage", "employment income", "central bank", "inclusive sustainable", "productivity competitiveness", "global effort", "promote fair"]
+    },
+    {
+      "id": 9,
+      "importance": 0.4254,
+      "category": "Medium",
+      "features": ["greenhouse gas", "gas emission", "industrial development", "industrial sector", "public private", "technological development", "long term", "new technology", "science technology", "reduction greenhouse gas", "reduction greenhouse", "international market", "capacity building", "research development", "sustainable infrastructure", "development innovation", "digital transformation", "information technology", "research development innovation", "investment research development", "investment research", "country industrial", "new industrial", "innovation sustainable", "development sustainable", "sector develop", "urban infrastructure", "industrial policy", "industrial park", "promote innovation", "technology innovation", "global average", "economic social", "increase productivity", "sustainable resilient", "manufacturing industry", "development new", "technological solution", "reduce regional", "good available", "infrastructure develop", "value chain", "social impact", "investment new", "social environmental", "creation job", "production promote", "new business"]
+    },
+    {
+      "id": 10,
+      "importance": 0.5147,
+      "category": "Medium",
+      "features": ["inequality country", "reduce inequality", "poverty inequality", "reduce inequality country", "economic growth", "social economic", "household income", "contribute reduce", "vulnerable group", "regional inequality", "policy measure", "income inequality", "social protection", "social inclusion", "good practice", "base respect", "social group", "income people", "social security", "reduce regional", "need term", "social inequality", "central bank", "aim reduce", "need great"]
+    },
+    {
+      "id": 11,
+      "importance": 0.6293,
+      "category": "Medium",
+      "features": ["international community", "sustainable urban", "urban mobility", "plan include", "urban planning", "urban plan", "urban development", "public transport", "human settlement", "sustainable urban development", "land use", "population live", "planning process", "risk disaster", "environmental impact", "real estate", "support sustainable", "cultural heritage", "public transportation", "city community", "heritage site", "proper waste", "economic social", "integrated sustainable", "public participation", "resilience strategy", "social cohesion", "cultural value", "previous year", "waste management", "risk reduction", "quality life", "social impact", "sewage treatment plant", "population growth", "sewage treatment", "land use plan", "development social", "universal access", "use plan", "low income"]
+    },
+    {
+      "id": 12,
+      "importance": 0.208,
+      "category": "Low",
+      "features": ["natural resource", "environmental climate", "waste disposal", "sustainable production", "use natural resource", "use natural", "aim reduce", "waste management", "environmental social", "waste reduction", "good service", "health environment", "fossil fuel", "implementation plan", "environmental education", "social environmental", "plan sustainable", "supply chain", "use resource", "climate neutral"]
+    },
+    {
+      "id": 13,
+      "importance": 0,
+      "category": "Low",
+      "features": ["climate change", "greenhouse gas", "gas emission", "greenhouse gas emission", "low carbon", "climate action", "mitigation adaptation", "global warming", "determine contribution", "socio economic", "net emission", "climate neutral", "climate neutrality", "emission reduction", "reduction target", "emission reduction target", "capacity building", "climate crisis", "adaptation action", "national climate", "adaptation plan", "climate risk", "reduce greenhouse", "response climate", "reduce greenhouse gas", "global climate", "climate emergency", "climate policy", "climate resilient", "institutional capacity", "promote climate", "aim reduce", "combat climate", "combat climate change", "reduce emission", "climate change include", "change include", "carbon dioxide", "food security", "goal climate", "climate relate", "impact climate", "relate climate", "low emission", "emission greenhouse gas", "emission greenhouse", "mitigation action", "temperature increase", "technological development", "carbon market"]
+    },
+    {
+      "id": 14,
+      "importance": 0.0307,
+      "category": "Low",
+      "features": ["marine coastal", "coastal ecosystem", "coral reef", "socio economic"]
+    },
+    {
+      "id": 15,
+      "importance": 0.5133,
+      "category": "Medium",
+      "features": ["land use", "deforestation forest", "climate change", "forest area", "natural resource", "land use plan", "use plan", "land use planning", "use planning", "illegal deforestation", "environmental climate", "biodiversity conservation", "forest degradation", "protect biodiversity", "nature base", "conserve biodiversity", "deforestation forest degradation", "control measure", "ecosystem service", "sustainable use", "protect area", "conservation sustainable", "land area", "national biodiversity", "native specie", "forestry sector", "conservation sustainable use", "area increase", "use land", "national local", "conservation restoration", "local community", "forest product", "total resource", "include urban", "management strategy", "contribute global", "control land", "action plan", "conservation restoration sustainable", "restoration sustainable use"]
+    },
+    {
+      "id": 16,
+      "importance": 0.3868,
+      "category": "Medium",
+      "features": ["public policy", "civil society", "private sector civil", "sector civil", "sector civil society", "poverty inequality", "government agency", "decision making", "promote transparency", "increase transparency", "effort combat", "participatory process", "vulnerable group", "information public", "monitoring evaluation", "public awareness", "human right", "citizen participation", "relevant information", "international financial", "datum open", "financial resource", "digital platform"]
+    },
+    {
+      "id": 17,
+      "importance": 0.1396,
+      "category": "Low",
+      "features": ["sustainable development", "international cooperation", "capacity building", "mean implementation", "public private", "civil society", "global challenge", "private sector", "development policy", "international organization", "public policy", "private investment", "development bank", "economic growth", "technology transfer", "state actor", "civil society organization", "society organization", "technical cooperation", "develop country", "international level", "combat poverty", "financial resource", "country include", "socio economic", "resilience reduce"]
+    }
+  ]
+}
